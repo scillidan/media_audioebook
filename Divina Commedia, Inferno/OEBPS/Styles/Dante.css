@@ -1,0 +1,143 @@
+@charset "utf-8";
+
+@page {
+    margin-top: 4pt;
+    margin-bottom: 2pt
+}
+
+@font-face {
+    font-family: "Cardinal";
+    font-weight: normal;
+    font-style: normal;
+    src: url(../Fonts/Cardinal.otf) format("opentype");
+}
+
+
+/* Default: remove link underline */
+a {
+    text-decoration: none;
+    color: black;
+}
+
+/* Default: indented p */
+p {
+    text-align: justify;
+    text-indent: 1em;
+}
+
+/* Default: opening p */
+p.opening {
+    text-indent: 0em;
+}
+/* Header */
+h1.fullTitle {
+    text-align: center;
+}
+
+
+/* Frontespizio */
+body.frontespizio {
+    text-align: center;
+}
+h1.frontespizioTitle {
+    font-family: Zapfino, "Cardinal", serif !important;
+    text-align: center;
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
+h2.frontespizioTitle {
+    font-family: Zapfino, "Cardinal", serif !important;
+    text-align: center;
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
+h3.frontespizioTitle {
+    font-family: Zapfino, "Cardinal", serif !important;
+    text-align: center;
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
+
+
+/* Introduzione */
+body.introduzione {
+    text-align: justify;
+}
+h2.introduzioneTitle {
+    font-family: Zapfino, "Cardinal", serif !important;
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+/* IntroduzioneBis */
+body.introduzioneBis {
+    text-align: justify;
+}
+h2.introduzioneBisTitle {
+    font-family: Zapfino, "Cardinal", serif !important;
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+/* Prefazione */
+body.prefazione {
+    text-align: justify;
+}
+h2.prefazioneTitle {
+    font-family: Zapfino, "Cardinal", serif !important;
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+h3.prefazioneTitle {
+    font-family: Zapfino, "Cardinal", serif !important;
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+/* Guida */
+body.guida {
+    text-align: justify;
+}
+h2.guidaTitle {
+    font-family: Zapfino, "Cardinal", serif !important;
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+/* Fine */
+body.fine {
+    text-align: justify;
+}
+h2.fineTitle {
+    font-family: Zapfino, "Cardinal", serif !important;
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+/* Colophon */
+body.colophon {
+    text-align: justify;
+}
+h2.colophonTitle {
+    font-family: Zapfino, "Cardinal", serif !important;
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+/* Ringraziamenti */
+body.ringraziamenti {
+    text-align: justify;
+}
+h2.ringraziamentiTitle {
+    font-family: Zapfino, "Cardinal", serif !important;
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 20px;
+}

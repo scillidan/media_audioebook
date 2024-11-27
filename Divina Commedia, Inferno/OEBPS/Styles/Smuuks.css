@@ -1,0 +1,328 @@
+@charset "utf-8";
+
+@page {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+@font-face {
+    font-family: "Cardinal";
+    font-weight: normal;
+    font-style: normal;
+    src: url(../Fonts/Cardinal.otf) format("opentype");
+}
+
+
+/* Default: remove link underline */
+a {
+    text-decoration: none;
+    color: black;
+}
+audio {
+    width: 100%;
+}
+body {
+    font-style: normal;
+    font-weight: normal;
+    margin: 0em;
+    orphans: 2 !important;
+    widows: 2 !important;
+}
+h1, h2, h3 {
+    text-align: center;
+}
+hr {
+    margin-left: 10%;
+    width: 80%;
+}
+p {
+    text-align: justify;
+}
+
+/* Header */
+h1.fullTitle {
+}
+
+/* Part */
+body.part {
+    text-align: center;
+}
+h2.partTitle {
+    font-family: Zapfino, Cardinal, serif !important;
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
+
+/* TOC */
+body.toc {
+    text-align: center;
+}
+h2.tocTitle {
+    font-family: Zapfino, Cardinal, serif !important;
+}
+div.tocPart {
+    margin-bottom: 3em;
+}
+h3.tocPartTitle {
+    font-family: Zapfino, Cardinal, serif !important;
+}
+p.tocChapter {
+    text-align: center;
+    text-indent: 0px;
+    margin-top: 0px;
+    margin-bottom: 5px; 
+} 
+							
+/* Chapter */
+body.chapter {
+}
+h2.chapterTitle {
+    font-family: Zapfino, Cardinal, serif !important;
+}
+p.navigationBar {
+    text-align: center;
+}
+hr.sepBar {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+p.backToTop {
+    text-align: left;
+    margin-bottom: 5px;
+}
+
+/* Introduction */
+h3.introductionTitle {
+}
+div.introduction {
+    margin-bottom: 1em;
+}
+p.introduction {
+    text-align: justify;
+    text-indent: 0.5em;
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+
+/* Lines  */
+h3.textTitle {
+}
+p.indentedGroupNumber {
+    text-align: left;
+    text-indent: 0em;
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+p.groupNumber {
+    text-align: left;
+    text-indent: 0.5em;
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+span.groupNumber {
+    font-family: monospace;
+    font-size: 75%;
+    text-align: right;
+    margin-right: 0px;
+}
+div.groupLines {
+    margin-bottom: 1em;
+    page-break-inside: avoid;
+} 
+p.indentedLine {
+    text-align: left;
+    text-indent: 0px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+p.line {
+    text-align: left;
+    text-indent: 0.5em;
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+span.line {
+    font-style: italic;
+}
+span.lineNumber {
+    font-family: monospace;
+    font-size: 75%;
+    text-align: right;
+    margin-right: 0px;
+}
+span.noteLink {
+    text-align: left;
+}
+
+/* Conclusion */
+h3.conclusionTitle {
+}
+div.conclusion {
+    margin-bottom: 1em;
+}
+p.conclusion {
+    text-align: justify;
+    text-indent: 0.5em;
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+
+/* Notes */
+h3.noteTitle {
+}
+hr.noteSepBar {
+}
+div.outerNoteText {
+    page-break-before: always;
+    text-align: left;
+    text-indent: 0px;
+}
+div.noteText {
+    text-align: left;
+    text-indent: 0px;
+}
+p.note {
+    text-align: left;
+    margin-bottom: 5px;
+}
+span.noteLineNumber {
+    font-style: normal;
+    text-align: left;
+}
+p.noteRefLines {
+    font-style: italic;
+    text-align: left;
+    margin-bottom: 5px;
+}
+span.noteRefLine {
+}
+p.rawNoteText {
+    text-align: justify;
+    text-indent: 0px;
+    margin-bottom: 5px;
+}
+p.noteBackLink {
+    text-align: left;
+    margin-bottom: 5px;
+}
+p.longNoteLink {
+    text-align: left;
+    margin-bottom: 5px;
+}
+
+/* Audio */
+div.audio {
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    page-break-inside: avoid;
+    margin-left: 10%;
+    width: 80%;
+}
+
+p.audioError {
+    text-align: center;
+    text-indent: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+p.audioCaption {
+    text-align: center;
+    text-indent: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+/* Images */
+div.imag {
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    page-break-inside: avoid;
+}
+img.imag {
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+p.imagCaption {
+    text-align: center;
+    text-indent: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+div.imagThumb {
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    page-break-inside: avoid;
+}
+img.imagThumb {
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+p.imagThumbCaption {
+    text-align: center;
+    text-indent: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+div.imagLink {
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    page-break-inside: avoid;
+}
+p.imagLinkCaption {
+    text-align: center;
+    text-indent: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+body.imagPage {
+    text-align: center
+}
+div.imagPage {
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    page-break-inside: avoid;
+    display: inline-block;
+}
+img.imagPage {
+    height: 90%;
+    margin-bottom: 5px;
+    margin-top: 0px;
+}
+p.imagPageCaption {
+    text-align: center;
+    text-indent: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 0.85em;
+}
+p.imagPageBackLink {
+    text-align: center;
+    text-indent: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 0.85em;
+}
+
+/* MO highlight */
+.-epub-media-overlay-active {
+    background-color: #FFFF00;
+}
+.rbActiveFragment {
+    background-color: #FFFF99;
+    -webkit-transition: background 0.25s;
+}
+.rbPausedFragment {
+    background-color: #99FF99;
+    -webkit-transition: background 0.25s;
+}
+
