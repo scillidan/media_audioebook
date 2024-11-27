@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="pubID" xml:lang="en" prefix="rendition: http://www.idpf.org/vocab/rendition/#">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+
+    <dc:identifier id="pubID">urn:uuid:08722688-8f6f-4175-b41c-c86db4bca9a9</dc:identifier>
+    <meta refines="#pubID" property="identifier-type" scheme="xsd:string">uuid</meta>
+
+    <dc:title id="title">Tales from Shakespeare</dc:title>
+    
+    <dc:creator id="aut">Charles and Mary Lamb</dc:creator>
+    <meta refines="#aut" property="role" scheme="marc:relators">aut</meta>
+    <meta refines="#aut" property="file-as">Lamb, Charles and Mary</meta>
+
+    <dc:contributor id="nrt">Karen Savage</dc:contributor>
+    <meta refines="#nrt" property="role" scheme="marc:relators">nrt</meta>
+    <meta refines="#nrt" property="file-as">Savage, Karen</meta>
+    
+    <dc:contributor id="bkp">ReadBeyond</dc:contributor>
+    <meta refines="#bkp" property="role" scheme="marc:relators">bkp</meta>
+    <meta refines="#bkp" property="file-as">ReadBeyond</meta>
+
+    <dc:language>en</dc:language>
+    <dc:date>2015-12-03</dc:date>
+
+    <dc:publisher>ReadBeyond</dc:publisher>
+    <dc:rights>CC BY-NC-SA 3.0</dc:rights>
+    <dc:subject>William Shakespeare</dc:subject>
+    <dc:subject>Tales</dc:subject>
+    <dc:subject>Charles Lamb</dc:subject>
+    <dc:subject>Mary Lamb</dc:subject>
+    <dc:subject>Children</dc:subject>
+    <dc:subject>Comedy</dc:subject>
+    <dc:subject>Tragedy</dc:subject>
+    <dc:subject>The Tempest</dc:subject>
+    <dc:subject>A Midsummer Night's Dream</dc:subject>
+    <dc:subject>The Winter's Tale</dc:subject>
+    <dc:subject>Much Ado About Nothing</dc:subject>
+    <dc:subject>As You Like It</dc:subject>
+    <dc:subject>Two Gentlemen of Verona</dc:subject>
+    <dc:subject>The Merchant of Venice</dc:subject>
+    <dc:subject>Cymbeline</dc:subject>
+    <dc:subject>King Lear</dc:subject>
+    <dc:subject>Macbeth</dc:subject>
+    <dc:subject>All's Well That Ends Well</dc:subject>
+    <dc:subject>The Taming of the Shrew</dc:subject>
+    <dc:subject>The Comedy of Errors</dc:subject>
+    <dc:subject>Measure for Measure</dc:subject>
+    <dc:subject>Twelfth Night</dc:subject>
+    <dc:subject>Timon of Athens</dc:subject>
+    <dc:subject>Romeo and Juliet</dc:subject>
+    <dc:subject>Hamlet, Prince of Denmark</dc:subject>
+    <dc:subject>Othello</dc:subject>
+    <dc:subject>Pericles, Prince of Tyre</dc:subject>
+
+    <dc:description>Tales from Shakespeare also known as All the Tales from Shakespeare is an English children's book written by Charles Lamb with his sister Mary Lamb in 1807. The book reduced the archaic English and complicated storyline of Shakespeare to a simple level that children could read and comprehend. However, as noted in the author's Preface, "his words are used whenever it seemed possible to bring them in; and in whatever has been added to give them the regular form of a connected story, diligent care has been taken to select such words as might least interrupt the effect of the beautiful English tongue in which he wrote: therefore, words introduced into our language since his time have been as far as possible avoided." Mary Lamb was responsible for the comedies, while Charles wrote the tragedies; they wrote the preface between them. Next to his essays, this book is his best-known work; yet its success is attributable more to Mary, whose name did not appear on the title page of the first few editions, than to Charles. (From Wikipedia.)</dc:description>
+    
+    <dc:type>Book</dc:type>
+    <meta property="dcterms:modified">2015-12-03T00:00:01Z</meta>
+    <meta property="rendition:layout">reflowable</meta>
+    <meta name="cover" content="cover.jpg" />
+    
+    <!--MEDIA OVERLAY METADATA-->
+    <meta property="media:duration" refines="#s001">00:00:18.47</meta>
+    <meta property="media:duration" refines="#s002">00:04:18.19</meta>
+    <meta property="media:duration" refines="#s003">00:20:51.32</meta>
+    <meta property="media:duration" refines="#s004">00:21:07.57</meta>
+    <meta property="media:duration" refines="#s005">00:20:43.30</meta>
+    <meta property="media:duration" refines="#s006">00:23:04.52</meta>
+    <meta property="media:duration" refines="#s007">00:29:06.36</meta>
+    <meta property="media:duration" refines="#s008">00:22:26.30</meta>
+    <meta property="media:duration" refines="#s009">00:24:09.59</meta>
+    <meta property="media:duration" refines="#s010">00:22:57.44</meta>
+    <meta property="media:duration" refines="#s011">00:26:54.71</meta>
+    <meta property="media:duration" refines="#s012">00:20:05.11</meta>
+    <meta property="media:duration" refines="#s013">00:23:26.33</meta>
+    <meta property="media:duration" refines="#s014">00:19:32.56</meta>
+    <meta property="media:duration" refines="#s015">00:24:33.23</meta>
+    <meta property="media:duration" refines="#s016">00:28:55.99</meta>
+    <meta property="media:duration" refines="#s017">00:24:42.06</meta>
+    <meta property="media:duration" refines="#s018">00:24:39.81</meta>
+    <meta property="media:duration" refines="#s019">00:32:37.43</meta>
+    <meta property="media:duration" refines="#s020">00:28:45.44</meta>
+    <meta property="media:duration" refines="#s021">00:24:50.52</meta>
+    <meta property="media:duration" refines="#s022">00:32:44.20</meta>
+    <meta property="media:duration">08:20:50.45</meta>
+    <meta property="media:narrator">Karen Savage</meta>
+    <meta property="media:active-class">-epub-media-overlay-active</meta>
+
+</metadata>
+<manifest>
+    <item id="toc.ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="toc" href="Text/toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    
+    <item id="cover" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="colophon" href="Text/colophon.xhtml" media-type="application/xhtml+xml"/>
+    <item id="playlist" href="Text/playlist.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c001" href="Styles/style.css" media-type="text/css"/>
+
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg" properties="cover-image" />
+    <item id="logofb.png" href="Images/logofb.png" media-type="image/png" />
+    <item id="logotw.png" href="Images/logotw.png" media-type="image/png" />
+    <item id="logowww.png" href="Images/logowww.png" media-type="image/png" />
+
+    <item id="p001" href="Text/p001.xhtml" media-type="application/xhtml+xml" media-overlay="s001"/>
+    <item id="s001" href="Text/p001.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m001" href="Audio/01_cover.mp3" media-type="audio/mpeg"/>
+
+    <item id="p002" href="Text/p002.xhtml" media-type="application/xhtml+xml" media-overlay="s002"/>
+    <item id="s002" href="Text/p002.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m002" href="Audio/02_preface.mp3" media-type="audio/mpeg"/>
+
+    <item id="p003" href="Text/p003.xhtml" media-type="application/xhtml+xml" media-overlay="s003"/>
+    <item id="s003" href="Text/p003.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m003" href="Audio/03_the_tempest.mp3" media-type="audio/mpeg"/>
+
+    <item id="p004" href="Text/p004.xhtml" media-type="application/xhtml+xml" media-overlay="s004"/>
+    <item id="s004" href="Text/p004.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m004" href="Audio/04_a_midsummer_night_s_dream.mp3" media-type="audio/mpeg"/>
+
+    <item id="p005" href="Text/p005.xhtml" media-type="application/xhtml+xml" media-overlay="s005"/>
+    <item id="s005" href="Text/p005.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m005" href="Audio/05_winter_s_tale.mp3" media-type="audio/mpeg"/>
+
+    <item id="p006" href="Text/p006.xhtml" media-type="application/xhtml+xml" media-overlay="s006"/>
+    <item id="s006" href="Text/p006.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m006" href="Audio/06_much_ado_about_nothing.mp3" media-type="audio/mpeg"/>
+
+    <item id="p007" href="Text/p007.xhtml" media-type="application/xhtml+xml" media-overlay="s007"/>
+    <item id="s007" href="Text/p007.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m007" href="Audio/07_as_you_like_it.mp3" media-type="audio/mpeg"/>
+
+    <item id="p008" href="Text/p008.xhtml" media-type="application/xhtml+xml" media-overlay="s008"/>
+    <item id="s008" href="Text/p008.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m008" href="Audio/08_two_gentleman_of_verona.mp3" media-type="audio/mpeg"/>
+
+    <item id="p009" href="Text/p009.xhtml" media-type="application/xhtml+xml" media-overlay="s009"/>
+    <item id="s009" href="Text/p009.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m009" href="Audio/09_merchant_of_venice.mp3" media-type="audio/mpeg"/>
+
+    <item id="p010" href="Text/p010.xhtml" media-type="application/xhtml+xml" media-overlay="s010"/>
+    <item id="s010" href="Text/p010.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m010" href="Audio/10_cymbeline.mp3" media-type="audio/mpeg"/>
+
+    <item id="p011" href="Text/p011.xhtml" media-type="application/xhtml+xml" media-overlay="s011"/>
+    <item id="s011" href="Text/p011.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m011" href="Audio/11_king_lear.mp3" media-type="audio/mpeg"/>
+
+    <item id="p012" href="Text/p012.xhtml" media-type="application/xhtml+xml" media-overlay="s012"/>
+    <item id="s012" href="Text/p012.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m012" href="Audio/12_macbeth.mp3" media-type="audio/mpeg"/>
+
+    <item id="p013" href="Text/p013.xhtml" media-type="application/xhtml+xml" media-overlay="s013"/>
+    <item id="s013" href="Text/p013.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m013" href="Audio/13_all_s_well_that_ends_well.mp3" media-type="audio/mpeg"/>
+
+    <item id="p014" href="Text/p014.xhtml" media-type="application/xhtml+xml" media-overlay="s014"/>
+    <item id="s014" href="Text/p014.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m014" href="Audio/14_taming_of_the_shrew.mp3" media-type="audio/mpeg"/>
+
+    <item id="p015" href="Text/p015.xhtml" media-type="application/xhtml+xml" media-overlay="s015"/>
+    <item id="s015" href="Text/p015.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m015" href="Audio/15_comedy_of_errors.mp3" media-type="audio/mpeg"/>
+
+    <item id="p016" href="Text/p016.xhtml" media-type="application/xhtml+xml" media-overlay="s016"/>
+    <item id="s016" href="Text/p016.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m016" href="Audio/16_measure_for_measure.mp3" media-type="audio/mpeg"/>
+
+    <item id="p017" href="Text/p017.xhtml" media-type="application/xhtml+xml" media-overlay="s017"/>
+    <item id="s017" href="Text/p017.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m017" href="Audio/17_twelfth_night_or_what_you_will.mp3" media-type="audio/mpeg"/>
+
+    <item id="p018" href="Text/p018.xhtml" media-type="application/xhtml+xml" media-overlay="s018"/>
+    <item id="s018" href="Text/p018.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m018" href="Audio/18_timon_of_athens.mp3" media-type="audio/mpeg"/>
+
+    <item id="p019" href="Text/p019.xhtml" media-type="application/xhtml+xml" media-overlay="s019"/>
+    <item id="s019" href="Text/p019.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m019" href="Audio/19_romeo_and_juliet.mp3" media-type="audio/mpeg"/>
+
+    <item id="p020" href="Text/p020.xhtml" media-type="application/xhtml+xml" media-overlay="s020"/>
+    <item id="s020" href="Text/p020.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m020" href="Audio/20_hamlet_prince_of_denmark.mp3" media-type="audio/mpeg"/>
+
+    <item id="p021" href="Text/p021.xhtml" media-type="application/xhtml+xml" media-overlay="s021"/>
+    <item id="s021" href="Text/p021.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m021" href="Audio/21_othello.mp3" media-type="audio/mpeg"/>
+
+    <item id="p022" href="Text/p022.xhtml" media-type="application/xhtml+xml" media-overlay="s022"/>
+    <item id="s022" href="Text/p022.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m022" href="Audio/22_pericles_prince_of_tyre.mp3" media-type="audio/mpeg"/>
+
+    <item id="p023" href="Text/p023.xhtml" media-type="application/xhtml+xml"/>
+</manifest>
+<spine page-progression-direction="ltr" toc="toc.ncx">
+    <itemref idref="cover" linear="yes"/>
+    <itemref idref="colophon" linear="yes"/>
+    <itemref idref="p001" linear="yes"/>
+    <itemref idref="p002" linear="yes"/>
+    <itemref idref="p003" linear="yes"/>
+    <itemref idref="p004" linear="yes"/>
+    <itemref idref="p005" linear="yes"/>
+    <itemref idref="p006" linear="yes"/>
+    <itemref idref="p007" linear="yes"/>
+    <itemref idref="p008" linear="yes"/>
+    <itemref idref="p009" linear="yes"/>
+    <itemref idref="p010" linear="yes"/>
+    <itemref idref="p011" linear="yes"/>
+    <itemref idref="p012" linear="yes"/>
+    <itemref idref="p013" linear="yes"/>
+    <itemref idref="p014" linear="yes"/>
+    <itemref idref="p015" linear="yes"/>
+    <itemref idref="p016" linear="yes"/>
+    <itemref idref="p017" linear="yes"/>
+    <itemref idref="p018" linear="yes"/>
+    <itemref idref="p019" linear="yes"/>
+    <itemref idref="p020" linear="yes"/>
+    <itemref idref="p021" linear="yes"/>
+    <itemref idref="p022" linear="yes"/>
+    <itemref idref="p023" linear="yes"/>
+    <itemref idref="playlist" linear="yes"/>
+</spine>
+<guide>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml" />
+    <reference type="toc" title="Contents" href="Text/toc.xhtml" />
+    <reference type="text" title="Tales from Shakespeare" href="Text/p001.xhtml" />
+</guide>
+</package>
+
