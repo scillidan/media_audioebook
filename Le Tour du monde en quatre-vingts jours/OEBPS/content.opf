@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="pubID" xml:lang="en" prefix="rendition: http://www.idpf.org/vocab/rendition/#">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+
+    <dc:identifier id="pubID">urn:uuid:1c8af696-af56-4297-802b-a839b255f0a1</dc:identifier>
+    <meta refines="#pubID" property="identifier-type" scheme="xsd:string">uuid</meta>
+
+    <dc:title id="title">Le Tour du monde en quatre-vingts jours</dc:title>
+    
+    <dc:creator id="aut">Jules Verne</dc:creator>
+    <meta refines="#aut" property="role" scheme="marc:relators">aut</meta>
+    <meta refines="#aut" property="file-as">Verne, Jules</meta>
+
+    <dc:contributor id="nrt">Damien Genevois</dc:contributor>
+    <meta refines="#nrt" property="role" scheme="marc:relators">nrt</meta>
+    <meta refines="#nrt" property="file-as">Genevois, Damien</meta>
+    
+    <dc:contributor id="bkp">ReadBeyond</dc:contributor>
+    <meta refines="#bkp" property="role" scheme="marc:relators">bkp</meta>
+    <meta refines="#bkp" property="file-as">ReadBeyond</meta>
+
+    <dc:language>fr</dc:language>
+    <dc:date>2015-12-04</dc:date>
+
+    <dc:publisher>ReadBeyond</dc:publisher>
+    <dc:rights>CC BY-NC-SA 3.0</dc:rights>
+    <dc:subject>Verne</dc:subject>
+    <dc:subject>tour du monde</dc:subject>
+    <dc:subject>French Literature</dc:subject>
+    <dc:subject>Phileas Fogg</dc:subject>
+    <dc:subject>Passepartout</dc:subject>
+    <dc:subject>Fix</dc:subject>
+    <dc:subject>London</dc:subject>
+    <dc:subject>80 days</dc:subject>
+    <dc:subject>quatre-vingts jours</dc:subject>
+    <dc:subject>bet</dc:subject>
+    <dc:subject>adventure</dc:subject>
+    <dc:subject>paradox</dc:subject>
+    <dc:subject>humor</dc:subject>
+    <dc:subject>1872</dc:subject>
+    <dc:subject>Reform Club</dc:subject>
+
+    <dc:description>L’histoire débute à Londres, le 2 octobre 1872. Comme tous les soirs, Phileas Fogg se rend au Reform Club. Et voilà qu’en feuilletant le journal, il apprend qu’une nouvelle ligne de chemin de fer indienne permet désormais de faire le tour du monde en train. Il prend les paris avec ses collègues du Reform Club : 20.000 livres qu’il réussira à achever ce tour du monde dans les quatre-vingts jours…</dc:description>
+    
+    <dc:type>Book</dc:type>
+    <meta property="dcterms:modified">2015-12-04T00:00:01Z</meta>
+    <meta property="rendition:layout">reflowable</meta>
+    <meta name="cover" content="cover.jpg" />
+    
+    <!--MEDIA OVERLAY METADATA-->
+    <meta property="media:duration" refines="#s001">00:10:11.37</meta>
+    <meta property="media:duration" refines="#s002">00:07:39.31</meta>
+    <meta property="media:duration" refines="#s003">00:14:00.23</meta>
+    <meta property="media:duration" refines="#s004">00:06:25.58</meta>
+    <meta property="media:duration" refines="#s005">00:06:49.90</meta>
+    <meta property="media:duration" refines="#s006">00:09:20.17</meta>
+    <meta property="media:duration" refines="#s007">00:05:14.67</meta>
+    <meta property="media:duration" refines="#s008">00:06:28.91</meta>
+    <meta property="media:duration" refines="#s009">00:10:53.35</meta>
+    <meta property="media:duration" refines="#s010">00:10:30.57</meta>
+    <meta property="media:duration" refines="#s011">00:16:13.35</meta>
+    <meta property="media:duration" refines="#s012">00:13:17.74</meta>
+    <meta property="media:duration" refines="#s013">00:13:05.19</meta>
+    <meta property="media:duration" refines="#s014">00:13:00.59</meta>
+    <meta property="media:duration" refines="#s015">00:12:14.51</meta>
+    <meta property="media:duration" refines="#s016">00:10:03.95</meta>
+    <meta property="media:duration" refines="#s017">00:12:12.20</meta>
+    <meta property="media:duration" refines="#s018">00:08:56.11</meta>
+    <meta property="media:duration" refines="#s019">00:13:57.42</meta>
+    <meta property="media:duration" refines="#s020">00:11:44.30</meta>
+    <meta property="media:duration" refines="#s021">00:15:02.44</meta>
+    <meta property="media:duration" refines="#s022">00:12:22.68</meta>
+    <meta property="media:duration" refines="#s023">00:11:06.67</meta>
+    <meta property="media:duration" refines="#s024">00:11:23.55</meta>
+    <meta property="media:duration" refines="#s025">00:12:05.80</meta>
+    <meta property="media:duration" refines="#s026">00:10:19.31</meta>
+    <meta property="media:duration" refines="#s027">00:12:10.67</meta>
+    <meta property="media:duration" refines="#s028">00:15:20.87</meta>
+    <meta property="media:duration" refines="#s029">00:13:43.07</meta>
+    <meta property="media:duration" refines="#s030">00:14:14.30</meta>
+    <meta property="media:duration" refines="#s031">00:11:02.06</meta>
+    <meta property="media:duration" refines="#s032">00:07:28.04</meta>
+    <meta property="media:duration" refines="#s033">00:14:55.79</meta>
+    <meta property="media:duration" refines="#s034">00:06:27.37</meta>
+    <meta property="media:duration" refines="#s035">00:09:22.22</meta>
+    <meta property="media:duration" refines="#s036">00:06:39.15</meta>
+    <meta property="media:duration" refines="#s037">00:06:35.82</meta>
+    <meta property="media:duration">06:42:39.23</meta>
+    <meta property="media:narrator">Damien Genevois</meta>
+    <meta property="media:active-class">-epub-media-overlay-active</meta>
+
+</metadata>
+<manifest>
+    <item id="toc.ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="toc" href="Text/toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    
+    <item id="cover" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="colophon" href="Text/colophon.xhtml" media-type="application/xhtml+xml"/>
+    <item id="playlist" href="Text/playlist.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c001" href="Styles/style.css" media-type="text/css"/>
+
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg" properties="cover-image" />
+    <item id="logofb.png" href="Images/logofb.png" media-type="image/png" />
+    <item id="logotw.png" href="Images/logotw.png" media-type="image/png" />
+    <item id="logowww.png" href="Images/logowww.png" media-type="image/png" />
+
+    <item id="p000" href="Text/p000.xhtml" media-type="application/xhtml+xml"/>
+
+    <item id="p001" href="Text/p001.xhtml" media-type="application/xhtml+xml" media-overlay="s001"/>
+    <item id="s001" href="Text/p001.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m001" href="Audio/01.mp3" media-type="audio/mpeg"/>
+
+    <item id="p002" href="Text/p002.xhtml" media-type="application/xhtml+xml" media-overlay="s002"/>
+    <item id="s002" href="Text/p002.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m002" href="Audio/02.mp3" media-type="audio/mpeg"/>
+
+    <item id="p003" href="Text/p003.xhtml" media-type="application/xhtml+xml" media-overlay="s003"/>
+    <item id="s003" href="Text/p003.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m003" href="Audio/03.mp3" media-type="audio/mpeg"/>
+
+    <item id="p004" href="Text/p004.xhtml" media-type="application/xhtml+xml" media-overlay="s004"/>
+    <item id="s004" href="Text/p004.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m004" href="Audio/04.mp3" media-type="audio/mpeg"/>
+
+    <item id="p005" href="Text/p005.xhtml" media-type="application/xhtml+xml" media-overlay="s005"/>
+    <item id="s005" href="Text/p005.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m005" href="Audio/05.mp3" media-type="audio/mpeg"/>
+
+    <item id="p006" href="Text/p006.xhtml" media-type="application/xhtml+xml" media-overlay="s006"/>
+    <item id="s006" href="Text/p006.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m006" href="Audio/06.mp3" media-type="audio/mpeg"/>
+
+    <item id="p007" href="Text/p007.xhtml" media-type="application/xhtml+xml" media-overlay="s007"/>
+    <item id="s007" href="Text/p007.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m007" href="Audio/07.mp3" media-type="audio/mpeg"/>
+
+    <item id="p008" href="Text/p008.xhtml" media-type="application/xhtml+xml" media-overlay="s008"/>
+    <item id="s008" href="Text/p008.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m008" href="Audio/08.mp3" media-type="audio/mpeg"/>
+
+    <item id="p009" href="Text/p009.xhtml" media-type="application/xhtml+xml" media-overlay="s009"/>
+    <item id="s009" href="Text/p009.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m009" href="Audio/09.mp3" media-type="audio/mpeg"/>
+
+    <item id="p010" href="Text/p010.xhtml" media-type="application/xhtml+xml" media-overlay="s010"/>
+    <item id="s010" href="Text/p010.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m010" href="Audio/10.mp3" media-type="audio/mpeg"/>
+
+    <item id="p011" href="Text/p011.xhtml" media-type="application/xhtml+xml" media-overlay="s011"/>
+    <item id="s011" href="Text/p011.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m011" href="Audio/11.mp3" media-type="audio/mpeg"/>
+
+    <item id="p012" href="Text/p012.xhtml" media-type="application/xhtml+xml" media-overlay="s012"/>
+    <item id="s012" href="Text/p012.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m012" href="Audio/12.mp3" media-type="audio/mpeg"/>
+
+    <item id="p013" href="Text/p013.xhtml" media-type="application/xhtml+xml" media-overlay="s013"/>
+    <item id="s013" href="Text/p013.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m013" href="Audio/13.mp3" media-type="audio/mpeg"/>
+
+    <item id="p014" href="Text/p014.xhtml" media-type="application/xhtml+xml" media-overlay="s014"/>
+    <item id="s014" href="Text/p014.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m014" href="Audio/14.mp3" media-type="audio/mpeg"/>
+
+    <item id="p015" href="Text/p015.xhtml" media-type="application/xhtml+xml" media-overlay="s015"/>
+    <item id="s015" href="Text/p015.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m015" href="Audio/15.mp3" media-type="audio/mpeg"/>
+
+    <item id="p016" href="Text/p016.xhtml" media-type="application/xhtml+xml" media-overlay="s016"/>
+    <item id="s016" href="Text/p016.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m016" href="Audio/16.mp3" media-type="audio/mpeg"/>
+
+    <item id="p017" href="Text/p017.xhtml" media-type="application/xhtml+xml" media-overlay="s017"/>
+    <item id="s017" href="Text/p017.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m017" href="Audio/17.mp3" media-type="audio/mpeg"/>
+
+    <item id="p018" href="Text/p018.xhtml" media-type="application/xhtml+xml" media-overlay="s018"/>
+    <item id="s018" href="Text/p018.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m018" href="Audio/18.mp3" media-type="audio/mpeg"/>
+
+    <item id="p019" href="Text/p019.xhtml" media-type="application/xhtml+xml" media-overlay="s019"/>
+    <item id="s019" href="Text/p019.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m019" href="Audio/19.mp3" media-type="audio/mpeg"/>
+
+    <item id="p020" href="Text/p020.xhtml" media-type="application/xhtml+xml" media-overlay="s020"/>
+    <item id="s020" href="Text/p020.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m020" href="Audio/20.mp3" media-type="audio/mpeg"/>
+
+    <item id="p021" href="Text/p021.xhtml" media-type="application/xhtml+xml" media-overlay="s021"/>
+    <item id="s021" href="Text/p021.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m021" href="Audio/21.mp3" media-type="audio/mpeg"/>
+
+    <item id="p022" href="Text/p022.xhtml" media-type="application/xhtml+xml" media-overlay="s022"/>
+    <item id="s022" href="Text/p022.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m022" href="Audio/22.mp3" media-type="audio/mpeg"/>
+
+    <item id="p023" href="Text/p023.xhtml" media-type="application/xhtml+xml" media-overlay="s023"/>
+    <item id="s023" href="Text/p023.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m023" href="Audio/23.mp3" media-type="audio/mpeg"/>
+
+    <item id="p024" href="Text/p024.xhtml" media-type="application/xhtml+xml" media-overlay="s024"/>
+    <item id="s024" href="Text/p024.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m024" href="Audio/24.mp3" media-type="audio/mpeg"/>
+
+    <item id="p025" href="Text/p025.xhtml" media-type="application/xhtml+xml" media-overlay="s025"/>
+    <item id="s025" href="Text/p025.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m025" href="Audio/25.mp3" media-type="audio/mpeg"/>
+
+    <item id="p026" href="Text/p026.xhtml" media-type="application/xhtml+xml" media-overlay="s026"/>
+    <item id="s026" href="Text/p026.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m026" href="Audio/26.mp3" media-type="audio/mpeg"/>
+
+    <item id="p027" href="Text/p027.xhtml" media-type="application/xhtml+xml" media-overlay="s027"/>
+    <item id="s027" href="Text/p027.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m027" href="Audio/27.mp3" media-type="audio/mpeg"/>
+
+    <item id="p028" href="Text/p028.xhtml" media-type="application/xhtml+xml" media-overlay="s028"/>
+    <item id="s028" href="Text/p028.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m028" href="Audio/28.mp3" media-type="audio/mpeg"/>
+
+    <item id="p029" href="Text/p029.xhtml" media-type="application/xhtml+xml" media-overlay="s029"/>
+    <item id="s029" href="Text/p029.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m029" href="Audio/29.mp3" media-type="audio/mpeg"/>
+
+    <item id="p030" href="Text/p030.xhtml" media-type="application/xhtml+xml" media-overlay="s030"/>
+    <item id="s030" href="Text/p030.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m030" href="Audio/30.mp3" media-type="audio/mpeg"/>
+
+    <item id="p031" href="Text/p031.xhtml" media-type="application/xhtml+xml" media-overlay="s031"/>
+    <item id="s031" href="Text/p031.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m031" href="Audio/31.mp3" media-type="audio/mpeg"/>
+
+    <item id="p032" href="Text/p032.xhtml" media-type="application/xhtml+xml" media-overlay="s032"/>
+    <item id="s032" href="Text/p032.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m032" href="Audio/32.mp3" media-type="audio/mpeg"/>
+
+    <item id="p033" href="Text/p033.xhtml" media-type="application/xhtml+xml" media-overlay="s033"/>
+    <item id="s033" href="Text/p033.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m033" href="Audio/33.mp3" media-type="audio/mpeg"/>
+
+    <item id="p034" href="Text/p034.xhtml" media-type="application/xhtml+xml" media-overlay="s034"/>
+    <item id="s034" href="Text/p034.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m034" href="Audio/34.mp3" media-type="audio/mpeg"/>
+
+    <item id="p035" href="Text/p035.xhtml" media-type="application/xhtml+xml" media-overlay="s035"/>
+    <item id="s035" href="Text/p035.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m035" href="Audio/35.mp3" media-type="audio/mpeg"/>
+
+    <item id="p036" href="Text/p036.xhtml" media-type="application/xhtml+xml" media-overlay="s036"/>
+    <item id="s036" href="Text/p036.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m036" href="Audio/36.mp3" media-type="audio/mpeg"/>
+
+    <item id="p037" href="Text/p037.xhtml" media-type="application/xhtml+xml" media-overlay="s037"/>
+    <item id="s037" href="Text/p037.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m037" href="Audio/37.mp3" media-type="audio/mpeg"/>
+
+    <item id="p038" href="Text/p038.xhtml" media-type="application/xhtml+xml"/>
+</manifest>
+<spine page-progression-direction="ltr" toc="toc.ncx">
+    <itemref idref="cover" linear="yes"/>
+    <itemref idref="colophon" linear="yes"/>
+    <itemref idref="p000" linear="yes"/>
+    <itemref idref="p001" linear="yes"/>
+    <itemref idref="p002" linear="yes"/>
+    <itemref idref="p003" linear="yes"/>
+    <itemref idref="p004" linear="yes"/>
+    <itemref idref="p005" linear="yes"/>
+    <itemref idref="p006" linear="yes"/>
+    <itemref idref="p007" linear="yes"/>
+    <itemref idref="p008" linear="yes"/>
+    <itemref idref="p009" linear="yes"/>
+    <itemref idref="p010" linear="yes"/>
+    <itemref idref="p011" linear="yes"/>
+    <itemref idref="p012" linear="yes"/>
+    <itemref idref="p013" linear="yes"/>
+    <itemref idref="p014" linear="yes"/>
+    <itemref idref="p015" linear="yes"/>
+    <itemref idref="p016" linear="yes"/>
+    <itemref idref="p017" linear="yes"/>
+    <itemref idref="p018" linear="yes"/>
+    <itemref idref="p019" linear="yes"/>
+    <itemref idref="p020" linear="yes"/>
+    <itemref idref="p021" linear="yes"/>
+    <itemref idref="p022" linear="yes"/>
+    <itemref idref="p023" linear="yes"/>
+    <itemref idref="p024" linear="yes"/>
+    <itemref idref="p025" linear="yes"/>
+    <itemref idref="p026" linear="yes"/>
+    <itemref idref="p027" linear="yes"/>
+    <itemref idref="p028" linear="yes"/>
+    <itemref idref="p029" linear="yes"/>
+    <itemref idref="p030" linear="yes"/>
+    <itemref idref="p031" linear="yes"/>
+    <itemref idref="p032" linear="yes"/>
+    <itemref idref="p033" linear="yes"/>
+    <itemref idref="p034" linear="yes"/>
+    <itemref idref="p035" linear="yes"/>
+    <itemref idref="p036" linear="yes"/>
+    <itemref idref="p037" linear="yes"/>
+    <itemref idref="p038" linear="yes"/>
+    <itemref idref="playlist" linear="yes"/>
+</spine>
+<guide>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml" />
+    <reference type="toc" title="Contents" href="Text/toc.xhtml" />
+    <reference type="text" title="Le Tour du monde en quatre-vingts jours" href="Text/p000.xhtml" />
+</guide>
+</package>
+
