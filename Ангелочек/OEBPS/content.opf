@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="pubID" xml:lang="ru" prefix="rendition: http://www.idpf.org/vocab/rendition/#">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+
+    <dc:identifier id="pubID">urn:uuid:a4cc3ccd-1a4b-4dc6-802b-88e723adb942</dc:identifier>
+    <meta refines="#pubID" property="identifier-type" scheme="xsd:string">uuid</meta>
+
+    <dc:title id="title">Ангелочек</dc:title>
+    
+    <dc:creator id="aut">Леонид Андреев</dc:creator>
+    <meta refines="#aut" property="role" scheme="marc:relators">aut</meta>
+    <meta refines="#aut" property="file-as">Андреев, Леонид</meta>
+    
+    <dc:contributor id="nrt">"Create" LibriVox user</dc:contributor>
+    <meta refines="#nrt" property="role" scheme="marc:relators">nrt</meta>
+    <meta refines="#nrt" property="file-as">"Create" LibriVox user</meta>
+    
+    <dc:contributor id="bkp">ReadBeyond</dc:contributor>
+    <meta refines="#bkp" property="role" scheme="marc:relators">bkp</meta>
+    <meta refines="#bkp" property="file-as">ReadBeyond</meta>
+
+    <dc:language>ru</dc:language>
+    <dc:date>2015-12-04</dc:date>
+
+    <dc:publisher>ReadBeyond</dc:publisher>
+    <dc:rights>CC BY-NC-SA 3.0</dc:rights>
+    <dc:subject>Andreyev</dc:subject>
+    <dc:subject>Angel</dc:subject>
+    <dc:subject>Christmas</dc:subject>
+    <dc:subject>Love</dc:subject>
+    <dc:subject>Russia</dc:subject>
+    <dc:subject>Russian</dc:subject>
+    <dc:subject>Audio-eBook</dc:subject>
+
+    <dc:description>Angelochek, by Leonid Nikolayevich Andreyev, a traditional Russian short story for Christmas time. Audio from LibriVox, text from Lib.ru, see the colophon page for details.</dc:description>
+    
+    <dc:type>Book</dc:type>
+    <meta property="dcterms:modified">2015-12-04T00:00:01Z</meta>
+    <meta property="rendition:layout">reflowable</meta>
+    <meta name="cover" content="cover.jpg" />
+    
+    <!--MEDIA OVERLAY METADATA-->
+    <meta property="media:duration" refines="#s001">00:40:53.44</meta>
+    <meta property="media:duration">00:40:53.44</meta>
+    <meta property="media:narrator">"Create" LibriVox user</meta>
+    <meta property="media:active-class">-epub-media-overlay-active</meta>
+
+</metadata>
+<manifest>
+    <item id="toc.ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="toc" href="Text/toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    
+    <item id="cover" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="colophon" href="Text/colophon.xhtml" media-type="application/xhtml+xml"/>
+    <item id="playlist" href="Text/playlist.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c001" href="Styles/style.css" media-type="text/css"/>
+
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg" properties="cover-image" />
+    <item id="logofb.png" href="Images/logofb.png" media-type="image/png" />
+    <item id="logotw.png" href="Images/logotw.png" media-type="image/png" />
+    <item id="logowww.png" href="Images/logowww.png" media-type="image/png" />
+
+    <item id="p001" href="Text/p001.xhtml" media-type="application/xhtml+xml" media-overlay="s001"/>
+    <item id="s001" href="Text/p001.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m001" href="Audio/ru.mp3" media-type="audio/mpeg"/>
+
+</manifest>
+<spine page-progression-direction="ltr" toc="toc.ncx">
+    <itemref idref="cover" linear="yes"/>
+    <itemref idref="colophon" linear="yes"/>
+    <itemref idref="p001" linear="yes"/>
+    <itemref idref="playlist" linear="yes"/>
+</spine>
+<guide>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml" />
+    <reference type="toc" title="Contents" href="Text/toc.xhtml" />
+    <reference type="text" title="Ангелочек" href="Text/p001.xhtml" />
+</guide>
+</package>
+
