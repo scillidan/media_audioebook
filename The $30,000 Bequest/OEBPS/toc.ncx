@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" xml:lang="en" version="2005-1">
+<head>
+ <meta name="dtb:uid" content="urn:uuid:f398fa17-20ac-4714-a655-f79d13ba4da3" />
+ <meta name="dtb:depth" content="1" />
+ <meta name="dtb:totalPageCount" content="0" />
+ <meta name="dtb:maxPageNumber" content="0" />
+</head>
+<docTitle><text>The $30,000 Bequest</text></docTitle>
+<navMap>
+ <navPoint id="navPoint-000001" playOrder="1">
+  <navLabel><text>Cover</text></navLabel>
+  <content src="Text/cover.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000002" playOrder="2">
+  <navLabel><text>Colophon</text></navLabel>
+  <content src="Text/colophon.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000003" playOrder="3">
+  <navLabel><text>Table Of Contents</text></navLabel>
+  <content src="Text/toc.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000004" playOrder="4">
+  <navLabel><text>Audio-eBooks: A Quick Introduction</text></navLabel>
+  <content src="Text/foreword.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000005" playOrder="5">
+  <navLabel><text>The $30,000 Bequest</text></navLabel>
+  <content src="Text/p001.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000006" playOrder="6">
+  <navLabel><text>Chapter I</text></navLabel>
+  <content src="Text/p002.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000007" playOrder="7">
+  <navLabel><text>Chapter II</text></navLabel>
+  <content src="Text/p003.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000008" playOrder="8">
+  <navLabel><text>Chapter III</text></navLabel>
+  <content src="Text/p004.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000009" playOrder="9">
+  <navLabel><text>Chapter IV</text></navLabel>
+  <content src="Text/p005.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000010" playOrder="10">
+  <navLabel><text>Chapter V</text></navLabel>
+  <content src="Text/p006.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000011" playOrder="11">
+  <navLabel><text>Chapter VI</text></navLabel>
+  <content src="Text/p007.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000012" playOrder="12">
+  <navLabel><text>Chapter VII</text></navLabel>
+  <content src="Text/p008.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000013" playOrder="13">
+  <navLabel><text>Chapter VIII</text></navLabel>
+  <content src="Text/p009.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000014" playOrder="14">
+  <navLabel><text>Playlist</text></navLabel>
+  <content src="Text/playlist.xhtml"/>
+ </navPoint>
+</navMap>
+</ncx>
