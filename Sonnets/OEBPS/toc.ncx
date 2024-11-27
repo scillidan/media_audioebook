@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" xml:lang="en" version="2005-1">
+<head>
+ <meta name="dtb:uid" content="urn:uuid:a00e164a-6b49-4c17-8673-d26c82275e85" />
+ <meta name="dtb:depth" content="1" />
+ <meta name="dtb:totalPageCount" content="0" />
+ <meta name="dtb:maxPageNumber" content="0" />
+</head>
+<docTitle><text></text></docTitle>
+<navMap>
+ <navPoint id="navPoint-000001" playOrder="1">
+  <navLabel><text>Cover</text></navLabel>
+  <content src="Text/cover.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000002" playOrder="2">
+  <navLabel><text>Colophon</text></navLabel>
+  <content src="Text/colophon.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000003" playOrder="3">
+  <navLabel><text>Sonnets</text></navLabel>
+  <content src="Text/p001.xhtml"/>
+
+     <navPoint id="navPoint-000004" playOrder="4">
+      <navLabel><text>Sonnet I</text></navLabel>
+      <content src="Text/p002.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000005" playOrder="5">
+      <navLabel><text>Sonnet II</text></navLabel>
+      <content src="Text/p003.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000006" playOrder="6">
+      <navLabel><text>Sonnet III</text></navLabel>
+      <content src="Text/p004.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000007" playOrder="7">
+      <navLabel><text>Sonnet IV</text></navLabel>
+      <content src="Text/p005.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000008" playOrder="8">
+      <navLabel><text>Sonnet V</text></navLabel>
+      <content src="Text/p006.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000009" playOrder="9">
+      <navLabel><text>Sonnet VI</text></navLabel>
+      <content src="Text/p007.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000010" playOrder="10">
+      <navLabel><text>Sonnet VII</text></navLabel>
+      <content src="Text/p008.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000011" playOrder="11">
+      <navLabel><text>Sonnet VIII</text></navLabel>
+      <content src="Text/p009.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000012" playOrder="12">
+      <navLabel><text>Sonnet IX</text></navLabel>
+      <content src="Text/p010.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000013" playOrder="13">
+      <navLabel><text>Sonnet X</text></navLabel>
+      <content src="Text/p011.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000014" playOrder="14">
+      <navLabel><text>Sonnet XI</text></navLabel>
+      <content src="Text/p012.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000015" playOrder="15">
+      <navLabel><text>Sonnet XII</text></navLabel>
+      <content src="Text/p013.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000016" playOrder="16">
+      <navLabel><text>Sonnet XIII</text></navLabel>
+      <content src="Text/p014.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000017" playOrder="17">
+      <navLabel><text>Sonnet XIV</text></navLabel>
+      <content src="Text/p015.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000018" playOrder="18">
+      <navLabel><text>Sonnet XV</text></navLabel>
+      <content src="Text/p016.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000019" playOrder="19">
+      <navLabel><text>Sonnet XVI</text></navLabel>
+      <content src="Text/p017.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000020" playOrder="20">
+      <navLabel><text>Sonnet XVII</text></navLabel>
+      <content src="Text/p018.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000021" playOrder="21">
+      <navLabel><text>Sonnet XVIII</text></navLabel>
+      <content src="Text/p019.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000022" playOrder="22">
+      <navLabel><text>Sonnet XIX</text></navLabel>
+      <content src="Text/p020.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000023" playOrder="23">
+      <navLabel><text>Sonnet XX</text></navLabel>
+      <content src="Text/p021.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000024" playOrder="24">
+      <navLabel><text>Sonnet XXI</text></navLabel>
+      <content src="Text/p022.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000025" playOrder="25">
+      <navLabel><text>Sonnet XXII</text></navLabel>
+      <content src="Text/p023.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000026" playOrder="26">
+      <navLabel><text>Sonnet XXIII</text></navLabel>
+      <content src="Text/p024.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000027" playOrder="27">
+      <navLabel><text>Sonnet XXIV</text></navLabel>
+      <content src="Text/p025.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000028" playOrder="28">
+      <navLabel><text>Sonnet XXV</text></navLabel>
+      <content src="Text/p026.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000029" playOrder="29">
+      <navLabel><text>Sonnet XXVI</text></navLabel>
+      <content src="Text/p027.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000030" playOrder="30">
+      <navLabel><text>Sonnet XXVII</text></navLabel>
+      <content src="Text/p028.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000031" playOrder="31">
+      <navLabel><text>Sonnet XXVIII</text></navLabel>
+      <content src="Text/p029.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000032" playOrder="32">
+      <navLabel><text>Sonnet XXIX</text></navLabel>
+      <content src="Text/p030.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000033" playOrder="33">
+      <navLabel><text>Sonnet XXX</text></navLabel>
+      <content src="Text/p031.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000034" playOrder="34">
+      <navLabel><text>Sonnet XXXI</text></navLabel>
+      <content src="Text/p032.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000035" playOrder="35">
+      <navLabel><text>Sonnet XXXII</text></navLabel>
+      <content src="Text/p033.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000036" playOrder="36">
+      <navLabel><text>Sonnet XXXIII</text></navLabel>
+      <content src="Text/p034.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000037" playOrder="37">
+      <navLabel><text>Sonnet XXXIV</text></navLabel>
+      <content src="Text/p035.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000038" playOrder="38">
+      <navLabel><text>Sonnet XXXV</text></navLabel>
+      <content src="Text/p036.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000039" playOrder="39">
+      <navLabel><text>Sonnet XXXVI</text></navLabel>
+      <content src="Text/p037.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000040" playOrder="40">
+      <navLabel><text>Sonnet XXXVII</text></navLabel>
+      <content src="Text/p038.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000041" playOrder="41">
+      <navLabel><text>Sonnet XXXVIII</text></navLabel>
+      <content src="Text/p039.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000042" playOrder="42">
+      <navLabel><text>Sonnet XXXIX</text></navLabel>
+      <content src="Text/p040.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000043" playOrder="43">
+      <navLabel><text>Sonnet XL</text></navLabel>
+      <content src="Text/p041.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000044" playOrder="44">
+      <navLabel><text>Sonnet XLI</text></navLabel>
+      <content src="Text/p042.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000045" playOrder="45">
+      <navLabel><text>Sonnet XLII</text></navLabel>
+      <content src="Text/p043.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000046" playOrder="46">
+      <navLabel><text>Sonnet XLIII</text></navLabel>
+      <content src="Text/p044.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000047" playOrder="47">
+      <navLabel><text>Sonnet XLIV</text></navLabel>
+      <content src="Text/p045.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000048" playOrder="48">
+      <navLabel><text>Sonnet XLV</text></navLabel>
+      <content src="Text/p046.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000049" playOrder="49">
+      <navLabel><text>Sonnet XLVI</text></navLabel>
+      <content src="Text/p047.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000050" playOrder="50">
+      <navLabel><text>Sonnet XLVII</text></navLabel>
+      <content src="Text/p048.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000051" playOrder="51">
+      <navLabel><text>Sonnet XLVIII</text></navLabel>
+      <content src="Text/p049.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000052" playOrder="52">
+      <navLabel><text>Sonnet XLIX</text></navLabel>
+      <content src="Text/p050.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000053" playOrder="53">
+      <navLabel><text>Sonnet L</text></navLabel>
+      <content src="Text/p051.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000054" playOrder="54">
+      <navLabel><text>Sonnet LI</text></navLabel>
+      <content src="Text/p052.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000055" playOrder="55">
+      <navLabel><text>Sonnet LII</text></navLabel>
+      <content src="Text/p053.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000056" playOrder="56">
+      <navLabel><text>Sonnet LIII</text></navLabel>
+      <content src="Text/p054.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000057" playOrder="57">
+      <navLabel><text>Sonnet LIV</text></navLabel>
+      <content src="Text/p055.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000058" playOrder="58">
+      <navLabel><text>Sonnet LV</text></navLabel>
+      <content src="Text/p056.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000059" playOrder="59">
+      <navLabel><text>Sonnet LVI</text></navLabel>
+      <content src="Text/p057.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000060" playOrder="60">
+      <navLabel><text>Sonnet LVII</text></navLabel>
+      <content src="Text/p058.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000061" playOrder="61">
+      <navLabel><text>Sonnet LVIII</text></navLabel>
+      <content src="Text/p059.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000062" playOrder="62">
+      <navLabel><text>Sonnet LIX</text></navLabel>
+      <content src="Text/p060.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000063" playOrder="63">
+      <navLabel><text>Sonnet LX</text></navLabel>
+      <content src="Text/p061.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000064" playOrder="64">
+      <navLabel><text>Sonnet LXI</text></navLabel>
+      <content src="Text/p062.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000065" playOrder="65">
+      <navLabel><text>Sonnet LXII</text></navLabel>
+      <content src="Text/p063.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000066" playOrder="66">
+      <navLabel><text>Sonnet LXIII</text></navLabel>
+      <content src="Text/p064.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000067" playOrder="67">
+      <navLabel><text>Sonnet LXIV</text></navLabel>
+      <content src="Text/p065.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000068" playOrder="68">
+      <navLabel><text>Sonnet LXV</text></navLabel>
+      <content src="Text/p066.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000069" playOrder="69">
+      <navLabel><text>Sonnet LXVI</text></navLabel>
+      <content src="Text/p067.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000070" playOrder="70">
+      <navLabel><text>Sonnet LXVII</text></navLabel>
+      <content src="Text/p068.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000071" playOrder="71">
+      <navLabel><text>Sonnet LXVIII</text></navLabel>
+      <content src="Text/p069.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000072" playOrder="72">
+      <navLabel><text>Sonnet LXIX</text></navLabel>
+      <content src="Text/p070.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000073" playOrder="73">
+      <navLabel><text>Sonnet LXX</text></navLabel>
+      <content src="Text/p071.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000074" playOrder="74">
+      <navLabel><text>Sonnet LXXI</text></navLabel>
+      <content src="Text/p072.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000075" playOrder="75">
+      <navLabel><text>Sonnet LXXII</text></navLabel>
+      <content src="Text/p073.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000076" playOrder="76">
+      <navLabel><text>Sonnet LXXIII</text></navLabel>
+      <content src="Text/p074.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000077" playOrder="77">
+      <navLabel><text>Sonnet LXXIV</text></navLabel>
+      <content src="Text/p075.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000078" playOrder="78">
+      <navLabel><text>Sonnet LXXV</text></navLabel>
+      <content src="Text/p076.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000079" playOrder="79">
+      <navLabel><text>Sonnet LXXVI</text></navLabel>
+      <content src="Text/p077.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000080" playOrder="80">
+      <navLabel><text>Sonnet LXXVII</text></navLabel>
+      <content src="Text/p078.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000081" playOrder="81">
+      <navLabel><text>Sonnet LXXVIII</text></navLabel>
+      <content src="Text/p079.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000082" playOrder="82">
+      <navLabel><text>Sonnet LXXIX</text></navLabel>
+      <content src="Text/p080.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000083" playOrder="83">
+      <navLabel><text>Sonnet LXXX</text></navLabel>
+      <content src="Text/p081.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000084" playOrder="84">
+      <navLabel><text>Sonnet LXXXI</text></navLabel>
+      <content src="Text/p082.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000085" playOrder="85">
+      <navLabel><text>Sonnet LXXXII</text></navLabel>
+      <content src="Text/p083.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000086" playOrder="86">
+      <navLabel><text>Sonnet LXXXIII</text></navLabel>
+      <content src="Text/p084.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000087" playOrder="87">
+      <navLabel><text>Sonnet LXXXIV</text></navLabel>
+      <content src="Text/p085.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000088" playOrder="88">
+      <navLabel><text>Sonnet LXXXV</text></navLabel>
+      <content src="Text/p086.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000089" playOrder="89">
+      <navLabel><text>Sonnet LXXXVI</text></navLabel>
+      <content src="Text/p087.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000090" playOrder="90">
+      <navLabel><text>Sonnet LXXXVII</text></navLabel>
+      <content src="Text/p088.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000091" playOrder="91">
+      <navLabel><text>Sonnet LXXXVIII</text></navLabel>
+      <content src="Text/p089.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000092" playOrder="92">
+      <navLabel><text>Sonnet LXXXIX</text></navLabel>
+      <content src="Text/p090.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000093" playOrder="93">
+      <navLabel><text>Sonnet XC</text></navLabel>
+      <content src="Text/p091.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000094" playOrder="94">
+      <navLabel><text>Sonnet XCI</text></navLabel>
+      <content src="Text/p092.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000095" playOrder="95">
+      <navLabel><text>Sonnet XCII</text></navLabel>
+      <content src="Text/p093.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000096" playOrder="96">
+      <navLabel><text>Sonnet XCIII</text></navLabel>
+      <content src="Text/p094.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000097" playOrder="97">
+      <navLabel><text>Sonnet XCIV</text></navLabel>
+      <content src="Text/p095.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000098" playOrder="98">
+      <navLabel><text>Sonnet XCV</text></navLabel>
+      <content src="Text/p096.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000099" playOrder="99">
+      <navLabel><text>Sonnet XCVI</text></navLabel>
+      <content src="Text/p097.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000100" playOrder="100">
+      <navLabel><text>Sonnet XCVII</text></navLabel>
+      <content src="Text/p098.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000101" playOrder="101">
+      <navLabel><text>Sonnet XCVIII</text></navLabel>
+      <content src="Text/p099.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000102" playOrder="102">
+      <navLabel><text>Sonnet XCIX</text></navLabel>
+      <content src="Text/p100.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000103" playOrder="103">
+      <navLabel><text>Sonnet C</text></navLabel>
+      <content src="Text/p101.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000104" playOrder="104">
+      <navLabel><text>Sonnet CI</text></navLabel>
+      <content src="Text/p102.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000105" playOrder="105">
+      <navLabel><text>Sonnet CII</text></navLabel>
+      <content src="Text/p103.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000106" playOrder="106">
+      <navLabel><text>Sonnet CIII</text></navLabel>
+      <content src="Text/p104.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000107" playOrder="107">
+      <navLabel><text>Sonnet CIV</text></navLabel>
+      <content src="Text/p105.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000108" playOrder="108">
+      <navLabel><text>Sonnet CV</text></navLabel>
+      <content src="Text/p106.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000109" playOrder="109">
+      <navLabel><text>Sonnet CVI</text></navLabel>
+      <content src="Text/p107.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000110" playOrder="110">
+      <navLabel><text>Sonnet CVII</text></navLabel>
+      <content src="Text/p108.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000111" playOrder="111">
+      <navLabel><text>Sonnet CVIII</text></navLabel>
+      <content src="Text/p109.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000112" playOrder="112">
+      <navLabel><text>Sonnet CIX</text></navLabel>
+      <content src="Text/p110.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000113" playOrder="113">
+      <navLabel><text>Sonnet CX</text></navLabel>
+      <content src="Text/p111.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000114" playOrder="114">
+      <navLabel><text>Sonnet CXI</text></navLabel>
+      <content src="Text/p112.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000115" playOrder="115">
+      <navLabel><text>Sonnet CXII</text></navLabel>
+      <content src="Text/p113.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000116" playOrder="116">
+      <navLabel><text>Sonnet CXIII</text></navLabel>
+      <content src="Text/p114.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000117" playOrder="117">
+      <navLabel><text>Sonnet CXIV</text></navLabel>
+      <content src="Text/p115.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000118" playOrder="118">
+      <navLabel><text>Sonnet CXV</text></navLabel>
+      <content src="Text/p116.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000119" playOrder="119">
+      <navLabel><text>Sonnet CXVI</text></navLabel>
+      <content src="Text/p117.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000120" playOrder="120">
+      <navLabel><text>Sonnet CXVII</text></navLabel>
+      <content src="Text/p118.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000121" playOrder="121">
+      <navLabel><text>Sonnet CXVIII</text></navLabel>
+      <content src="Text/p119.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000122" playOrder="122">
+      <navLabel><text>Sonnet CXIX</text></navLabel>
+      <content src="Text/p120.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000123" playOrder="123">
+      <navLabel><text>Sonnet CXX</text></navLabel>
+      <content src="Text/p121.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000124" playOrder="124">
+      <navLabel><text>Sonnet CXXI</text></navLabel>
+      <content src="Text/p122.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000125" playOrder="125">
+      <navLabel><text>Sonnet CXXII</text></navLabel>
+      <content src="Text/p123.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000126" playOrder="126">
+      <navLabel><text>Sonnet CXXIII</text></navLabel>
+      <content src="Text/p124.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000127" playOrder="127">
+      <navLabel><text>Sonnet CXXIV</text></navLabel>
+      <content src="Text/p125.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000128" playOrder="128">
+      <navLabel><text>Sonnet CXXV</text></navLabel>
+      <content src="Text/p126.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000129" playOrder="129">
+      <navLabel><text>Sonnet CXXVI</text></navLabel>
+      <content src="Text/p127.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000130" playOrder="130">
+      <navLabel><text>Sonnet CXXVII</text></navLabel>
+      <content src="Text/p128.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000131" playOrder="131">
+      <navLabel><text>Sonnet CXXVIII</text></navLabel>
+      <content src="Text/p129.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000132" playOrder="132">
+      <navLabel><text>Sonnet CXXIX</text></navLabel>
+      <content src="Text/p130.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000133" playOrder="133">
+      <navLabel><text>Sonnet CXXX</text></navLabel>
+      <content src="Text/p131.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000134" playOrder="134">
+      <navLabel><text>Sonnet CXXXI</text></navLabel>
+      <content src="Text/p132.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000135" playOrder="135">
+      <navLabel><text>Sonnet CXXXII</text></navLabel>
+      <content src="Text/p133.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000136" playOrder="136">
+      <navLabel><text>Sonnet CXXXIII</text></navLabel>
+      <content src="Text/p134.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000137" playOrder="137">
+      <navLabel><text>Sonnet CXXXIV</text></navLabel>
+      <content src="Text/p135.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000138" playOrder="138">
+      <navLabel><text>Sonnet CXXXV</text></navLabel>
+      <content src="Text/p136.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000139" playOrder="139">
+      <navLabel><text>Sonnet CXXXVI</text></navLabel>
+      <content src="Text/p137.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000140" playOrder="140">
+      <navLabel><text>Sonnet CXXXVII</text></navLabel>
+      <content src="Text/p138.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000141" playOrder="141">
+      <navLabel><text>Sonnet CXXXVIII</text></navLabel>
+      <content src="Text/p139.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000142" playOrder="142">
+      <navLabel><text>Sonnet CXXXIX</text></navLabel>
+      <content src="Text/p140.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000143" playOrder="143">
+      <navLabel><text>Sonnet CXL</text></navLabel>
+      <content src="Text/p141.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000144" playOrder="144">
+      <navLabel><text>Sonnet CXLI</text></navLabel>
+      <content src="Text/p142.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000145" playOrder="145">
+      <navLabel><text>Sonnet CXLII</text></navLabel>
+      <content src="Text/p143.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000146" playOrder="146">
+      <navLabel><text>Sonnet CXLIII</text></navLabel>
+      <content src="Text/p144.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000147" playOrder="147">
+      <navLabel><text>Sonnet CXLIV</text></navLabel>
+      <content src="Text/p145.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000148" playOrder="148">
+      <navLabel><text>Sonnet CXLV</text></navLabel>
+      <content src="Text/p146.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000149" playOrder="149">
+      <navLabel><text>Sonnet CXLVI</text></navLabel>
+      <content src="Text/p147.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000150" playOrder="150">
+      <navLabel><text>Sonnet CXLVII</text></navLabel>
+      <content src="Text/p148.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000151" playOrder="151">
+      <navLabel><text>Sonnet CXLVIII</text></navLabel>
+      <content src="Text/p149.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000152" playOrder="152">
+      <navLabel><text>Sonnet CXLIX</text></navLabel>
+      <content src="Text/p150.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000153" playOrder="153">
+      <navLabel><text>Sonnet CL</text></navLabel>
+      <content src="Text/p151.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000154" playOrder="154">
+      <navLabel><text>Sonnet CLI</text></navLabel>
+      <content src="Text/p152.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000155" playOrder="155">
+      <navLabel><text>Sonnet CLII</text></navLabel>
+      <content src="Text/p153.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000156" playOrder="156">
+      <navLabel><text>Sonnet CLIII</text></navLabel>
+      <content src="Text/p154.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000157" playOrder="157">
+      <navLabel><text>Sonnet CLIV</text></navLabel>
+      <content src="Text/p155.xhtml"/>
+     </navPoint>
+
+ </navPoint>
+ <navPoint id="navPoint-000158" playOrder="158">
+  <navLabel><text>Playlist</text></navLabel>
+  <content src="Text/playlist.xhtml"/>
+ </navPoint>
+</navMap>
+</ncx>
