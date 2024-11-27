@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="bookid" xml:lang="it" prefix="rendition: http://www.idpf.org/vocab/rendition/#">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <dc:title id="title">Divina Commedia - Paradiso</dc:title>
+ <meta refines="#title" property="title-type">main</meta>
+ <dc:date>2015-12-03</dc:date>
+ <dc:language>it</dc:language>
+ <dc:subject>Divina Commedia</dc:subject>
+ <dc:subject>Paradiso</dc:subject>
+ <dc:subject>Dante Alighieri</dc:subject>
+ <dc:subject>Isidoro Del Lungo</dc:subject>
+ <dc:subject>Lino Pertile</dc:subject>
+ <dc:subject>Letteratura Italiana</dc:subject>
+ <dc:creator id="aut">Dante Alighieri</dc:creator>
+ <meta refines="#aut" property="role" scheme="marc:relators">aut</meta>
+ <meta refines="#aut" property="file-as">Alighieri, Dante</meta>
+ <dc:contributor id="cmm">Isidoro Del Lungo</dc:contributor>
+ <meta refines="#cmm" property="role" scheme="marc:relators">cmm</meta>
+ <meta refines="#cmm" property="file-as">Del Lungo, Isidoro</meta>
+ <dc:contributor id="spk">Lino Pertile</dc:contributor>
+ <meta refines="#spk" property="role" scheme="marc:relators">spk</meta>
+ <meta refines="#spk" property="file-as">Pertile, Lino</meta>
+ <dc:contributor id="bkp1">Edoardo Ferrini</dc:contributor>
+ <meta refines="#bkp1" property="role" scheme="marc:relators">bkp</meta>
+ <meta refines="#bkp1" property="file-as">Ferrini, Edoardo</meta>
+ <dc:contributor id="bkp2">Alberto Pettarin</dc:contributor>
+ <meta refines="#bkp2" property="role" scheme="marc:relators">bkp</meta>
+ <meta refines="#bkp2" property="file-as">Pettarin, Alberto</meta>
+ <dc:publisher>Smuuks (http://www.smuuks.it/)</dc:publisher>
+ <dc:rights>CC BY-NC-SA 3.0</dc:rights>
+ <meta name="cover" content="cover.png"></meta>
+ <meta property="media:narrator">Lino Pertile</meta>
+ <dc:identifier id="bookid">urn:uuid:06003b99-d7cf-441b-ac64-738c2a365344</dc:identifier>
+ <meta refines="#bookid" property="identifier-type" scheme="xsd:string">uuid</meta>
+ <meta property="dcterms:modified">2015-12-03T11:38:48Z</meta>
+ <meta property="rendition:layout">reflowable</meta>
+ <meta property="media:duration" refines="#s000001.smil">0:07:49.199</meta>
+ <meta property="media:duration" refines="#s000002.smil">0:08:21.480</meta>
+ <meta property="media:duration" refines="#s000003.smil">0:07:46.680</meta>
+ <meta property="media:duration" refines="#s000004.smil">0:07:59.360</meta>
+ <meta property="media:duration" refines="#s000005.smil">0:08:15.240</meta>
+ <meta property="media:duration" refines="#s000006.smil">0:08:04.560</meta>
+ <meta property="media:duration" refines="#s000007.smil">0:07:40.160</meta>
+ <meta property="media:duration" refines="#s000008.smil">0:08:00.399</meta>
+ <meta property="media:duration" refines="#s000009.smil">0:07:40.639</meta>
+ <meta property="media:duration" refines="#s000010.smil">0:08:00.600</meta>
+ <meta property="media:duration" refines="#s000011.smil">0:07:34.680</meta>
+ <meta property="media:duration" refines="#s000012.smil">0:07:42.680</meta>
+ <meta property="media:duration" refines="#s000013.smil">0:07:45.439</meta>
+ <meta property="media:duration" refines="#s000014.smil">0:07:53.399</meta>
+ <meta property="media:duration" refines="#s000015.smil">0:08:14.720</meta>
+ <meta property="media:duration" refines="#s000016.smil">0:08:07.839</meta>
+ <meta property="media:duration" refines="#s000017.smil">0:07:33.680</meta>
+ <meta property="media:duration" refines="#s000018.smil">0:07:34.560</meta>
+ <meta property="media:duration" refines="#s000019.smil">0:08:14.240</meta>
+ <meta property="media:duration" refines="#s000020.smil">0:08:27.279</meta>
+ <meta property="media:duration" refines="#s000021.smil">0:08:20.199</meta>
+ <meta property="media:duration" refines="#s000022.smil">0:08:48.399</meta>
+ <meta property="media:duration" refines="#s000023.smil">0:07:52.000</meta>
+ <meta property="media:duration" refines="#s000024.smil">0:08:28.759</meta>
+ <meta property="media:duration" refines="#s000025.smil">0:07:54.759</meta>
+ <meta property="media:duration" refines="#s000026.smil">0:07:30.240</meta>
+ <meta property="media:duration" refines="#s000027.smil">0:07:30.839</meta>
+ <meta property="media:duration" refines="#s000028.smil">0:07:01.160</meta>
+ <meta property="media:duration" refines="#s000029.smil">0:07:32.120</meta>
+ <meta property="media:duration" refines="#s000030.smil">0:07:39.279</meta>
+ <meta property="media:duration" refines="#s000031.smil">0:07:23.240</meta>
+ <meta property="media:duration" refines="#s000032.smil">0:07:49.600</meta>
+ <meta property="media:duration" refines="#s000033.smil">0:07:57.800</meta>
+ <meta property="media:duration">4:20:35.227</meta>
+ <meta property="media:active-class">-epub-media-overlay-active</meta>
+</metadata>
+<manifest>
+ <item id="m000001.mp3" href="Audio/m000001.mp3" media-type="audio/mpeg"/>
+ <item id="m000002.mp3" href="Audio/m000002.mp3" media-type="audio/mpeg"/>
+ <item id="m000003.mp3" href="Audio/m000003.mp3" media-type="audio/mpeg"/>
+ <item id="m000004.mp3" href="Audio/m000004.mp3" media-type="audio/mpeg"/>
+ <item id="m000005.mp3" href="Audio/m000005.mp3" media-type="audio/mpeg"/>
+ <item id="m000006.mp3" href="Audio/m000006.mp3" media-type="audio/mpeg"/>
+ <item id="m000007.mp3" href="Audio/m000007.mp3" media-type="audio/mpeg"/>
+ <item id="m000008.mp3" href="Audio/m000008.mp3" media-type="audio/mpeg"/>
+ <item id="m000009.mp3" href="Audio/m000009.mp3" media-type="audio/mpeg"/>
+ <item id="m000010.mp3" href="Audio/m000010.mp3" media-type="audio/mpeg"/>
+ <item id="m000011.mp3" href="Audio/m000011.mp3" media-type="audio/mpeg"/>
+ <item id="m000012.mp3" href="Audio/m000012.mp3" media-type="audio/mpeg"/>
+ <item id="m000013.mp3" href="Audio/m000013.mp3" media-type="audio/mpeg"/>
+ <item id="m000014.mp3" href="Audio/m000014.mp3" media-type="audio/mpeg"/>
+ <item id="m000015.mp3" href="Audio/m000015.mp3" media-type="audio/mpeg"/>
+ <item id="m000016.mp3" href="Audio/m000016.mp3" media-type="audio/mpeg"/>
+ <item id="m000017.mp3" href="Audio/m000017.mp3" media-type="audio/mpeg"/>
+ <item id="m000018.mp3" href="Audio/m000018.mp3" media-type="audio/mpeg"/>
+ <item id="m000019.mp3" href="Audio/m000019.mp3" media-type="audio/mpeg"/>
+ <item id="m000020.mp3" href="Audio/m000020.mp3" media-type="audio/mpeg"/>
+ <item id="m000021.mp3" href="Audio/m000021.mp3" media-type="audio/mpeg"/>
+ <item id="m000022.mp3" href="Audio/m000022.mp3" media-type="audio/mpeg"/>
+ <item id="m000023.mp3" href="Audio/m000023.mp3" media-type="audio/mpeg"/>
+ <item id="m000024.mp3" href="Audio/m000024.mp3" media-type="audio/mpeg"/>
+ <item id="m000025.mp3" href="Audio/m000025.mp3" media-type="audio/mpeg"/>
+ <item id="m000026.mp3" href="Audio/m000026.mp3" media-type="audio/mpeg"/>
+ <item id="m000027.mp3" href="Audio/m000027.mp3" media-type="audio/mpeg"/>
+ <item id="m000028.mp3" href="Audio/m000028.mp3" media-type="audio/mpeg"/>
+ <item id="m000029.mp3" href="Audio/m000029.mp3" media-type="audio/mpeg"/>
+ <item id="m000030.mp3" href="Audio/m000030.mp3" media-type="audio/mpeg"/>
+ <item id="m000031.mp3" href="Audio/m000031.mp3" media-type="audio/mpeg"/>
+ <item id="m000032.mp3" href="Audio/m000032.mp3" media-type="audio/mpeg"/>
+ <item id="m000033.mp3" href="Audio/m000033.mp3" media-type="audio/mpeg"/>
+ <item id="s000001.smil" href="Audio/s000001.smil" media-type="application/smil+xml"/>
+ <item id="s000002.smil" href="Audio/s000002.smil" media-type="application/smil+xml"/>
+ <item id="s000003.smil" href="Audio/s000003.smil" media-type="application/smil+xml"/>
+ <item id="s000004.smil" href="Audio/s000004.smil" media-type="application/smil+xml"/>
+ <item id="s000005.smil" href="Audio/s000005.smil" media-type="application/smil+xml"/>
+ <item id="s000006.smil" href="Audio/s000006.smil" media-type="application/smil+xml"/>
+ <item id="s000007.smil" href="Audio/s000007.smil" media-type="application/smil+xml"/>
+ <item id="s000008.smil" href="Audio/s000008.smil" media-type="application/smil+xml"/>
+ <item id="s000009.smil" href="Audio/s000009.smil" media-type="application/smil+xml"/>
+ <item id="s000010.smil" href="Audio/s000010.smil" media-type="application/smil+xml"/>
+ <item id="s000011.smil" href="Audio/s000011.smil" media-type="application/smil+xml"/>
+ <item id="s000012.smil" href="Audio/s000012.smil" media-type="application/smil+xml"/>
+ <item id="s000013.smil" href="Audio/s000013.smil" media-type="application/smil+xml"/>
+ <item id="s000014.smil" href="Audio/s000014.smil" media-type="application/smil+xml"/>
+ <item id="s000015.smil" href="Audio/s000015.smil" media-type="application/smil+xml"/>
+ <item id="s000016.smil" href="Audio/s000016.smil" media-type="application/smil+xml"/>
+ <item id="s000017.smil" href="Audio/s000017.smil" media-type="application/smil+xml"/>
+ <item id="s000018.smil" href="Audio/s000018.smil" media-type="application/smil+xml"/>
+ <item id="s000019.smil" href="Audio/s000019.smil" media-type="application/smil+xml"/>
+ <item id="s000020.smil" href="Audio/s000020.smil" media-type="application/smil+xml"/>
+ <item id="s000021.smil" href="Audio/s000021.smil" media-type="application/smil+xml"/>
+ <item id="s000022.smil" href="Audio/s000022.smil" media-type="application/smil+xml"/>
+ <item id="s000023.smil" href="Audio/s000023.smil" media-type="application/smil+xml"/>
+ <item id="s000024.smil" href="Audio/s000024.smil" media-type="application/smil+xml"/>
+ <item id="s000025.smil" href="Audio/s000025.smil" media-type="application/smil+xml"/>
+ <item id="s000026.smil" href="Audio/s000026.smil" media-type="application/smil+xml"/>
+ <item id="s000027.smil" href="Audio/s000027.smil" media-type="application/smil+xml"/>
+ <item id="s000028.smil" href="Audio/s000028.smil" media-type="application/smil+xml"/>
+ <item id="s000029.smil" href="Audio/s000029.smil" media-type="application/smil+xml"/>
+ <item id="s000030.smil" href="Audio/s000030.smil" media-type="application/smil+xml"/>
+ <item id="s000031.smil" href="Audio/s000031.smil" media-type="application/smil+xml"/>
+ <item id="s000032.smil" href="Audio/s000032.smil" media-type="application/smil+xml"/>
+ <item id="s000033.smil" href="Audio/s000033.smil" media-type="application/smil+xml"/>
+ <item id="Cardinal.otf" href="Fonts/Cardinal.otf" media-type="application/vnd.ms-opentype"/>
+ <item id="cover.png" href="Images/cover.png" media-type="image/png" properties="cover-image"/>
+ <item id="Smuuks.png" href="Images/Smuuks.png" media-type="image/png"/>
+ <item id="Dante.css" href="Styles/Dante.css" media-type="text/css"/>
+ <item id="Smuuks.css" href="Styles/Smuuks.css" media-type="text/css"/>
+ <item id="Colophon.xhtml" href="Text/Colophon.xhtml" media-type="application/xhtml+xml"/>
+ <item id="Copertina.xhtml" href="Text/Copertina.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+ <item id="Fine.xhtml" href="Text/Fine.xhtml" media-type="application/xhtml+xml"/>
+ <item id="Frontespizio.xhtml" href="Text/Frontespizio.xhtml" media-type="application/xhtml+xml"/>
+ <item id="Guida.xhtml" href="Text/Guida.xhtml" media-type="application/xhtml+xml"/>
+ <item id="Indice.xhtml" href="Text/Indice.xhtml" media-type="application/xhtml+xml"/>
+ <item id="Introduzione.xhtml" href="Text/Introduzione.xhtml" media-type="application/xhtml+xml"/>
+ <item id="IntroduzioneBis.xhtml" href="Text/IntroduzioneBis.xhtml" media-type="application/xhtml+xml"/>
+ <item id="Paradiso.01.xhtml" href="Text/Paradiso.01.xhtml" media-type="application/xhtml+xml" media-overlay="s000001.smil"/>
+ <item id="Paradiso.02.xhtml" href="Text/Paradiso.02.xhtml" media-type="application/xhtml+xml" media-overlay="s000002.smil"/>
+ <item id="Paradiso.03.xhtml" href="Text/Paradiso.03.xhtml" media-type="application/xhtml+xml" media-overlay="s000003.smil"/>
+ <item id="Paradiso.04.xhtml" href="Text/Paradiso.04.xhtml" media-type="application/xhtml+xml" media-overlay="s000004.smil"/>
+ <item id="Paradiso.05.xhtml" href="Text/Paradiso.05.xhtml" media-type="application/xhtml+xml" media-overlay="s000005.smil"/>
+ <item id="Paradiso.06.xhtml" href="Text/Paradiso.06.xhtml" media-type="application/xhtml+xml" media-overlay="s000006.smil"/>
+ <item id="Paradiso.07.xhtml" href="Text/Paradiso.07.xhtml" media-type="application/xhtml+xml" media-overlay="s000007.smil"/>
+ <item id="Paradiso.08.xhtml" href="Text/Paradiso.08.xhtml" media-type="application/xhtml+xml" media-overlay="s000008.smil"/>
+ <item id="Paradiso.09.xhtml" href="Text/Paradiso.09.xhtml" media-type="application/xhtml+xml" media-overlay="s000009.smil"/>
+ <item id="Paradiso.10.xhtml" href="Text/Paradiso.10.xhtml" media-type="application/xhtml+xml" media-overlay="s000010.smil"/>
+ <item id="Paradiso.11.xhtml" href="Text/Paradiso.11.xhtml" media-type="application/xhtml+xml" media-overlay="s000011.smil"/>
+ <item id="Paradiso.12.xhtml" href="Text/Paradiso.12.xhtml" media-type="application/xhtml+xml" media-overlay="s000012.smil"/>
+ <item id="Paradiso.13.xhtml" href="Text/Paradiso.13.xhtml" media-type="application/xhtml+xml" media-overlay="s000013.smil"/>
+ <item id="Paradiso.14.xhtml" href="Text/Paradiso.14.xhtml" media-type="application/xhtml+xml" media-overlay="s000014.smil"/>
+ <item id="Paradiso.15.xhtml" href="Text/Paradiso.15.xhtml" media-type="application/xhtml+xml" media-overlay="s000015.smil"/>
+ <item id="Paradiso.16.xhtml" href="Text/Paradiso.16.xhtml" media-type="application/xhtml+xml" media-overlay="s000016.smil"/>
+ <item id="Paradiso.17.xhtml" href="Text/Paradiso.17.xhtml" media-type="application/xhtml+xml" media-overlay="s000017.smil"/>
+ <item id="Paradiso.18.xhtml" href="Text/Paradiso.18.xhtml" media-type="application/xhtml+xml" media-overlay="s000018.smil"/>
+ <item id="Paradiso.19.xhtml" href="Text/Paradiso.19.xhtml" media-type="application/xhtml+xml" media-overlay="s000019.smil"/>
+ <item id="Paradiso.20.xhtml" href="Text/Paradiso.20.xhtml" media-type="application/xhtml+xml" media-overlay="s000020.smil"/>
+ <item id="Paradiso.21.xhtml" href="Text/Paradiso.21.xhtml" media-type="application/xhtml+xml" media-overlay="s000021.smil"/>
+ <item id="Paradiso.22.xhtml" href="Text/Paradiso.22.xhtml" media-type="application/xhtml+xml" media-overlay="s000022.smil"/>
+ <item id="Paradiso.23.xhtml" href="Text/Paradiso.23.xhtml" media-type="application/xhtml+xml" media-overlay="s000023.smil"/>
+ <item id="Paradiso.24.xhtml" href="Text/Paradiso.24.xhtml" media-type="application/xhtml+xml" media-overlay="s000024.smil"/>
+ <item id="Paradiso.25.xhtml" href="Text/Paradiso.25.xhtml" media-type="application/xhtml+xml" media-overlay="s000025.smil"/>
+ <item id="Paradiso.26.xhtml" href="Text/Paradiso.26.xhtml" media-type="application/xhtml+xml" media-overlay="s000026.smil"/>
+ <item id="Paradiso.27.xhtml" href="Text/Paradiso.27.xhtml" media-type="application/xhtml+xml" media-overlay="s000027.smil"/>
+ <item id="Paradiso.28.xhtml" href="Text/Paradiso.28.xhtml" media-type="application/xhtml+xml" media-overlay="s000028.smil"/>
+ <item id="Paradiso.29.xhtml" href="Text/Paradiso.29.xhtml" media-type="application/xhtml+xml" media-overlay="s000029.smil"/>
+ <item id="Paradiso.30.xhtml" href="Text/Paradiso.30.xhtml" media-type="application/xhtml+xml" media-overlay="s000030.smil"/>
+ <item id="Paradiso.31.xhtml" href="Text/Paradiso.31.xhtml" media-type="application/xhtml+xml" media-overlay="s000031.smil"/>
+ <item id="Paradiso.32.xhtml" href="Text/Paradiso.32.xhtml" media-type="application/xhtml+xml" media-overlay="s000032.smil"/>
+ <item id="Paradiso.33.xhtml" href="Text/Paradiso.33.xhtml" media-type="application/xhtml+xml" media-overlay="s000033.smil"/>
+ <item id="Paradiso.xhtml" href="Text/Paradiso.xhtml" media-type="application/xhtml+xml"/>
+ <item id="Prefazione.xhtml" href="Text/Prefazione.xhtml" media-type="application/xhtml+xml"/>
+ <item id="Ringraziamenti.xhtml" href="Text/Ringraziamenti.xhtml" media-type="application/xhtml+xml"/>
+ <item id="Toc.xhtml" href="Toc.xhtml" properties="nav" media-type="application/xhtml+xml"/>
+ <item id="Toc.ncx" href="Toc.ncx" media-type="application/x-dtbncx+xml"/>
+</manifest>
+<spine toc="Toc.ncx">
+ <itemref idref="Copertina.xhtml" />
+ <itemref idref="Frontespizio.xhtml" />
+ <itemref idref="Introduzione.xhtml" />
+ <itemref idref="IntroduzioneBis.xhtml" />
+ <itemref idref="Prefazione.xhtml" />
+ <itemref idref="Guida.xhtml" />
+ <itemref idref="Indice.xhtml" />
+ <itemref idref="Paradiso.xhtml" />
+ <itemref idref="Paradiso.01.xhtml" />
+ <itemref idref="Paradiso.02.xhtml" />
+ <itemref idref="Paradiso.03.xhtml" />
+ <itemref idref="Paradiso.04.xhtml" />
+ <itemref idref="Paradiso.05.xhtml" />
+ <itemref idref="Paradiso.06.xhtml" />
+ <itemref idref="Paradiso.07.xhtml" />
+ <itemref idref="Paradiso.08.xhtml" />
+ <itemref idref="Paradiso.09.xhtml" />
+ <itemref idref="Paradiso.10.xhtml" />
+ <itemref idref="Paradiso.11.xhtml" />
+ <itemref idref="Paradiso.12.xhtml" />
+ <itemref idref="Paradiso.13.xhtml" />
+ <itemref idref="Paradiso.14.xhtml" />
+ <itemref idref="Paradiso.15.xhtml" />
+ <itemref idref="Paradiso.16.xhtml" />
+ <itemref idref="Paradiso.17.xhtml" />
+ <itemref idref="Paradiso.18.xhtml" />
+ <itemref idref="Paradiso.19.xhtml" />
+ <itemref idref="Paradiso.20.xhtml" />
+ <itemref idref="Paradiso.21.xhtml" />
+ <itemref idref="Paradiso.22.xhtml" />
+ <itemref idref="Paradiso.23.xhtml" />
+ <itemref idref="Paradiso.24.xhtml" />
+ <itemref idref="Paradiso.25.xhtml" />
+ <itemref idref="Paradiso.26.xhtml" />
+ <itemref idref="Paradiso.27.xhtml" />
+ <itemref idref="Paradiso.28.xhtml" />
+ <itemref idref="Paradiso.29.xhtml" />
+ <itemref idref="Paradiso.30.xhtml" />
+ <itemref idref="Paradiso.31.xhtml" />
+ <itemref idref="Paradiso.32.xhtml" />
+ <itemref idref="Paradiso.33.xhtml" />
+ <itemref idref="Fine.xhtml" />
+ <itemref idref="Colophon.xhtml" />
+ <itemref idref="Ringraziamenti.xhtml" />
+ <itemref idref="Toc.xhtml" linear="no" />
+</spine>
+</package>
