@@ -1,0 +1,1011 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="pubID" xml:lang="en" prefix="rendition: http://www.idpf.org/vocab/rendition/#">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+
+    <dc:identifier id="pubID">urn:uuid:a00e164a-6b49-4c17-8673-d26c82275e85</dc:identifier>
+    <meta refines="#pubID" property="identifier-type" scheme="xsd:string">uuid</meta>
+
+    <dc:title id="title">Sonnets</dc:title>
+    
+    <dc:creator id="aut">William Shakespeare</dc:creator>
+    <meta refines="#aut" property="role" scheme="marc:relators">aut</meta>
+    <meta refines="#aut" property="file-as">Shakespeare, William</meta>
+
+    <dc:contributor id="nrt">Chris Hughes</dc:contributor>
+    <meta refines="#nrt" property="role" scheme="marc:relators">nrt</meta>
+    <meta refines="#nrt" property="file-as">Hughes, Chris</meta>
+    
+    <dc:contributor id="bkp">ReadBeyond</dc:contributor>
+    <meta refines="#bkp" property="role" scheme="marc:relators">bkp</meta>
+    <meta refines="#bkp" property="file-as">ReadBeyond</meta>
+
+    <dc:language>en</dc:language>
+    <dc:date>2015-12-03</dc:date>
+
+    <dc:publisher>ReadBeyond</dc:publisher>
+    <dc:rights>CC BY-NC-SA 3.0</dc:rights>
+    <dc:subject>William Shakespeare</dc:subject>
+    <dc:subject>Sonnets</dc:subject>
+    <dc:subject>1609</dc:subject>
+    <dc:subject>poetry</dc:subject>
+    <dc:subject>love</dc:subject>
+    <dc:subject>procreation sonnets</dc:subject>
+    <dc:subject>youth</dc:subject>
+    <dc:subject>love</dc:subject>
+    <dc:subject>beauty</dc:subject>
+    <dc:subject>loneliness</dc:subject>
+    <dc:subject>death</dc:subject>
+    <dc:subject>transience</dc:subject>
+    <dc:subject>feelings</dc:subject>
+    <dc:subject>mistress</dc:subject>
+    <dc:subject>Cupid</dc:subject>
+    <dc:description>Shakespeare's sonnets are a collection of 154 sonnets, dealing with themes such as the passage of time, love, beauty and mortality, first published in a 1609 quarto entitled "SHAKE-SPEARES SONNETS. Never before imprinted." (although sonnets 138 and 144 had previously been published in the 1599 miscellany "The Passionate Pilgrim"). The quarto ends with "A Lover's Complaint", a narrative poem of 47 seven-line stanzas written in rhyme royal. The first 17 poems, traditionally called the procreation sonnets, are addressed to a young man urging him to marry and have children in order to immortalize his beauty by passing it to the next generation. Other sonnets express the speaker's love for a young man; brood upon loneliness, death, and the transience of life; seem to criticise the young man for preferring a rival poet; express ambiguous feelings for the speaker's mistress; and pun on the poet's name. The final two sonnets are allegorical treatments of Greek epigrams referring to the "little love-god" Cupid. (From Wikipedia.)</dc:description>
+    <dc:type>Book</dc:type>
+    <meta property="dcterms:modified">2015-12-03T00:00:01Z</meta>
+    <meta property="rendition:layout">reflowable</meta>
+    <meta name="cover" content="cover.jpg" />
+    
+    <!--MEDIA OVERLAY METADATA-->
+    <meta property="media:duration" refines="#s001">00:00:21.13</meta>
+    <meta property="media:duration" refines="#s002">00:00:53.84</meta>
+    <meta property="media:duration" refines="#s003">00:00:50.26</meta>
+    <meta property="media:duration" refines="#s004">00:00:52.38</meta>
+    <meta property="media:duration" refines="#s005">00:00:46.47</meta>
+    <meta property="media:duration" refines="#s006">00:00:54.83</meta>
+    <meta property="media:duration" refines="#s007">00:00:47.36</meta>
+    <meta property="media:duration" refines="#s008">00:00:48.69</meta>
+    <meta property="media:duration" refines="#s009">00:00:51.93</meta>
+    <meta property="media:duration" refines="#s010">00:00:47.12</meta>
+    <meta property="media:duration" refines="#s011">00:00:48.35</meta>
+    <meta property="media:duration" refines="#s012">00:00:54.10</meta>
+    <meta property="media:duration" refines="#s013">00:00:55.69</meta>
+    <meta property="media:duration" refines="#s014">00:00:49.71</meta>
+    <meta property="media:duration" refines="#s015">00:00:47.33</meta>
+    <meta property="media:duration" refines="#s016">00:00:50.49</meta>
+    <meta property="media:duration" refines="#s017">00:00:49.14</meta>
+    <meta property="media:duration" refines="#s018">00:00:50.94</meta>
+    <meta property="media:duration" refines="#s019">00:00:50.16</meta>
+    <meta property="media:duration" refines="#s020">00:00:49.58</meta>
+    <meta property="media:duration" refines="#s021">00:00:52.30</meta>
+    <meta property="media:duration" refines="#s022">00:00:52.45</meta>
+    <meta property="media:duration" refines="#s023">00:00:47.39</meta>
+    <meta property="media:duration" refines="#s024">00:00:50.02</meta>
+    <meta property="media:duration" refines="#s025">00:00:47.62</meta>
+    <meta property="media:duration" refines="#s026">00:00:47.93</meta>
+    <meta property="media:duration" refines="#s027">00:00:48.17</meta>
+    <meta property="media:duration" refines="#s028">00:00:50.16</meta>
+    <meta property="media:duration" refines="#s029">00:00:44.54</meta>
+    <meta property="media:duration" refines="#s030">00:00:51.46</meta>
+    <meta property="media:duration" refines="#s031">00:00:53.68</meta>
+    <meta property="media:duration" refines="#s032">00:00:54.75</meta>
+    <meta property="media:duration" refines="#s033">00:00:55.93</meta>
+    <meta property="media:duration" refines="#s034">00:00:58.88</meta>
+    <meta property="media:duration" refines="#s035">00:00:48.51</meta>
+    <meta property="media:duration" refines="#s036">00:00:53.81</meta>
+    <meta property="media:duration" refines="#s037">00:00:51.93</meta>
+    <meta property="media:duration" refines="#s038">00:00:55.22</meta>
+    <meta property="media:duration" refines="#s039">00:00:51.93</meta>
+    <meta property="media:duration" refines="#s040">00:00:50.52</meta>
+    <meta property="media:duration" refines="#s041">00:00:51.57</meta>
+    <meta property="media:duration" refines="#s042">00:00:50.10</meta>
+    <meta property="media:duration" refines="#s043">00:00:55.51</meta>
+    <meta property="media:duration" refines="#s044">00:00:52.98</meta>
+    <meta property="media:duration" refines="#s045">00:00:46.79</meta>
+    <meta property="media:duration" refines="#s046">00:00:54.13</meta>
+    <meta property="media:duration" refines="#s047">00:00:52.87</meta>
+    <meta property="media:duration" refines="#s048">00:00:49.76</meta>
+    <meta property="media:duration" refines="#s049">00:00:49.76</meta>
+    <meta property="media:duration" refines="#s050">00:00:55.51</meta>
+    <meta property="media:duration" refines="#s051">00:00:53.11</meta>
+    <meta property="media:duration" refines="#s052">00:00:51.77</meta>
+    <meta property="media:duration" refines="#s053">00:00:47.20</meta>
+    <meta property="media:duration" refines="#s054">00:00:47.75</meta>
+    <meta property="media:duration" refines="#s055">00:00:51.77</meta>
+    <meta property="media:duration" refines="#s056">00:00:51.77</meta>
+    <meta property="media:duration" refines="#s057">00:00:49.71</meta>
+    <meta property="media:duration" refines="#s058">00:00:49.37</meta>
+    <meta property="media:duration" refines="#s059">00:00:46.65</meta>
+    <meta property="media:duration" refines="#s060">00:00:42.74</meta>
+    <meta property="media:duration" refines="#s061">00:00:51.57</meta>
+    <meta property="media:duration" refines="#s062">00:00:48.20</meta>
+    <meta property="media:duration" refines="#s063">00:00:49.95</meta>
+    <meta property="media:duration" refines="#s064">00:00:49.16</meta>
+    <meta property="media:duration" refines="#s065">00:00:49.40</meta>
+    <meta property="media:duration" refines="#s066">00:00:50.60</meta>
+    <meta property="media:duration" refines="#s067">00:00:45.04</meta>
+    <meta property="media:duration" refines="#s068">00:00:47.33</meta>
+    <meta property="media:duration" refines="#s069">00:00:47.44</meta>
+    <meta property="media:duration" refines="#s070">00:00:52.66</meta>
+    <meta property="media:duration" refines="#s071">00:00:48.40</meta>
+    <meta property="media:duration" refines="#s072">00:00:48.80</meta>
+    <meta property="media:duration" refines="#s073">00:00:49.79</meta>
+    <meta property="media:duration" refines="#s074">00:00:54.00</meta>
+    <meta property="media:duration" refines="#s075">00:00:49.92</meta>
+    <meta property="media:duration" refines="#s076">00:00:51.23</meta>
+    <meta property="media:duration" refines="#s077">00:00:49.03</meta>
+    <meta property="media:duration" refines="#s078">00:00:47.26</meta>
+    <meta property="media:duration" refines="#s079">00:00:46.16</meta>
+    <meta property="media:duration" refines="#s080">00:00:47.15</meta>
+    <meta property="media:duration" refines="#s081">00:00:50.36</meta>
+    <meta property="media:duration" refines="#s082">00:00:56.76</meta>
+    <meta property="media:duration" refines="#s083">00:00:53.05</meta>
+    <meta property="media:duration" refines="#s084">00:00:51.20</meta>
+    <meta property="media:duration" refines="#s085">00:00:53.52</meta>
+    <meta property="media:duration" refines="#s086">00:00:53.05</meta>
+    <meta property="media:duration" refines="#s087">00:00:51.07</meta>
+    <meta property="media:duration" refines="#s088">00:00:56.29</meta>
+    <meta property="media:duration" refines="#s089">00:00:49.11</meta>
+    <meta property="media:duration" refines="#s090">00:00:50.31</meta>
+    <meta property="media:duration" refines="#s091">00:00:49.79</meta>
+    <meta property="media:duration" refines="#s092">00:00:54.39</meta>
+    <meta property="media:duration" refines="#s093">00:00:48.17</meta>
+    <meta property="media:duration" refines="#s094">00:00:53.55</meta>
+    <meta property="media:duration" refines="#s095">00:00:54.86</meta>
+    <meta property="media:duration" refines="#s096">00:00:54.96</meta>
+    <meta property="media:duration" refines="#s097">00:00:55.33</meta>
+    <meta property="media:duration" refines="#s098">00:00:56.76</meta>
+    <meta property="media:duration" refines="#s099">00:00:51.28</meta>
+    <meta property="media:duration" refines="#s100">00:00:57.00</meta>
+    <meta property="media:duration" refines="#s101">00:00:53.79</meta>
+    <meta property="media:duration" refines="#s102">00:00:49.29</meta>
+    <meta property="media:duration" refines="#s103">00:00:53.50</meta>
+    <meta property="media:duration" refines="#s104">00:00:48.61</meta>
+    <meta property="media:duration" refines="#s105">00:00:54.28</meta>
+    <meta property="media:duration" refines="#s106">00:00:51.91</meta>
+    <meta property="media:duration" refines="#s107">00:00:50.76</meta>
+    <meta property="media:duration" refines="#s108">00:00:53.50</meta>
+    <meta property="media:duration" refines="#s109">00:00:51.23</meta>
+    <meta property="media:duration" refines="#s110">00:00:46.92</meta>
+    <meta property="media:duration" refines="#s111">00:00:52.01</meta>
+    <meta property="media:duration" refines="#s112">00:00:48.17</meta>
+    <meta property="media:duration" refines="#s113">00:00:52.01</meta>
+    <meta property="media:duration" refines="#s114">00:00:51.12</meta>
+    <meta property="media:duration" refines="#s115">00:00:48.51</meta>
+    <meta property="media:duration" refines="#s116">00:00:55.64</meta>
+    <meta property="media:duration" refines="#s117">00:00:49.42</meta>
+    <meta property="media:duration" refines="#s118">00:00:51.46</meta>
+    <meta property="media:duration" refines="#s119">00:00:53.03</meta>
+    <meta property="media:duration" refines="#s120">00:00:49.53</meta>
+    <meta property="media:duration" refines="#s121">00:00:53.26</meta>
+    <meta property="media:duration" refines="#s122">00:00:49.48</meta>
+    <meta property="media:duration" refines="#s123">00:00:46.50</meta>
+    <meta property="media:duration" refines="#s124">00:00:53.45</meta>
+    <meta property="media:duration" refines="#s125">00:00:53.92</meta>
+    <meta property="media:duration" refines="#s126">00:00:51.51</meta>
+    <meta property="media:duration" refines="#s127">00:00:45.14</meta>
+    <meta property="media:duration" refines="#s128">00:00:56.76</meta>
+    <meta property="media:duration" refines="#s129">00:00:51.30</meta>
+    <meta property="media:duration" refines="#s130">00:00:55.95</meta>
+    <meta property="media:duration" refines="#s131">00:00:52.43</meta>
+    <meta property="media:duration" refines="#s132">00:00:52.01</meta>
+    <meta property="media:duration" refines="#s133">00:00:49.48</meta>
+    <meta property="media:duration" refines="#s134">00:00:52.45</meta>
+    <meta property="media:duration" refines="#s135">00:00:50.39</meta>
+    <meta property="media:duration" refines="#s136">00:00:52.69</meta>
+    <meta property="media:duration" refines="#s137">00:00:51.64</meta>
+    <meta property="media:duration" refines="#s138">00:00:50.63</meta>
+    <meta property="media:duration" refines="#s139">00:00:52.79</meta>
+    <meta property="media:duration" refines="#s140">00:00:50.73</meta>
+    <meta property="media:duration" refines="#s141">00:00:56.48</meta>
+    <meta property="media:duration" refines="#s142">00:00:52.56</meta>
+    <meta property="media:duration" refines="#s143">00:00:48.85</meta>
+    <meta property="media:duration" refines="#s144">00:00:50.70</meta>
+    <meta property="media:duration" refines="#s145">00:00:53.00</meta>
+    <meta property="media:duration" refines="#s146">00:00:44.67</meta>
+    <meta property="media:duration" refines="#s147">00:00:55.48</meta>
+    <meta property="media:duration" refines="#s148">00:00:51.54</meta>
+    <meta property="media:duration" refines="#s149">00:00:51.62</meta>
+    <meta property="media:duration" refines="#s150">00:00:48.85</meta>
+    <meta property="media:duration" refines="#s151">00:00:46.05</meta>
+    <meta property="media:duration" refines="#s152">00:00:49.76</meta>
+    <meta property="media:duration" refines="#s153">00:00:54.10</meta>
+    <meta property="media:duration" refines="#s154">00:00:50.99</meta>
+    <meta property="media:duration" refines="#s155">00:00:49.66</meta>
+    <meta property="media:duration">02:11:22.93</meta>
+    <meta property="media:narrator">Chris Hughes</meta>
+    <meta property="media:active-class">-epub-media-overlay-active</meta>
+</metadata>
+<manifest>
+    <item id="toc.ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="toc" href="Text/toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    
+    <item id="cover" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="colophon" href="Text/colophon.xhtml" media-type="application/xhtml+xml"/>
+    <item id="playlist" href="Text/playlist.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c001" href="Styles/style.css" media-type="text/css"/>
+
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg" properties="cover-image" />
+    <item id="logofb.png" href="Images/logofb.png" media-type="image/png" />
+    <item id="logotw.png" href="Images/logotw.png" media-type="image/png" />
+    <item id="logowww.png" href="Images/logowww.png" media-type="image/png" />
+
+    <item id="p001" href="Text/p001.xhtml" media-type="application/xhtml+xml" media-overlay="s001"/>
+    <item id="s001" href="Text/p001.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m001" href="Audio/001_cover.mp3" media-type="audio/mpeg"/>
+
+    <item id="p002" href="Text/p002.xhtml" media-type="application/xhtml+xml" media-overlay="s002"/>
+    <item id="s002" href="Text/p002.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m002" href="Audio/002_001.mp3" media-type="audio/mpeg"/>
+
+    <item id="p003" href="Text/p003.xhtml" media-type="application/xhtml+xml" media-overlay="s003"/>
+    <item id="s003" href="Text/p003.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m003" href="Audio/003_002.mp3" media-type="audio/mpeg"/>
+
+    <item id="p004" href="Text/p004.xhtml" media-type="application/xhtml+xml" media-overlay="s004"/>
+    <item id="s004" href="Text/p004.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m004" href="Audio/004_003.mp3" media-type="audio/mpeg"/>
+
+    <item id="p005" href="Text/p005.xhtml" media-type="application/xhtml+xml" media-overlay="s005"/>
+    <item id="s005" href="Text/p005.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m005" href="Audio/005_004.mp3" media-type="audio/mpeg"/>
+
+    <item id="p006" href="Text/p006.xhtml" media-type="application/xhtml+xml" media-overlay="s006"/>
+    <item id="s006" href="Text/p006.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m006" href="Audio/006_005.mp3" media-type="audio/mpeg"/>
+
+    <item id="p007" href="Text/p007.xhtml" media-type="application/xhtml+xml" media-overlay="s007"/>
+    <item id="s007" href="Text/p007.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m007" href="Audio/007_006.mp3" media-type="audio/mpeg"/>
+
+    <item id="p008" href="Text/p008.xhtml" media-type="application/xhtml+xml" media-overlay="s008"/>
+    <item id="s008" href="Text/p008.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m008" href="Audio/008_007.mp3" media-type="audio/mpeg"/>
+
+    <item id="p009" href="Text/p009.xhtml" media-type="application/xhtml+xml" media-overlay="s009"/>
+    <item id="s009" href="Text/p009.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m009" href="Audio/009_008.mp3" media-type="audio/mpeg"/>
+
+    <item id="p010" href="Text/p010.xhtml" media-type="application/xhtml+xml" media-overlay="s010"/>
+    <item id="s010" href="Text/p010.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m010" href="Audio/010_009.mp3" media-type="audio/mpeg"/>
+
+    <item id="p011" href="Text/p011.xhtml" media-type="application/xhtml+xml" media-overlay="s011"/>
+    <item id="s011" href="Text/p011.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m011" href="Audio/011_010.mp3" media-type="audio/mpeg"/>
+
+    <item id="p012" href="Text/p012.xhtml" media-type="application/xhtml+xml" media-overlay="s012"/>
+    <item id="s012" href="Text/p012.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m012" href="Audio/012_011.mp3" media-type="audio/mpeg"/>
+
+    <item id="p013" href="Text/p013.xhtml" media-type="application/xhtml+xml" media-overlay="s013"/>
+    <item id="s013" href="Text/p013.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m013" href="Audio/013_012.mp3" media-type="audio/mpeg"/>
+
+    <item id="p014" href="Text/p014.xhtml" media-type="application/xhtml+xml" media-overlay="s014"/>
+    <item id="s014" href="Text/p014.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m014" href="Audio/014_013.mp3" media-type="audio/mpeg"/>
+
+    <item id="p015" href="Text/p015.xhtml" media-type="application/xhtml+xml" media-overlay="s015"/>
+    <item id="s015" href="Text/p015.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m015" href="Audio/015_014.mp3" media-type="audio/mpeg"/>
+
+    <item id="p016" href="Text/p016.xhtml" media-type="application/xhtml+xml" media-overlay="s016"/>
+    <item id="s016" href="Text/p016.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m016" href="Audio/016_015.mp3" media-type="audio/mpeg"/>
+
+    <item id="p017" href="Text/p017.xhtml" media-type="application/xhtml+xml" media-overlay="s017"/>
+    <item id="s017" href="Text/p017.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m017" href="Audio/017_016.mp3" media-type="audio/mpeg"/>
+
+    <item id="p018" href="Text/p018.xhtml" media-type="application/xhtml+xml" media-overlay="s018"/>
+    <item id="s018" href="Text/p018.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m018" href="Audio/018_017.mp3" media-type="audio/mpeg"/>
+
+    <item id="p019" href="Text/p019.xhtml" media-type="application/xhtml+xml" media-overlay="s019"/>
+    <item id="s019" href="Text/p019.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m019" href="Audio/019_018.mp3" media-type="audio/mpeg"/>
+
+    <item id="p020" href="Text/p020.xhtml" media-type="application/xhtml+xml" media-overlay="s020"/>
+    <item id="s020" href="Text/p020.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m020" href="Audio/020_019.mp3" media-type="audio/mpeg"/>
+
+    <item id="p021" href="Text/p021.xhtml" media-type="application/xhtml+xml" media-overlay="s021"/>
+    <item id="s021" href="Text/p021.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m021" href="Audio/021_020.mp3" media-type="audio/mpeg"/>
+
+    <item id="p022" href="Text/p022.xhtml" media-type="application/xhtml+xml" media-overlay="s022"/>
+    <item id="s022" href="Text/p022.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m022" href="Audio/022_021.mp3" media-type="audio/mpeg"/>
+
+    <item id="p023" href="Text/p023.xhtml" media-type="application/xhtml+xml" media-overlay="s023"/>
+    <item id="s023" href="Text/p023.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m023" href="Audio/023_022.mp3" media-type="audio/mpeg"/>
+
+    <item id="p024" href="Text/p024.xhtml" media-type="application/xhtml+xml" media-overlay="s024"/>
+    <item id="s024" href="Text/p024.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m024" href="Audio/024_023.mp3" media-type="audio/mpeg"/>
+
+    <item id="p025" href="Text/p025.xhtml" media-type="application/xhtml+xml" media-overlay="s025"/>
+    <item id="s025" href="Text/p025.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m025" href="Audio/025_024.mp3" media-type="audio/mpeg"/>
+
+    <item id="p026" href="Text/p026.xhtml" media-type="application/xhtml+xml" media-overlay="s026"/>
+    <item id="s026" href="Text/p026.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m026" href="Audio/026_025.mp3" media-type="audio/mpeg"/>
+
+    <item id="p027" href="Text/p027.xhtml" media-type="application/xhtml+xml" media-overlay="s027"/>
+    <item id="s027" href="Text/p027.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m027" href="Audio/027_026.mp3" media-type="audio/mpeg"/>
+
+    <item id="p028" href="Text/p028.xhtml" media-type="application/xhtml+xml" media-overlay="s028"/>
+    <item id="s028" href="Text/p028.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m028" href="Audio/028_027.mp3" media-type="audio/mpeg"/>
+
+    <item id="p029" href="Text/p029.xhtml" media-type="application/xhtml+xml" media-overlay="s029"/>
+    <item id="s029" href="Text/p029.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m029" href="Audio/029_028.mp3" media-type="audio/mpeg"/>
+
+    <item id="p030" href="Text/p030.xhtml" media-type="application/xhtml+xml" media-overlay="s030"/>
+    <item id="s030" href="Text/p030.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m030" href="Audio/030_029.mp3" media-type="audio/mpeg"/>
+
+    <item id="p031" href="Text/p031.xhtml" media-type="application/xhtml+xml" media-overlay="s031"/>
+    <item id="s031" href="Text/p031.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m031" href="Audio/031_030.mp3" media-type="audio/mpeg"/>
+
+    <item id="p032" href="Text/p032.xhtml" media-type="application/xhtml+xml" media-overlay="s032"/>
+    <item id="s032" href="Text/p032.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m032" href="Audio/032_031.mp3" media-type="audio/mpeg"/>
+
+    <item id="p033" href="Text/p033.xhtml" media-type="application/xhtml+xml" media-overlay="s033"/>
+    <item id="s033" href="Text/p033.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m033" href="Audio/033_032.mp3" media-type="audio/mpeg"/>
+
+    <item id="p034" href="Text/p034.xhtml" media-type="application/xhtml+xml" media-overlay="s034"/>
+    <item id="s034" href="Text/p034.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m034" href="Audio/034_033.mp3" media-type="audio/mpeg"/>
+
+    <item id="p035" href="Text/p035.xhtml" media-type="application/xhtml+xml" media-overlay="s035"/>
+    <item id="s035" href="Text/p035.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m035" href="Audio/035_034.mp3" media-type="audio/mpeg"/>
+
+    <item id="p036" href="Text/p036.xhtml" media-type="application/xhtml+xml" media-overlay="s036"/>
+    <item id="s036" href="Text/p036.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m036" href="Audio/036_035.mp3" media-type="audio/mpeg"/>
+
+    <item id="p037" href="Text/p037.xhtml" media-type="application/xhtml+xml" media-overlay="s037"/>
+    <item id="s037" href="Text/p037.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m037" href="Audio/037_036.mp3" media-type="audio/mpeg"/>
+
+    <item id="p038" href="Text/p038.xhtml" media-type="application/xhtml+xml" media-overlay="s038"/>
+    <item id="s038" href="Text/p038.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m038" href="Audio/038_037.mp3" media-type="audio/mpeg"/>
+
+    <item id="p039" href="Text/p039.xhtml" media-type="application/xhtml+xml" media-overlay="s039"/>
+    <item id="s039" href="Text/p039.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m039" href="Audio/039_038.mp3" media-type="audio/mpeg"/>
+
+    <item id="p040" href="Text/p040.xhtml" media-type="application/xhtml+xml" media-overlay="s040"/>
+    <item id="s040" href="Text/p040.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m040" href="Audio/040_039.mp3" media-type="audio/mpeg"/>
+
+    <item id="p041" href="Text/p041.xhtml" media-type="application/xhtml+xml" media-overlay="s041"/>
+    <item id="s041" href="Text/p041.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m041" href="Audio/041_040.mp3" media-type="audio/mpeg"/>
+
+    <item id="p042" href="Text/p042.xhtml" media-type="application/xhtml+xml" media-overlay="s042"/>
+    <item id="s042" href="Text/p042.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m042" href="Audio/042_041.mp3" media-type="audio/mpeg"/>
+
+    <item id="p043" href="Text/p043.xhtml" media-type="application/xhtml+xml" media-overlay="s043"/>
+    <item id="s043" href="Text/p043.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m043" href="Audio/043_042.mp3" media-type="audio/mpeg"/>
+
+    <item id="p044" href="Text/p044.xhtml" media-type="application/xhtml+xml" media-overlay="s044"/>
+    <item id="s044" href="Text/p044.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m044" href="Audio/044_043.mp3" media-type="audio/mpeg"/>
+
+    <item id="p045" href="Text/p045.xhtml" media-type="application/xhtml+xml" media-overlay="s045"/>
+    <item id="s045" href="Text/p045.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m045" href="Audio/045_044.mp3" media-type="audio/mpeg"/>
+
+    <item id="p046" href="Text/p046.xhtml" media-type="application/xhtml+xml" media-overlay="s046"/>
+    <item id="s046" href="Text/p046.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m046" href="Audio/046_045.mp3" media-type="audio/mpeg"/>
+
+    <item id="p047" href="Text/p047.xhtml" media-type="application/xhtml+xml" media-overlay="s047"/>
+    <item id="s047" href="Text/p047.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m047" href="Audio/047_046.mp3" media-type="audio/mpeg"/>
+
+    <item id="p048" href="Text/p048.xhtml" media-type="application/xhtml+xml" media-overlay="s048"/>
+    <item id="s048" href="Text/p048.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m048" href="Audio/048_047.mp3" media-type="audio/mpeg"/>
+
+    <item id="p049" href="Text/p049.xhtml" media-type="application/xhtml+xml" media-overlay="s049"/>
+    <item id="s049" href="Text/p049.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m049" href="Audio/049_048.mp3" media-type="audio/mpeg"/>
+
+    <item id="p050" href="Text/p050.xhtml" media-type="application/xhtml+xml" media-overlay="s050"/>
+    <item id="s050" href="Text/p050.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m050" href="Audio/050_049.mp3" media-type="audio/mpeg"/>
+
+    <item id="p051" href="Text/p051.xhtml" media-type="application/xhtml+xml" media-overlay="s051"/>
+    <item id="s051" href="Text/p051.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m051" href="Audio/051_050.mp3" media-type="audio/mpeg"/>
+
+    <item id="p052" href="Text/p052.xhtml" media-type="application/xhtml+xml" media-overlay="s052"/>
+    <item id="s052" href="Text/p052.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m052" href="Audio/052_051.mp3" media-type="audio/mpeg"/>
+
+    <item id="p053" href="Text/p053.xhtml" media-type="application/xhtml+xml" media-overlay="s053"/>
+    <item id="s053" href="Text/p053.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m053" href="Audio/053_052.mp3" media-type="audio/mpeg"/>
+
+    <item id="p054" href="Text/p054.xhtml" media-type="application/xhtml+xml" media-overlay="s054"/>
+    <item id="s054" href="Text/p054.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m054" href="Audio/054_053.mp3" media-type="audio/mpeg"/>
+
+    <item id="p055" href="Text/p055.xhtml" media-type="application/xhtml+xml" media-overlay="s055"/>
+    <item id="s055" href="Text/p055.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m055" href="Audio/055_054.mp3" media-type="audio/mpeg"/>
+
+    <item id="p056" href="Text/p056.xhtml" media-type="application/xhtml+xml" media-overlay="s056"/>
+    <item id="s056" href="Text/p056.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m056" href="Audio/056_055.mp3" media-type="audio/mpeg"/>
+
+    <item id="p057" href="Text/p057.xhtml" media-type="application/xhtml+xml" media-overlay="s057"/>
+    <item id="s057" href="Text/p057.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m057" href="Audio/057_056.mp3" media-type="audio/mpeg"/>
+
+    <item id="p058" href="Text/p058.xhtml" media-type="application/xhtml+xml" media-overlay="s058"/>
+    <item id="s058" href="Text/p058.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m058" href="Audio/058_057.mp3" media-type="audio/mpeg"/>
+
+    <item id="p059" href="Text/p059.xhtml" media-type="application/xhtml+xml" media-overlay="s059"/>
+    <item id="s059" href="Text/p059.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m059" href="Audio/059_058.mp3" media-type="audio/mpeg"/>
+
+    <item id="p060" href="Text/p060.xhtml" media-type="application/xhtml+xml" media-overlay="s060"/>
+    <item id="s060" href="Text/p060.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m060" href="Audio/060_059.mp3" media-type="audio/mpeg"/>
+
+    <item id="p061" href="Text/p061.xhtml" media-type="application/xhtml+xml" media-overlay="s061"/>
+    <item id="s061" href="Text/p061.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m061" href="Audio/061_060.mp3" media-type="audio/mpeg"/>
+
+    <item id="p062" href="Text/p062.xhtml" media-type="application/xhtml+xml" media-overlay="s062"/>
+    <item id="s062" href="Text/p062.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m062" href="Audio/062_061.mp3" media-type="audio/mpeg"/>
+
+    <item id="p063" href="Text/p063.xhtml" media-type="application/xhtml+xml" media-overlay="s063"/>
+    <item id="s063" href="Text/p063.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m063" href="Audio/063_062.mp3" media-type="audio/mpeg"/>
+
+    <item id="p064" href="Text/p064.xhtml" media-type="application/xhtml+xml" media-overlay="s064"/>
+    <item id="s064" href="Text/p064.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m064" href="Audio/064_063.mp3" media-type="audio/mpeg"/>
+
+    <item id="p065" href="Text/p065.xhtml" media-type="application/xhtml+xml" media-overlay="s065"/>
+    <item id="s065" href="Text/p065.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m065" href="Audio/065_064.mp3" media-type="audio/mpeg"/>
+
+    <item id="p066" href="Text/p066.xhtml" media-type="application/xhtml+xml" media-overlay="s066"/>
+    <item id="s066" href="Text/p066.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m066" href="Audio/066_065.mp3" media-type="audio/mpeg"/>
+
+    <item id="p067" href="Text/p067.xhtml" media-type="application/xhtml+xml" media-overlay="s067"/>
+    <item id="s067" href="Text/p067.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m067" href="Audio/067_066.mp3" media-type="audio/mpeg"/>
+
+    <item id="p068" href="Text/p068.xhtml" media-type="application/xhtml+xml" media-overlay="s068"/>
+    <item id="s068" href="Text/p068.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m068" href="Audio/068_067.mp3" media-type="audio/mpeg"/>
+
+    <item id="p069" href="Text/p069.xhtml" media-type="application/xhtml+xml" media-overlay="s069"/>
+    <item id="s069" href="Text/p069.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m069" href="Audio/069_068.mp3" media-type="audio/mpeg"/>
+
+    <item id="p070" href="Text/p070.xhtml" media-type="application/xhtml+xml" media-overlay="s070"/>
+    <item id="s070" href="Text/p070.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m070" href="Audio/070_069.mp3" media-type="audio/mpeg"/>
+
+    <item id="p071" href="Text/p071.xhtml" media-type="application/xhtml+xml" media-overlay="s071"/>
+    <item id="s071" href="Text/p071.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m071" href="Audio/071_070.mp3" media-type="audio/mpeg"/>
+
+    <item id="p072" href="Text/p072.xhtml" media-type="application/xhtml+xml" media-overlay="s072"/>
+    <item id="s072" href="Text/p072.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m072" href="Audio/072_071.mp3" media-type="audio/mpeg"/>
+
+    <item id="p073" href="Text/p073.xhtml" media-type="application/xhtml+xml" media-overlay="s073"/>
+    <item id="s073" href="Text/p073.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m073" href="Audio/073_072.mp3" media-type="audio/mpeg"/>
+
+    <item id="p074" href="Text/p074.xhtml" media-type="application/xhtml+xml" media-overlay="s074"/>
+    <item id="s074" href="Text/p074.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m074" href="Audio/074_073.mp3" media-type="audio/mpeg"/>
+
+    <item id="p075" href="Text/p075.xhtml" media-type="application/xhtml+xml" media-overlay="s075"/>
+    <item id="s075" href="Text/p075.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m075" href="Audio/075_074.mp3" media-type="audio/mpeg"/>
+
+    <item id="p076" href="Text/p076.xhtml" media-type="application/xhtml+xml" media-overlay="s076"/>
+    <item id="s076" href="Text/p076.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m076" href="Audio/076_075.mp3" media-type="audio/mpeg"/>
+
+    <item id="p077" href="Text/p077.xhtml" media-type="application/xhtml+xml" media-overlay="s077"/>
+    <item id="s077" href="Text/p077.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m077" href="Audio/077_076.mp3" media-type="audio/mpeg"/>
+
+    <item id="p078" href="Text/p078.xhtml" media-type="application/xhtml+xml" media-overlay="s078"/>
+    <item id="s078" href="Text/p078.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m078" href="Audio/078_077.mp3" media-type="audio/mpeg"/>
+
+    <item id="p079" href="Text/p079.xhtml" media-type="application/xhtml+xml" media-overlay="s079"/>
+    <item id="s079" href="Text/p079.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m079" href="Audio/079_078.mp3" media-type="audio/mpeg"/>
+
+    <item id="p080" href="Text/p080.xhtml" media-type="application/xhtml+xml" media-overlay="s080"/>
+    <item id="s080" href="Text/p080.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m080" href="Audio/080_079.mp3" media-type="audio/mpeg"/>
+
+    <item id="p081" href="Text/p081.xhtml" media-type="application/xhtml+xml" media-overlay="s081"/>
+    <item id="s081" href="Text/p081.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m081" href="Audio/081_080.mp3" media-type="audio/mpeg"/>
+
+    <item id="p082" href="Text/p082.xhtml" media-type="application/xhtml+xml" media-overlay="s082"/>
+    <item id="s082" href="Text/p082.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m082" href="Audio/082_081.mp3" media-type="audio/mpeg"/>
+
+    <item id="p083" href="Text/p083.xhtml" media-type="application/xhtml+xml" media-overlay="s083"/>
+    <item id="s083" href="Text/p083.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m083" href="Audio/083_082.mp3" media-type="audio/mpeg"/>
+
+    <item id="p084" href="Text/p084.xhtml" media-type="application/xhtml+xml" media-overlay="s084"/>
+    <item id="s084" href="Text/p084.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m084" href="Audio/084_083.mp3" media-type="audio/mpeg"/>
+
+    <item id="p085" href="Text/p085.xhtml" media-type="application/xhtml+xml" media-overlay="s085"/>
+    <item id="s085" href="Text/p085.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m085" href="Audio/085_084.mp3" media-type="audio/mpeg"/>
+
+    <item id="p086" href="Text/p086.xhtml" media-type="application/xhtml+xml" media-overlay="s086"/>
+    <item id="s086" href="Text/p086.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m086" href="Audio/086_085.mp3" media-type="audio/mpeg"/>
+
+    <item id="p087" href="Text/p087.xhtml" media-type="application/xhtml+xml" media-overlay="s087"/>
+    <item id="s087" href="Text/p087.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m087" href="Audio/087_086.mp3" media-type="audio/mpeg"/>
+
+    <item id="p088" href="Text/p088.xhtml" media-type="application/xhtml+xml" media-overlay="s088"/>
+    <item id="s088" href="Text/p088.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m088" href="Audio/088_087.mp3" media-type="audio/mpeg"/>
+
+    <item id="p089" href="Text/p089.xhtml" media-type="application/xhtml+xml" media-overlay="s089"/>
+    <item id="s089" href="Text/p089.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m089" href="Audio/089_088.mp3" media-type="audio/mpeg"/>
+
+    <item id="p090" href="Text/p090.xhtml" media-type="application/xhtml+xml" media-overlay="s090"/>
+    <item id="s090" href="Text/p090.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m090" href="Audio/090_089.mp3" media-type="audio/mpeg"/>
+
+    <item id="p091" href="Text/p091.xhtml" media-type="application/xhtml+xml" media-overlay="s091"/>
+    <item id="s091" href="Text/p091.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m091" href="Audio/091_090.mp3" media-type="audio/mpeg"/>
+
+    <item id="p092" href="Text/p092.xhtml" media-type="application/xhtml+xml" media-overlay="s092"/>
+    <item id="s092" href="Text/p092.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m092" href="Audio/092_091.mp3" media-type="audio/mpeg"/>
+
+    <item id="p093" href="Text/p093.xhtml" media-type="application/xhtml+xml" media-overlay="s093"/>
+    <item id="s093" href="Text/p093.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m093" href="Audio/093_092.mp3" media-type="audio/mpeg"/>
+
+    <item id="p094" href="Text/p094.xhtml" media-type="application/xhtml+xml" media-overlay="s094"/>
+    <item id="s094" href="Text/p094.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m094" href="Audio/094_093.mp3" media-type="audio/mpeg"/>
+
+    <item id="p095" href="Text/p095.xhtml" media-type="application/xhtml+xml" media-overlay="s095"/>
+    <item id="s095" href="Text/p095.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m095" href="Audio/095_094.mp3" media-type="audio/mpeg"/>
+
+    <item id="p096" href="Text/p096.xhtml" media-type="application/xhtml+xml" media-overlay="s096"/>
+    <item id="s096" href="Text/p096.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m096" href="Audio/096_095.mp3" media-type="audio/mpeg"/>
+
+    <item id="p097" href="Text/p097.xhtml" media-type="application/xhtml+xml" media-overlay="s097"/>
+    <item id="s097" href="Text/p097.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m097" href="Audio/097_096.mp3" media-type="audio/mpeg"/>
+
+    <item id="p098" href="Text/p098.xhtml" media-type="application/xhtml+xml" media-overlay="s098"/>
+    <item id="s098" href="Text/p098.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m098" href="Audio/098_097.mp3" media-type="audio/mpeg"/>
+
+    <item id="p099" href="Text/p099.xhtml" media-type="application/xhtml+xml" media-overlay="s099"/>
+    <item id="s099" href="Text/p099.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m099" href="Audio/099_098.mp3" media-type="audio/mpeg"/>
+
+    <item id="p100" href="Text/p100.xhtml" media-type="application/xhtml+xml" media-overlay="s100"/>
+    <item id="s100" href="Text/p100.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m100" href="Audio/100_099.mp3" media-type="audio/mpeg"/>
+
+    <item id="p101" href="Text/p101.xhtml" media-type="application/xhtml+xml" media-overlay="s101"/>
+    <item id="s101" href="Text/p101.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m101" href="Audio/101_100.mp3" media-type="audio/mpeg"/>
+
+    <item id="p102" href="Text/p102.xhtml" media-type="application/xhtml+xml" media-overlay="s102"/>
+    <item id="s102" href="Text/p102.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m102" href="Audio/102_101.mp3" media-type="audio/mpeg"/>
+
+    <item id="p103" href="Text/p103.xhtml" media-type="application/xhtml+xml" media-overlay="s103"/>
+    <item id="s103" href="Text/p103.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m103" href="Audio/103_102.mp3" media-type="audio/mpeg"/>
+
+    <item id="p104" href="Text/p104.xhtml" media-type="application/xhtml+xml" media-overlay="s104"/>
+    <item id="s104" href="Text/p104.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m104" href="Audio/104_103.mp3" media-type="audio/mpeg"/>
+
+    <item id="p105" href="Text/p105.xhtml" media-type="application/xhtml+xml" media-overlay="s105"/>
+    <item id="s105" href="Text/p105.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m105" href="Audio/105_104.mp3" media-type="audio/mpeg"/>
+
+    <item id="p106" href="Text/p106.xhtml" media-type="application/xhtml+xml" media-overlay="s106"/>
+    <item id="s106" href="Text/p106.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m106" href="Audio/106_105.mp3" media-type="audio/mpeg"/>
+
+    <item id="p107" href="Text/p107.xhtml" media-type="application/xhtml+xml" media-overlay="s107"/>
+    <item id="s107" href="Text/p107.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m107" href="Audio/107_106.mp3" media-type="audio/mpeg"/>
+
+    <item id="p108" href="Text/p108.xhtml" media-type="application/xhtml+xml" media-overlay="s108"/>
+    <item id="s108" href="Text/p108.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m108" href="Audio/108_107.mp3" media-type="audio/mpeg"/>
+
+    <item id="p109" href="Text/p109.xhtml" media-type="application/xhtml+xml" media-overlay="s109"/>
+    <item id="s109" href="Text/p109.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m109" href="Audio/109_108.mp3" media-type="audio/mpeg"/>
+
+    <item id="p110" href="Text/p110.xhtml" media-type="application/xhtml+xml" media-overlay="s110"/>
+    <item id="s110" href="Text/p110.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m110" href="Audio/110_109.mp3" media-type="audio/mpeg"/>
+
+    <item id="p111" href="Text/p111.xhtml" media-type="application/xhtml+xml" media-overlay="s111"/>
+    <item id="s111" href="Text/p111.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m111" href="Audio/111_110.mp3" media-type="audio/mpeg"/>
+
+    <item id="p112" href="Text/p112.xhtml" media-type="application/xhtml+xml" media-overlay="s112"/>
+    <item id="s112" href="Text/p112.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m112" href="Audio/112_111.mp3" media-type="audio/mpeg"/>
+
+    <item id="p113" href="Text/p113.xhtml" media-type="application/xhtml+xml" media-overlay="s113"/>
+    <item id="s113" href="Text/p113.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m113" href="Audio/113_112.mp3" media-type="audio/mpeg"/>
+
+    <item id="p114" href="Text/p114.xhtml" media-type="application/xhtml+xml" media-overlay="s114"/>
+    <item id="s114" href="Text/p114.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m114" href="Audio/114_113.mp3" media-type="audio/mpeg"/>
+
+    <item id="p115" href="Text/p115.xhtml" media-type="application/xhtml+xml" media-overlay="s115"/>
+    <item id="s115" href="Text/p115.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m115" href="Audio/115_114.mp3" media-type="audio/mpeg"/>
+
+    <item id="p116" href="Text/p116.xhtml" media-type="application/xhtml+xml" media-overlay="s116"/>
+    <item id="s116" href="Text/p116.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m116" href="Audio/116_115.mp3" media-type="audio/mpeg"/>
+
+    <item id="p117" href="Text/p117.xhtml" media-type="application/xhtml+xml" media-overlay="s117"/>
+    <item id="s117" href="Text/p117.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m117" href="Audio/117_116.mp3" media-type="audio/mpeg"/>
+
+    <item id="p118" href="Text/p118.xhtml" media-type="application/xhtml+xml" media-overlay="s118"/>
+    <item id="s118" href="Text/p118.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m118" href="Audio/118_117.mp3" media-type="audio/mpeg"/>
+
+    <item id="p119" href="Text/p119.xhtml" media-type="application/xhtml+xml" media-overlay="s119"/>
+    <item id="s119" href="Text/p119.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m119" href="Audio/119_118.mp3" media-type="audio/mpeg"/>
+
+    <item id="p120" href="Text/p120.xhtml" media-type="application/xhtml+xml" media-overlay="s120"/>
+    <item id="s120" href="Text/p120.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m120" href="Audio/120_119.mp3" media-type="audio/mpeg"/>
+
+    <item id="p121" href="Text/p121.xhtml" media-type="application/xhtml+xml" media-overlay="s121"/>
+    <item id="s121" href="Text/p121.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m121" href="Audio/121_120.mp3" media-type="audio/mpeg"/>
+
+    <item id="p122" href="Text/p122.xhtml" media-type="application/xhtml+xml" media-overlay="s122"/>
+    <item id="s122" href="Text/p122.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m122" href="Audio/122_121.mp3" media-type="audio/mpeg"/>
+
+    <item id="p123" href="Text/p123.xhtml" media-type="application/xhtml+xml" media-overlay="s123"/>
+    <item id="s123" href="Text/p123.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m123" href="Audio/123_122.mp3" media-type="audio/mpeg"/>
+
+    <item id="p124" href="Text/p124.xhtml" media-type="application/xhtml+xml" media-overlay="s124"/>
+    <item id="s124" href="Text/p124.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m124" href="Audio/124_123.mp3" media-type="audio/mpeg"/>
+
+    <item id="p125" href="Text/p125.xhtml" media-type="application/xhtml+xml" media-overlay="s125"/>
+    <item id="s125" href="Text/p125.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m125" href="Audio/125_124.mp3" media-type="audio/mpeg"/>
+
+    <item id="p126" href="Text/p126.xhtml" media-type="application/xhtml+xml" media-overlay="s126"/>
+    <item id="s126" href="Text/p126.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m126" href="Audio/126_125.mp3" media-type="audio/mpeg"/>
+
+    <item id="p127" href="Text/p127.xhtml" media-type="application/xhtml+xml" media-overlay="s127"/>
+    <item id="s127" href="Text/p127.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m127" href="Audio/127_126.mp3" media-type="audio/mpeg"/>
+
+    <item id="p128" href="Text/p128.xhtml" media-type="application/xhtml+xml" media-overlay="s128"/>
+    <item id="s128" href="Text/p128.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m128" href="Audio/128_127.mp3" media-type="audio/mpeg"/>
+
+    <item id="p129" href="Text/p129.xhtml" media-type="application/xhtml+xml" media-overlay="s129"/>
+    <item id="s129" href="Text/p129.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m129" href="Audio/129_128.mp3" media-type="audio/mpeg"/>
+
+    <item id="p130" href="Text/p130.xhtml" media-type="application/xhtml+xml" media-overlay="s130"/>
+    <item id="s130" href="Text/p130.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m130" href="Audio/130_129.mp3" media-type="audio/mpeg"/>
+
+    <item id="p131" href="Text/p131.xhtml" media-type="application/xhtml+xml" media-overlay="s131"/>
+    <item id="s131" href="Text/p131.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m131" href="Audio/131_130.mp3" media-type="audio/mpeg"/>
+
+    <item id="p132" href="Text/p132.xhtml" media-type="application/xhtml+xml" media-overlay="s132"/>
+    <item id="s132" href="Text/p132.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m132" href="Audio/132_131.mp3" media-type="audio/mpeg"/>
+
+    <item id="p133" href="Text/p133.xhtml" media-type="application/xhtml+xml" media-overlay="s133"/>
+    <item id="s133" href="Text/p133.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m133" href="Audio/133_132.mp3" media-type="audio/mpeg"/>
+
+    <item id="p134" href="Text/p134.xhtml" media-type="application/xhtml+xml" media-overlay="s134"/>
+    <item id="s134" href="Text/p134.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m134" href="Audio/134_133.mp3" media-type="audio/mpeg"/>
+
+    <item id="p135" href="Text/p135.xhtml" media-type="application/xhtml+xml" media-overlay="s135"/>
+    <item id="s135" href="Text/p135.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m135" href="Audio/135_134.mp3" media-type="audio/mpeg"/>
+
+    <item id="p136" href="Text/p136.xhtml" media-type="application/xhtml+xml" media-overlay="s136"/>
+    <item id="s136" href="Text/p136.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m136" href="Audio/136_135.mp3" media-type="audio/mpeg"/>
+
+    <item id="p137" href="Text/p137.xhtml" media-type="application/xhtml+xml" media-overlay="s137"/>
+    <item id="s137" href="Text/p137.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m137" href="Audio/137_136.mp3" media-type="audio/mpeg"/>
+
+    <item id="p138" href="Text/p138.xhtml" media-type="application/xhtml+xml" media-overlay="s138"/>
+    <item id="s138" href="Text/p138.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m138" href="Audio/138_137.mp3" media-type="audio/mpeg"/>
+
+    <item id="p139" href="Text/p139.xhtml" media-type="application/xhtml+xml" media-overlay="s139"/>
+    <item id="s139" href="Text/p139.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m139" href="Audio/139_138.mp3" media-type="audio/mpeg"/>
+
+    <item id="p140" href="Text/p140.xhtml" media-type="application/xhtml+xml" media-overlay="s140"/>
+    <item id="s140" href="Text/p140.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m140" href="Audio/140_139.mp3" media-type="audio/mpeg"/>
+
+    <item id="p141" href="Text/p141.xhtml" media-type="application/xhtml+xml" media-overlay="s141"/>
+    <item id="s141" href="Text/p141.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m141" href="Audio/141_140.mp3" media-type="audio/mpeg"/>
+
+    <item id="p142" href="Text/p142.xhtml" media-type="application/xhtml+xml" media-overlay="s142"/>
+    <item id="s142" href="Text/p142.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m142" href="Audio/142_141.mp3" media-type="audio/mpeg"/>
+
+    <item id="p143" href="Text/p143.xhtml" media-type="application/xhtml+xml" media-overlay="s143"/>
+    <item id="s143" href="Text/p143.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m143" href="Audio/143_142.mp3" media-type="audio/mpeg"/>
+
+    <item id="p144" href="Text/p144.xhtml" media-type="application/xhtml+xml" media-overlay="s144"/>
+    <item id="s144" href="Text/p144.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m144" href="Audio/144_143.mp3" media-type="audio/mpeg"/>
+
+    <item id="p145" href="Text/p145.xhtml" media-type="application/xhtml+xml" media-overlay="s145"/>
+    <item id="s145" href="Text/p145.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m145" href="Audio/145_144.mp3" media-type="audio/mpeg"/>
+
+    <item id="p146" href="Text/p146.xhtml" media-type="application/xhtml+xml" media-overlay="s146"/>
+    <item id="s146" href="Text/p146.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m146" href="Audio/146_145.mp3" media-type="audio/mpeg"/>
+
+    <item id="p147" href="Text/p147.xhtml" media-type="application/xhtml+xml" media-overlay="s147"/>
+    <item id="s147" href="Text/p147.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m147" href="Audio/147_146.mp3" media-type="audio/mpeg"/>
+
+    <item id="p148" href="Text/p148.xhtml" media-type="application/xhtml+xml" media-overlay="s148"/>
+    <item id="s148" href="Text/p148.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m148" href="Audio/148_147.mp3" media-type="audio/mpeg"/>
+
+    <item id="p149" href="Text/p149.xhtml" media-type="application/xhtml+xml" media-overlay="s149"/>
+    <item id="s149" href="Text/p149.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m149" href="Audio/149_148.mp3" media-type="audio/mpeg"/>
+
+    <item id="p150" href="Text/p150.xhtml" media-type="application/xhtml+xml" media-overlay="s150"/>
+    <item id="s150" href="Text/p150.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m150" href="Audio/150_149.mp3" media-type="audio/mpeg"/>
+
+    <item id="p151" href="Text/p151.xhtml" media-type="application/xhtml+xml" media-overlay="s151"/>
+    <item id="s151" href="Text/p151.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m151" href="Audio/151_150.mp3" media-type="audio/mpeg"/>
+
+    <item id="p152" href="Text/p152.xhtml" media-type="application/xhtml+xml" media-overlay="s152"/>
+    <item id="s152" href="Text/p152.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m152" href="Audio/152_151.mp3" media-type="audio/mpeg"/>
+
+    <item id="p153" href="Text/p153.xhtml" media-type="application/xhtml+xml" media-overlay="s153"/>
+    <item id="s153" href="Text/p153.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m153" href="Audio/153_152.mp3" media-type="audio/mpeg"/>
+
+    <item id="p154" href="Text/p154.xhtml" media-type="application/xhtml+xml" media-overlay="s154"/>
+    <item id="s154" href="Text/p154.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m154" href="Audio/154_153.mp3" media-type="audio/mpeg"/>
+
+    <item id="p155" href="Text/p155.xhtml" media-type="application/xhtml+xml" media-overlay="s155"/>
+    <item id="s155" href="Text/p155.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m155" href="Audio/155_154.mp3" media-type="audio/mpeg"/>
+
+    <item id="p156" href="Text/p156.xhtml" media-type="application/xhtml+xml"/>
+</manifest>
+<spine page-progression-direction="ltr" toc="toc.ncx">
+    <itemref idref="cover" linear="yes"/>
+    <itemref idref="colophon" linear="yes"/>
+    <itemref idref="p001" linear="yes"/>
+    <itemref idref="p002" linear="yes"/>
+    <itemref idref="p003" linear="yes"/>
+    <itemref idref="p004" linear="yes"/>
+    <itemref idref="p005" linear="yes"/>
+    <itemref idref="p006" linear="yes"/>
+    <itemref idref="p007" linear="yes"/>
+    <itemref idref="p008" linear="yes"/>
+    <itemref idref="p009" linear="yes"/>
+    <itemref idref="p010" linear="yes"/>
+    <itemref idref="p011" linear="yes"/>
+    <itemref idref="p012" linear="yes"/>
+    <itemref idref="p013" linear="yes"/>
+    <itemref idref="p014" linear="yes"/>
+    <itemref idref="p015" linear="yes"/>
+    <itemref idref="p016" linear="yes"/>
+    <itemref idref="p017" linear="yes"/>
+    <itemref idref="p018" linear="yes"/>
+    <itemref idref="p019" linear="yes"/>
+    <itemref idref="p020" linear="yes"/>
+    <itemref idref="p021" linear="yes"/>
+    <itemref idref="p022" linear="yes"/>
+    <itemref idref="p023" linear="yes"/>
+    <itemref idref="p024" linear="yes"/>
+    <itemref idref="p025" linear="yes"/>
+    <itemref idref="p026" linear="yes"/>
+    <itemref idref="p027" linear="yes"/>
+    <itemref idref="p028" linear="yes"/>
+    <itemref idref="p029" linear="yes"/>
+    <itemref idref="p030" linear="yes"/>
+    <itemref idref="p031" linear="yes"/>
+    <itemref idref="p032" linear="yes"/>
+    <itemref idref="p033" linear="yes"/>
+    <itemref idref="p034" linear="yes"/>
+    <itemref idref="p035" linear="yes"/>
+    <itemref idref="p036" linear="yes"/>
+    <itemref idref="p037" linear="yes"/>
+    <itemref idref="p038" linear="yes"/>
+    <itemref idref="p039" linear="yes"/>
+    <itemref idref="p040" linear="yes"/>
+    <itemref idref="p041" linear="yes"/>
+    <itemref idref="p042" linear="yes"/>
+    <itemref idref="p043" linear="yes"/>
+    <itemref idref="p044" linear="yes"/>
+    <itemref idref="p045" linear="yes"/>
+    <itemref idref="p046" linear="yes"/>
+    <itemref idref="p047" linear="yes"/>
+    <itemref idref="p048" linear="yes"/>
+    <itemref idref="p049" linear="yes"/>
+    <itemref idref="p050" linear="yes"/>
+    <itemref idref="p051" linear="yes"/>
+    <itemref idref="p052" linear="yes"/>
+    <itemref idref="p053" linear="yes"/>
+    <itemref idref="p054" linear="yes"/>
+    <itemref idref="p055" linear="yes"/>
+    <itemref idref="p056" linear="yes"/>
+    <itemref idref="p057" linear="yes"/>
+    <itemref idref="p058" linear="yes"/>
+    <itemref idref="p059" linear="yes"/>
+    <itemref idref="p060" linear="yes"/>
+    <itemref idref="p061" linear="yes"/>
+    <itemref idref="p062" linear="yes"/>
+    <itemref idref="p063" linear="yes"/>
+    <itemref idref="p064" linear="yes"/>
+    <itemref idref="p065" linear="yes"/>
+    <itemref idref="p066" linear="yes"/>
+    <itemref idref="p067" linear="yes"/>
+    <itemref idref="p068" linear="yes"/>
+    <itemref idref="p069" linear="yes"/>
+    <itemref idref="p070" linear="yes"/>
+    <itemref idref="p071" linear="yes"/>
+    <itemref idref="p072" linear="yes"/>
+    <itemref idref="p073" linear="yes"/>
+    <itemref idref="p074" linear="yes"/>
+    <itemref idref="p075" linear="yes"/>
+    <itemref idref="p076" linear="yes"/>
+    <itemref idref="p077" linear="yes"/>
+    <itemref idref="p078" linear="yes"/>
+    <itemref idref="p079" linear="yes"/>
+    <itemref idref="p080" linear="yes"/>
+    <itemref idref="p081" linear="yes"/>
+    <itemref idref="p082" linear="yes"/>
+    <itemref idref="p083" linear="yes"/>
+    <itemref idref="p084" linear="yes"/>
+    <itemref idref="p085" linear="yes"/>
+    <itemref idref="p086" linear="yes"/>
+    <itemref idref="p087" linear="yes"/>
+    <itemref idref="p088" linear="yes"/>
+    <itemref idref="p089" linear="yes"/>
+    <itemref idref="p090" linear="yes"/>
+    <itemref idref="p091" linear="yes"/>
+    <itemref idref="p092" linear="yes"/>
+    <itemref idref="p093" linear="yes"/>
+    <itemref idref="p094" linear="yes"/>
+    <itemref idref="p095" linear="yes"/>
+    <itemref idref="p096" linear="yes"/>
+    <itemref idref="p097" linear="yes"/>
+    <itemref idref="p098" linear="yes"/>
+    <itemref idref="p099" linear="yes"/>
+    <itemref idref="p100" linear="yes"/>
+    <itemref idref="p101" linear="yes"/>
+    <itemref idref="p102" linear="yes"/>
+    <itemref idref="p103" linear="yes"/>
+    <itemref idref="p104" linear="yes"/>
+    <itemref idref="p105" linear="yes"/>
+    <itemref idref="p106" linear="yes"/>
+    <itemref idref="p107" linear="yes"/>
+    <itemref idref="p108" linear="yes"/>
+    <itemref idref="p109" linear="yes"/>
+    <itemref idref="p110" linear="yes"/>
+    <itemref idref="p111" linear="yes"/>
+    <itemref idref="p112" linear="yes"/>
+    <itemref idref="p113" linear="yes"/>
+    <itemref idref="p114" linear="yes"/>
+    <itemref idref="p115" linear="yes"/>
+    <itemref idref="p116" linear="yes"/>
+    <itemref idref="p117" linear="yes"/>
+    <itemref idref="p118" linear="yes"/>
+    <itemref idref="p119" linear="yes"/>
+    <itemref idref="p120" linear="yes"/>
+    <itemref idref="p121" linear="yes"/>
+    <itemref idref="p122" linear="yes"/>
+    <itemref idref="p123" linear="yes"/>
+    <itemref idref="p124" linear="yes"/>
+    <itemref idref="p125" linear="yes"/>
+    <itemref idref="p126" linear="yes"/>
+    <itemref idref="p127" linear="yes"/>
+    <itemref idref="p128" linear="yes"/>
+    <itemref idref="p129" linear="yes"/>
+    <itemref idref="p130" linear="yes"/>
+    <itemref idref="p131" linear="yes"/>
+    <itemref idref="p132" linear="yes"/>
+    <itemref idref="p133" linear="yes"/>
+    <itemref idref="p134" linear="yes"/>
+    <itemref idref="p135" linear="yes"/>
+    <itemref idref="p136" linear="yes"/>
+    <itemref idref="p137" linear="yes"/>
+    <itemref idref="p138" linear="yes"/>
+    <itemref idref="p139" linear="yes"/>
+    <itemref idref="p140" linear="yes"/>
+    <itemref idref="p141" linear="yes"/>
+    <itemref idref="p142" linear="yes"/>
+    <itemref idref="p143" linear="yes"/>
+    <itemref idref="p144" linear="yes"/>
+    <itemref idref="p145" linear="yes"/>
+    <itemref idref="p146" linear="yes"/>
+    <itemref idref="p147" linear="yes"/>
+    <itemref idref="p148" linear="yes"/>
+    <itemref idref="p149" linear="yes"/>
+    <itemref idref="p150" linear="yes"/>
+    <itemref idref="p151" linear="yes"/>
+    <itemref idref="p152" linear="yes"/>
+    <itemref idref="p153" linear="yes"/>
+    <itemref idref="p154" linear="yes"/>
+    <itemref idref="p155" linear="yes"/>
+    <itemref idref="p156" linear="yes"/>
+    <itemref idref="playlist" linear="yes"/>
+</spine>
+<guide>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml" />
+    <reference type="toc" title="Contents" href="Text/toc.xhtml" />
+    <reference type="text" title="Sonnets" href="Text/p001.xhtml" />
+</guide>
+</package>
+
