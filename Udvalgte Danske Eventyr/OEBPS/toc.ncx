@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" xml:lang="en" version="2005-1">
+<head>
+ <meta name="dtb:uid" content="urn:uuid:b07c4336-cb10-4339-b0b2-abe489c00d84" />
+ <meta name="dtb:depth" content="1" />
+ <meta name="dtb:totalPageCount" content="0" />
+ <meta name="dtb:maxPageNumber" content="0" />
+</head>
+<docTitle><text></text></docTitle>
+<navMap>
+ <navPoint id="navPoint-000001" playOrder="1">
+  <navLabel><text>Cover</text></navLabel>
+  <content src="Text/cover.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000002" playOrder="2">
+  <navLabel><text>Colophon</text></navLabel>
+  <content src="Text/colophon.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000003" playOrder="3">
+  <navLabel><text>Udvalgte Danske Eventyr</text></navLabel>
+  <content src="Text/p001.xhtml"/>
+     <navPoint id="navPoint-000004" playOrder="4">
+      <navLabel><text>Fyrtøiet</text></navLabel>
+      <content src="Text/p002.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000005" playOrder="5">
+      <navLabel><text>Paradisets Have</text></navLabel>
+      <content src="Text/p003.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000006" playOrder="6">
+      <navLabel><text>Hvad fatter gør, det er altid det rigtige</text></navLabel>
+      <content src="Text/p004.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000007" playOrder="7">
+      <navLabel><text>Lille Claus og store Claus</text></navLabel>
+      <content src="Text/p005.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000008" playOrder="8">
+      <navLabel><text>Den onde fyrste</text></navLabel>
+      <content src="Text/p006.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000009" playOrder="9">
+      <navLabel><text>Skyggen</text></navLabel>
+      <content src="Text/p007.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000010" playOrder="10">
+      <navLabel><text>Den flyvende kuffert</text></navLabel>
+      <content src="Text/p008.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000011" playOrder="11">
+      <navLabel><text>Det er ganske vist!</text></navLabel>
+      <content src="Text/p009.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000012" playOrder="12">
+      <navLabel><text>Om årtusinder</text></navLabel>
+      <content src="Text/p010.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000013" playOrder="13">
+      <navLabel><text>Den grimme ælling</text></navLabel>
+      <content src="Text/p011.xhtml"/>
+     </navPoint>
+ </navPoint>
+ <navPoint id="navPoint-000014" playOrder="14">
+  <navLabel><text>Playlist</text></navLabel>
+  <content src="Text/playlist.xhtml"/>
+ </navPoint>
+</navMap>
+</ncx>
