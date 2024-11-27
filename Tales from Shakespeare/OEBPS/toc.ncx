@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" xml:lang="en" version="2005-1">
+<head>
+ <meta name="dtb:uid" content="urn:uuid:08722688-8f6f-4175-b41c-c86db4bca9a9" />
+ <meta name="dtb:depth" content="1" />
+ <meta name="dtb:totalPageCount" content="0" />
+ <meta name="dtb:maxPageNumber" content="0" />
+</head>
+<docTitle><text></text></docTitle>
+<navMap>
+ <navPoint id="navPoint-000001" playOrder="1">
+  <navLabel><text>Cover</text></navLabel>
+  <content src="Text/cover.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000002" playOrder="2">
+  <navLabel><text>Colophon</text></navLabel>
+  <content src="Text/colophon.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000003" playOrder="3">
+  <navLabel><text>Tales from Shakespeare</text></navLabel>
+  <content src="Text/p001.xhtml"/>
+     <navPoint id="navPoint-000004" playOrder="4">
+      <navLabel><text>Preface</text></navLabel>
+      <content src="Text/p002.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000005" playOrder="5">
+      <navLabel><text>The Tempest</text></navLabel>
+      <content src="Text/p003.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000006" playOrder="6">
+      <navLabel><text>A Midsummer Night's Dream</text></navLabel>
+      <content src="Text/p004.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000007" playOrder="7">
+      <navLabel><text>The Winter's Tale</text></navLabel>
+      <content src="Text/p005.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000008" playOrder="8">
+      <navLabel><text>Much Ado About Nothing</text></navLabel>
+      <content src="Text/p006.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000009" playOrder="9">
+      <navLabel><text>As You Like It</text></navLabel>
+      <content src="Text/p007.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000010" playOrder="10">
+      <navLabel><text>Two Gentlemen of Verona</text></navLabel>
+      <content src="Text/p008.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000011" playOrder="11">
+      <navLabel><text>The Merchant of Venice</text></navLabel>
+      <content src="Text/p009.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000012" playOrder="12">
+      <navLabel><text>Cymbeline</text></navLabel>
+      <content src="Text/p010.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000013" playOrder="13">
+      <navLabel><text>King Lear</text></navLabel>
+      <content src="Text/p011.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000014" playOrder="14">
+      <navLabel><text>Macbeth</text></navLabel>
+      <content src="Text/p012.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000015" playOrder="15">
+      <navLabel><text>All's Well That Ends Well</text></navLabel>
+      <content src="Text/p013.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000016" playOrder="16">
+      <navLabel><text>The Taming of the Shrew</text></navLabel>
+      <content src="Text/p014.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000017" playOrder="17">
+      <navLabel><text>The Comedy of Errors</text></navLabel>
+      <content src="Text/p015.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000018" playOrder="18">
+      <navLabel><text>Measure for Measure</text></navLabel>
+      <content src="Text/p016.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000019" playOrder="19">
+      <navLabel><text>Twelfth Night</text></navLabel>
+      <content src="Text/p017.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000020" playOrder="20">
+      <navLabel><text>Timon of Athens</text></navLabel>
+      <content src="Text/p018.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000021" playOrder="21">
+      <navLabel><text>Romeo and Juliet</text></navLabel>
+      <content src="Text/p019.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000022" playOrder="22">
+      <navLabel><text>Hamlet, Prince of Denmark</text></navLabel>
+      <content src="Text/p020.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000023" playOrder="23">
+      <navLabel><text>Othello</text></navLabel>
+      <content src="Text/p021.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000024" playOrder="24">
+      <navLabel><text>Pericles, Prince of Tyre</text></navLabel>
+      <content src="Text/p022.xhtml"/>
+     </navPoint>
+ </navPoint>
+ <navPoint id="navPoint-000025" playOrder="25">
+  <navLabel><text>Playlist</text></navLabel>
+  <content src="Text/playlist.xhtml"/>
+ </navPoint>
+</navMap>
+</ncx>
