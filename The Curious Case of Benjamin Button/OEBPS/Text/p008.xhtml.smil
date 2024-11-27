@@ -1,0 +1,76 @@
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+ <body>
+  <seq id="seq1" epub:textref="p008.xhtml" epub:type="bodymatter chapter">
+   <par id="p000001"><text src="p008.xhtml#f000001"/><audio clipBegin="0:00:00.000" clipEnd="0:00:03.080" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000002"><text src="p008.xhtml#f000002"/><audio clipBegin="0:00:03.080" clipEnd="0:00:03.960" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000003"><text src="p008.xhtml#f000003"/><audio clipBegin="0:00:03.960" clipEnd="0:00:04.400" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000004"><text src="p008.xhtml#f000004"/><audio clipBegin="0:00:04.400" clipEnd="0:00:07.719" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000005"><text src="p008.xhtml#f000005"/><audio clipBegin="0:00:07.719" clipEnd="0:00:11.320" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000006"><text src="p008.xhtml#f000006"/><audio clipBegin="0:00:11.320" clipEnd="0:00:18.879" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000007"><text src="p008.xhtml#f000007"/><audio clipBegin="0:00:18.879" clipEnd="0:00:20.879" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000008"><text src="p008.xhtml#f000008"/><audio clipBegin="0:00:20.879" clipEnd="0:00:24.839" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000009"><text src="p008.xhtml#f000009"/><audio clipBegin="0:00:24.839" clipEnd="0:00:26.039" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000010"><text src="p008.xhtml#f000010"/><audio clipBegin="0:00:26.039" clipEnd="0:00:29.839" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000011"><text src="p008.xhtml#f000011"/><audio clipBegin="0:00:29.839" clipEnd="0:00:39.039" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000012"><text src="p008.xhtml#f000012"/><audio clipBegin="0:00:39.039" clipEnd="0:00:42.640" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000013"><text src="p008.xhtml#f000013"/><audio clipBegin="0:00:42.640" clipEnd="0:00:45.759" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000014"><text src="p008.xhtml#f000014"/><audio clipBegin="0:00:45.759" clipEnd="0:00:50.079" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000015"><text src="p008.xhtml#f000015"/><audio clipBegin="0:00:50.079" clipEnd="0:00:52.920" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000016"><text src="p008.xhtml#f000016"/><audio clipBegin="0:00:52.920" clipEnd="0:00:55.679" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000017"><text src="p008.xhtml#f000017"/><audio clipBegin="0:00:55.679" clipEnd="0:00:56.439" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000018"><text src="p008.xhtml#f000018"/><audio clipBegin="0:00:56.439" clipEnd="0:01:01.399" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000019"><text src="p008.xhtml#f000019"/><audio clipBegin="0:01:01.399" clipEnd="0:01:05.959" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000020"><text src="p008.xhtml#f000020"/><audio clipBegin="0:01:05.959" clipEnd="0:01:15.400" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000021"><text src="p008.xhtml#f000021"/><audio clipBegin="0:01:15.400" clipEnd="0:01:18.159" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000022"><text src="p008.xhtml#f000022"/><audio clipBegin="0:01:18.159" clipEnd="0:01:21.000" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000023"><text src="p008.xhtml#f000023"/><audio clipBegin="0:01:21.000" clipEnd="0:01:23.000" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000024"><text src="p008.xhtml#f000024"/><audio clipBegin="0:01:23.000" clipEnd="0:01:24.760" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000025"><text src="p008.xhtml#f000025"/><audio clipBegin="0:01:24.760" clipEnd="0:01:28.239" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000026"><text src="p008.xhtml#f000026"/><audio clipBegin="0:01:28.239" clipEnd="0:01:29.319" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000027"><text src="p008.xhtml#f000027"/><audio clipBegin="0:01:29.319" clipEnd="0:01:34.719" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000028"><text src="p008.xhtml#f000028"/><audio clipBegin="0:01:34.719" clipEnd="0:01:44.280" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000029"><text src="p008.xhtml#f000029"/><audio clipBegin="0:01:44.280" clipEnd="0:01:45.640" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000030"><text src="p008.xhtml#f000030"/><audio clipBegin="0:01:45.640" clipEnd="0:01:51.959" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000031"><text src="p008.xhtml#f000031"/><audio clipBegin="0:01:51.959" clipEnd="0:01:55.640" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000032"><text src="p008.xhtml#f000032"/><audio clipBegin="0:01:55.640" clipEnd="0:01:57.040" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000033"><text src="p008.xhtml#f000033"/><audio clipBegin="0:01:57.040" clipEnd="0:01:59.200" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000034"><text src="p008.xhtml#f000034"/><audio clipBegin="0:01:59.200" clipEnd="0:02:09.319" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000035"><text src="p008.xhtml#f000035"/><audio clipBegin="0:02:09.319" clipEnd="0:02:15.120" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000036"><text src="p008.xhtml#f000036"/><audio clipBegin="0:02:15.120" clipEnd="0:02:20.360" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000037"><text src="p008.xhtml#f000037"/><audio clipBegin="0:02:20.360" clipEnd="0:02:23.639" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000038"><text src="p008.xhtml#f000038"/><audio clipBegin="0:02:23.639" clipEnd="0:02:27.159" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000039"><text src="p008.xhtml#f000039"/><audio clipBegin="0:02:27.159" clipEnd="0:02:28.400" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000040"><text src="p008.xhtml#f000040"/><audio clipBegin="0:02:28.400" clipEnd="0:02:28.879" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000041"><text src="p008.xhtml#f000041"/><audio clipBegin="0:02:28.879" clipEnd="0:02:30.719" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000042"><text src="p008.xhtml#f000042"/><audio clipBegin="0:02:30.719" clipEnd="0:02:34.039" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000043"><text src="p008.xhtml#f000043"/><audio clipBegin="0:02:34.039" clipEnd="0:02:34.280" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000044"><text src="p008.xhtml#f000044"/><audio clipBegin="0:02:34.280" clipEnd="0:02:35.319" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000045"><text src="p008.xhtml#f000045"/><audio clipBegin="0:02:35.319" clipEnd="0:02:38.479" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000046"><text src="p008.xhtml#f000046"/><audio clipBegin="0:02:38.479" clipEnd="0:02:43.520" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000047"><text src="p008.xhtml#f000047"/><audio clipBegin="0:02:43.520" clipEnd="0:02:44.199" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000048"><text src="p008.xhtml#f000048"/><audio clipBegin="0:02:44.199" clipEnd="0:02:44.400" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000049"><text src="p008.xhtml#f000049"/><audio clipBegin="0:02:44.400" clipEnd="0:02:45.400" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000050"><text src="p008.xhtml#f000050"/><audio clipBegin="0:02:45.400" clipEnd="0:02:47.080" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000051"><text src="p008.xhtml#f000051"/><audio clipBegin="0:02:47.080" clipEnd="0:02:47.680" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000052"><text src="p008.xhtml#f000052"/><audio clipBegin="0:02:47.680" clipEnd="0:02:48.319" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000053"><text src="p008.xhtml#f000053"/><audio clipBegin="0:02:48.319" clipEnd="0:02:51.159" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000054"><text src="p008.xhtml#f000054"/><audio clipBegin="0:02:51.159" clipEnd="0:02:53.719" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000055"><text src="p008.xhtml#f000055"/><audio clipBegin="0:02:53.719" clipEnd="0:02:59.639" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000056"><text src="p008.xhtml#f000056"/><audio clipBegin="0:02:59.639" clipEnd="0:03:00.879" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000057"><text src="p008.xhtml#f000057"/><audio clipBegin="0:03:00.879" clipEnd="0:03:03.199" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000058"><text src="p008.xhtml#f000058"/><audio clipBegin="0:03:03.199" clipEnd="0:03:05.319" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000059"><text src="p008.xhtml#f000059"/><audio clipBegin="0:03:05.319" clipEnd="0:03:14.039" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000060"><text src="p008.xhtml#f000060"/><audio clipBegin="0:03:14.039" clipEnd="0:03:16.879" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000061"><text src="p008.xhtml#f000061"/><audio clipBegin="0:03:16.879" clipEnd="0:03:25.039" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000062"><text src="p008.xhtml#f000062"/><audio clipBegin="0:03:25.039" clipEnd="0:03:28.400" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000063"><text src="p008.xhtml#f000063"/><audio clipBegin="0:03:28.400" clipEnd="0:03:32.520" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000064"><text src="p008.xhtml#f000064"/><audio clipBegin="0:03:32.520" clipEnd="0:03:39.240" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000065"><text src="p008.xhtml#f000065"/><audio clipBegin="0:03:39.240" clipEnd="0:03:40.479" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000066"><text src="p008.xhtml#f000066"/><audio clipBegin="0:03:40.479" clipEnd="0:03:42.400" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000067"><text src="p008.xhtml#f000067"/><audio clipBegin="0:03:42.400" clipEnd="0:03:49.719" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000068"><text src="p008.xhtml#f000068"/><audio clipBegin="0:03:49.719" clipEnd="0:03:51.400" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000069"><text src="p008.xhtml#f000069"/><audio clipBegin="0:03:51.400" clipEnd="0:03:54.319" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+   <par id="p000070"><text src="p008.xhtml#f000070"/><audio clipBegin="0:03:54.319" clipEnd="0:03:59.039" src="../Audio/08_BenjaminButton_Chapter_7.mp3"/></par>
+  </seq>
+ </body>
+</smil>
