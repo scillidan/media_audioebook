@@ -1,0 +1,57 @@
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+ <body>
+  <seq id="seq1" epub:textref="p002.xhtml" epub:type="bodymatter chapter">
+   <par id="p000001"><text src="p002.xhtml#f000001"/><audio clipBegin="0:00:00.000" clipEnd="0:00:01.520" src="../Audio/02_chapter_1.mp3"/></par>
+   <par id="p000002"><text src="p002.xhtml#f000002"/><audio clipBegin="0:00:01.520" clipEnd="0:00:04.839" src="../Audio/02_chapter_1.mp3"/></par>
+   <par id="p000003"><text src="p002.xhtml#f000003"/><audio clipBegin="0:00:04.839" clipEnd="0:00:09.000" src="../Audio/02_chapter_1.mp3"/></par>
+   <par id="p000004"><text src="p002.xhtml#f000004"/><audio clipBegin="0:00:09.000" clipEnd="0:00:15.160" src="../Audio/02_chapter_1.mp3"/></par>
+   <par id="p000005"><text src="p002.xhtml#f000005"/><audio clipBegin="0:00:15.160" clipEnd="0:00:21.559" src="../Audio/02_chapter_1.mp3"/></par>
+   <par id="p000006"><text src="p002.xhtml#f000006"/><audio clipBegin="0:00:21.559" clipEnd="0:00:22.120" src="../Audio/02_chapter_1.mp3"/></par>
+   <par id="p000007"><text src="p002.xhtml#f000007"/><audio clipBegin="0:00:22.120" clipEnd="0:00:22.640" src="../Audio/02_chapter_1.mp3"/></par>
+   <par id="p000008"><text src="p002.xhtml#f000008"/><audio clipBegin="0:00:22.640" clipEnd="0:00:25.359" src="../Audio/02_chapter_1.mp3"/></par>
+   <par id="p000009"><text src="p002.xhtml#f000009"/><audio clipBegin="0:00:25.359" clipEnd="0:00:30.160" src="../Audio/02_chapter_1.mp3"/></par>
+   <par id="p000010"><text src="p002.xhtml#f000010"/><audio clipBegin="0:00:30.160" clipEnd="0:00:31.600" src="../Audio/02_chapter_1.mp3"/></par>
+   <par id="p000011"><text src="p002.xhtml#f000011"/><audio clipBegin="0:00:31.600" clipEnd="0:00:36.840" src="../Audio/02_chapter_1.mp3"/></par>
+   <par id="p000012"><text src="p002.xhtml#f000012"/><audio clipBegin="0:00:36.840" clipEnd="0:00:40.240" src="../Audio/02_chapter_1.mp3"/></par>
+   <par id="p000013"><text src="p002.xhtml#f000013"/><audio clipBegin="0:00:40.240" clipEnd="0:00:41.840" src="../Audio/02_chapter_1.mp3"/></par>
+   <par id="p000014"><text src="p002.xhtml#f000014"/><audio clipBegin="0:00:41.840" clipEnd="0:00:46.920" src="../Audio/02_chapter_1.mp3"/></par>
+   <par id="p000015"><text src="p002.xhtml#f000015"/><audio clipBegin="0:00:46.920" clipEnd="0:00:49.240" src="../Audio/02_chapter_1.mp3"/></par>
+   <par id="p000016"><text src="p002.xhtml#f000016"/><audio clipBegin="0:00:49.240" clipEnd="0:00:49.640" src="../Audio/02_chapter_1.mp3"/></par>
+   <par id="p000017"><text src="p002.xhtml#f000017"/><audio clipBegin="0:00:49.640" clipEnd="0:00:54.880" src="../Audio/02_chapter_1.mp3"/></par>
+   <par id="p000018"><text src="p002.xhtml#f000018"/><audio clipBegin="0:00:54.880" clipEnd="0:00:55.240" src="../Audio/02_chapter_1.mp3"/></par>
+   <par id="p000019"><text src="p002.xhtml#f000019"/><audio clipBegin="0:00:55.240" clipEnd="0:00:55.799" src="../Audio/02_chapter_1.mp3"/></par>
+   <par id="p000020"><text src="p002.xhtml#f000020"/><audio clipBegin="0:00:55.799" clipEnd="0:01:02.799" src="../Audio/02_chapter_1.mp3"/></par>
+   <par id="p000021"><text src="p002.xhtml#f000021"/><audio clipBegin="0:01:02.799" clipEnd="0:01:07.159" src="../Audio/02_chapter_1.mp3"/></par>
+   <par id="p000022"><text src="p002.xhtml#f000022"/><audio clipBegin="0:01:07.159" clipEnd="0:01:09.560" src="../Audio/02_chapter_1.mp3"/></par>
+   <par id="p000023"><text src="p002.xhtml#f000023"/><audio clipBegin="0:01:09.560" clipEnd="0:01:10.239" src="../Audio/02_chapter_1.mp3"/></par>
+   <par id="p000024"><text src="p002.xhtml#f000024"/><audio clipBegin="0:01:10.239" clipEnd="0:01:11.200" src="../Audio/02_chapter_1.mp3"/></par>
+   <par id="p000025"><text src="p002.xhtml#f000025"/><audio clipBegin="0:01:11.200" clipEnd="0:01:13.120" src="../Audio/02_chapter_1.mp3"/></par>
+   <par id="p000026"><text src="p002.xhtml#f000026"/><audio clipBegin="0:01:13.120" clipEnd="0:01:17.959" src="../Audio/02_chapter_1.mp3"/></par>
+   <par id="p000027"><text src="p002.xhtml#f000027"/><audio clipBegin="0:01:17.959" clipEnd="0:01:21.239" src="../Audio/02_chapter_1.mp3"/></par>
+   <par id="p000028"><text src="p002.xhtml#f000028"/><audio clipBegin="0:01:21.239" clipEnd="0:01:24.959" src="../Audio/02_chapter_1.mp3"/></par>
+   <par id="p000029"><text src="p002.xhtml#f000029"/><audio clipBegin="0:01:24.959" clipEnd="0:01:27.159" src="../Audio/02_chapter_1.mp3"/></par>
+   <par id="p000030"><text src="p002.xhtml#f000030"/><audio clipBegin="0:01:27.159" clipEnd="0:01:30.400" src="../Audio/02_chapter_1.mp3"/></par>
+   <par id="p000031"><text src="p002.xhtml#f000031"/><audio clipBegin="0:01:30.400" clipEnd="0:01:34.120" src="../Audio/02_chapter_1.mp3"/></par>
+   <par id="p000032"><text src="p002.xhtml#f000032"/><audio clipBegin="0:01:34.120" clipEnd="0:01:34.799" src="../Audio/02_chapter_1.mp3"/></par>
+   <par id="p000033"><text src="p002.xhtml#f000033"/><audio clipBegin="0:01:34.799" clipEnd="0:01:37.680" src="../Audio/02_chapter_1.mp3"/></par>
+   <par id="p000034"><text src="p002.xhtml#f000034"/><audio clipBegin="0:01:37.680" clipEnd="0:01:42.239" src="../Audio/02_chapter_1.mp3"/></par>
+   <par id="p000035"><text src="p002.xhtml#f000035"/><audio clipBegin="0:01:42.239" clipEnd="0:01:48.400" src="../Audio/02_chapter_1.mp3"/></par>
+   <par id="p000036"><text src="p002.xhtml#f000036"/><audio clipBegin="0:01:48.400" clipEnd="0:01:52.040" src="../Audio/02_chapter_1.mp3"/></par>
+   <par id="p000037"><text src="p002.xhtml#f000037"/><audio clipBegin="0:01:52.040" clipEnd="0:01:55.120" src="../Audio/02_chapter_1.mp3"/></par>
+   <par id="p000038"><text src="p002.xhtml#f000038"/><audio clipBegin="0:01:55.120" clipEnd="0:02:00.120" src="../Audio/02_chapter_1.mp3"/></par>
+   <par id="p000039"><text src="p002.xhtml#f000039"/><audio clipBegin="0:02:00.120" clipEnd="0:02:01.400" src="../Audio/02_chapter_1.mp3"/></par>
+   <par id="p000040"><text src="p002.xhtml#f000040"/><audio clipBegin="0:02:01.400" clipEnd="0:02:02.680" src="../Audio/02_chapter_1.mp3"/></par>
+   <par id="p000041"><text src="p002.xhtml#f000041"/><audio clipBegin="0:02:02.680" clipEnd="0:02:05.760" src="../Audio/02_chapter_1.mp3"/></par>
+   <par id="p000042"><text src="p002.xhtml#f000042"/><audio clipBegin="0:02:05.760" clipEnd="0:02:10.319" src="../Audio/02_chapter_1.mp3"/></par>
+   <par id="p000043"><text src="p002.xhtml#f000043"/><audio clipBegin="0:02:10.319" clipEnd="0:02:14.879" src="../Audio/02_chapter_1.mp3"/></par>
+   <par id="p000044"><text src="p002.xhtml#f000044"/><audio clipBegin="0:02:14.879" clipEnd="0:02:17.599" src="../Audio/02_chapter_1.mp3"/></par>
+   <par id="p000045"><text src="p002.xhtml#f000045"/><audio clipBegin="0:02:17.599" clipEnd="0:02:22.199" src="../Audio/02_chapter_1.mp3"/></par>
+   <par id="p000046"><text src="p002.xhtml#f000046"/><audio clipBegin="0:02:22.199" clipEnd="0:02:23.360" src="../Audio/02_chapter_1.mp3"/></par>
+   <par id="p000047"><text src="p002.xhtml#f000047"/><audio clipBegin="0:02:23.360" clipEnd="0:02:23.879" src="../Audio/02_chapter_1.mp3"/></par>
+   <par id="p000048"><text src="p002.xhtml#f000048"/><audio clipBegin="0:02:23.879" clipEnd="0:02:30.319" src="../Audio/02_chapter_1.mp3"/></par>
+   <par id="p000049"><text src="p002.xhtml#f000049"/><audio clipBegin="0:02:30.319" clipEnd="0:02:31.439" src="../Audio/02_chapter_1.mp3"/></par>
+   <par id="p000050"><text src="p002.xhtml#f000050"/><audio clipBegin="0:02:31.439" clipEnd="0:02:32.800" src="../Audio/02_chapter_1.mp3"/></par>
+   <par id="p000051"><text src="p002.xhtml#f000051"/><audio clipBegin="0:02:32.800" clipEnd="0:02:35.319" src="../Audio/02_chapter_1.mp3"/></par>
+  </seq>
+ </body>
+</smil>
