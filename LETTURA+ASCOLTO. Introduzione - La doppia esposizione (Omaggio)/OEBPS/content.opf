@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="pubID" xml:lang="it" prefix="rendition: http://www.idpf.org/vocab/rendition/#">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+
+    <dc:identifier id="pubID">urn:uuid:bec583f4-456f-436c-a6b5-4be19013a37d</dc:identifier>
+    <meta refines="#pubID" property="identifier-type" scheme="xsd:string">uuid</meta>
+
+    <dc:identifier id="pubID2">urn:isbn:9788868162474</dc:identifier>
+    <meta refines="#pubID2" property="identifier-type" scheme="xsd:string">isbn</meta>    
+
+    <dc:title id="title">LETTURA+ASCOLTO. Introduzione — La doppia esposizione</dc:title>
+    
+    <dc:creator id="aut">Maurizio Falghera</dc:creator>
+    <meta refines="#aut" property="role" scheme="marc:relators">aut</meta>
+    <meta refines="#aut" property="file-as">Falghera, Maurizio</meta>
+    
+    <dc:contributor id="nrt">Maurizio Falghera</dc:contributor>
+    <meta refines="#nrt" property="role" scheme="marc:relators">nrt</meta>
+    <meta refines="#nrt" property="file-as">Falghera, Maurizio</meta>
+    
+    <dc:contributor id="cph">il Narratore audiolibri</dc:contributor>
+    <meta refines="#cph" property="role" scheme="marc:relators">cph</meta>
+    <meta refines="#cph" property="file-as">il Narratore S.r.l., Zovencedo, Italia</meta>
+    
+    <dc:contributor id="bkp">Smuuks</dc:contributor>
+    <meta refines="#bkp" property="role" scheme="marc:relators">bkp</meta>
+    <meta refines="#bkp" property="file-as">Smuuks</meta>
+
+    <dc:language>it</dc:language>
+    <dc:date>2015-03-03</dc:date>
+
+    <dc:publisher>il Narratore audiolibri</dc:publisher>
+    <dc:rights>All rights reserved</dc:rights>
+    <dc:subject>maurizio falghera</dc:subject>
+    <dc:subject>falghera</dc:subject>
+    <dc:subject>lettura</dc:subject>
+    <dc:subject>acolto</dc:subject>
+    <dc:subject>audiolibri</dc:subject>
+    <dc:subject>audiolibro</dc:subject>
+    <dc:subject>apprendimento</dc:subject>
+    <dc:subject>linguaggio</dc:subject>
+    <dc:subject>emozioni</dc:subject>
+    <dc:subject>empatia</dc:subject>
+    <dc:subject>literacy</dc:subject>
+    <dc:subject>letteratura</dc:subject>
+    <dc:subject>dislessia</dc:subject>
+    <dc:subject>descrizione doppia</dc:subject>
+    <dc:subject>esposizione doppia</dc:subject>
+    <dc:subject>cognitivismo</dc:subject>
+    <dc:subject>cervello</dc:subject>
+    <dc:subject>didattica</dc:subject>
+    <dc:subject>educazione</dc:subject>
+    <dc:subject>nativi digitali</dc:subject>
+    <dc:subject>digital native</dc:subject>
+    <dc:subject>alfabetizzazione</dc:subject>
+    <dc:type>Book</dc:type>
+    <meta property="dcterms:modified">2015-03-03T00:00:01Z</meta>
+    <meta property="rendition:layout">reflowable</meta>
+    <meta name="cover" content="copertina.jpg" />
+    
+    <!--MEDIA OVERLAY METADATA-->
+    <meta property="media:duration" refines="#s001">00:00:38.54</meta>
+    <meta property="media:duration" refines="#s002">00:15:26.66</meta>
+    <meta property="media:duration" refines="#s009">00:07:26.26</meta>
+    <meta property="media:duration">00:23:32.26</meta>
+    <meta property="media:narrator">Maurizio Falghera</meta>
+    <meta property="media:active-class">-epub-media-overlay-active</meta>
+
+</metadata>
+<manifest>
+    <item id="toc.ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="toc" href="Text/toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    
+    <item id="copertina" href="Text/copertina.xhtml" media-type="application/xhtml+xml"/>
+    <item id="colophon" href="Text/colophon.xhtml" media-type="application/xhtml+xml"/>
+    <item id="avvertenza" href="Text/avvertenza.xhtml" media-type="application/xhtml+xml"/>
+    <item id="guida" href="Text/guida.xhtml" media-type="application/xhtml+xml"/>
+    <item id="playlist" href="Text/playlist.xhtml" media-type="application/xhtml+xml"/>
+    <item id="playlistM3U" href="Audio/00_playlist_Lettura_Ascolto.m3u" media-type="audio/x-mpegurl"/>
+    <item id="c001" href="Styles/style.css" media-type="text/css"/>
+
+    <item id="copertina.jpg" href="Images/copertina.jpg" media-type="image/jpeg" properties="cover-image" />
+    <item id="logofb.png" href="Images/logofb.png" media-type="image/png" />
+    <item id="logotw.png" href="Images/logotw.png" media-type="image/png" />
+    <item id="logowww.png" href="Images/logowww.png" media-type="image/png" />
+    <item id="ascolta.png" href="Images/ascolta.png" media-type="image/png" />
+    <item id="barranavigazione.png" href="Images/barranavigazione.png" media-type="image/png" />
+    <item id="indicetracce.png" href="Images/indicetracce.png" media-type="image/png" />
+    <item id="leggiascolta.png" href="Images/leggiascolta.png" media-type="image/png" />
+    <item id="readium.png" href="Images/readium.png" media-type="image/png" />
+
+    <item id="f00a.jpg" href="Images/f00a.jpg" media-type="image/jpeg" />
+    <item id="f00b.jpg" href="Images/f00b.jpg" media-type="image/jpeg" />
+
+    <item id="p001" href="Text/p001.xhtml" media-type="application/xhtml+xml" media-overlay="s001"/>
+    <item id="s001" href="Text/p001.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m001" href="Audio/01_TitoliTesta.mp3" media-type="audio/mpeg"/>
+
+    <item id="p002" href="Text/p002.xhtml" media-type="application/xhtml+xml" media-overlay="s002"/>
+    <item id="s002" href="Text/p002.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m002" href="Audio/02_Introduzione.mp3" media-type="audio/mpeg"/>
+
+    <item id="p009" href="Text/p009.xhtml" media-type="application/xhtml+xml" media-overlay="s009"/>
+    <item id="s009" href="Text/p009.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m009" href="Audio/09_Cap2_Doppia_esposizione.mp3" media-type="audio/mpeg"/>
+</manifest>
+<spine page-progression-direction="ltr" toc="toc.ncx">
+    <itemref idref="copertina" linear="yes"/>
+    <itemref idref="colophon" linear="yes"/>
+    <itemref idref="avvertenza" linear="yes"/>
+    <itemref idref="guida" linear="yes"/>
+    <itemref idref="p001" linear="yes"/>
+    <itemref idref="p002" linear="yes"/>
+    <itemref idref="p009" linear="yes"/>
+    <itemref idref="playlist" linear="yes"/>
+</spine>
+<guide>
+    <reference type="cover" title="Copertina" href="Text/copertina.xhtml" />
+    <reference type="toc" title="Indice" href="Text/toc.xhtml" />
+    <reference type="text" title="Inizio" href="Text/avvertenza.xhtml" />
+</guide>
+</package>
+

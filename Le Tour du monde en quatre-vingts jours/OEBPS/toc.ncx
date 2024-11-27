@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" xml:lang="en" version="2005-1">
+<head>
+ <meta name="dtb:uid" content="urn:uuid:1c8af696-af56-4297-802b-a839b255f0a1" />
+ <meta name="dtb:depth" content="1" />
+ <meta name="dtb:totalPageCount" content="0" />
+ <meta name="dtb:maxPageNumber" content="0" />
+</head>
+<docTitle><text></text></docTitle>
+<navMap>
+ <navPoint id="navPoint-000001" playOrder="1">
+  <navLabel><text>Cover</text></navLabel>
+  <content src="Text/cover.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000002" playOrder="2">
+  <navLabel><text>Colophon</text></navLabel>
+  <content src="Text/colophon.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000003" playOrder="3">
+  <navLabel><text>Le Tour du monde en quatre-vingts jours</text></navLabel>
+  <content src="Text/p000.xhtml"/>
+     <navPoint id="navPoint-000004" playOrder="4">
+      <navLabel><text>Chapitre I — dans lequel Philéas Fogg et Passepartout s’acceptent réciproquement, l’un comme maître, l’autre comme domestique</text></navLabel>
+      <content src="Text/p001.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000005" playOrder="5">
+      <navLabel><text>Chapitre II — où Passepartout est convaincu qu’il a enfin trouvé son idéal</text></navLabel>
+      <content src="Text/p002.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000006" playOrder="6">
+      <navLabel><text>Chapitre III — où s’engage une conversation qui pourra coûter cher à Phileas Fogg</text></navLabel>
+      <content src="Text/p003.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000007" playOrder="7">
+      <navLabel><text>Chapitre IV — dans lequel Phileas Fogg stupéfie Passepartout, son domestique</text></navLabel>
+      <content src="Text/p004.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000008" playOrder="8">
+      <navLabel><text>Chapitre V — dans lequel une nouvelle valeur apparaît sur la place de Londres</text></navLabel>
+      <content src="Text/p005.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000009" playOrder="9">
+      <navLabel><text>Chapitre VI — dans lequel l’agent Fix montre une impatience bien légitime</text></navLabel>
+      <content src="Text/p006.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000010" playOrder="10">
+      <navLabel><text>Chapitre VII — qui témoigne une fois de plus de l’inutilité des passe-ports en matière de police</text></navLabel>
+      <content src="Text/p007.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000011" playOrder="11">
+      <navLabel><text>Chapitre VIII — dans lequel Passepartout parle un peu plus peut-être qu’il ne conviendrait</text></navLabel>
+      <content src="Text/p008.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000012" playOrder="12">
+      <navLabel><text>Chapitre IX — où la Mer Rouge et la Mer des Indes se montrent propices aux desseins de Phileas Fogg</text></navLabel>
+      <content src="Text/p009.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000013" playOrder="13">
+      <navLabel><text>Chapitre X — où Passepartout est trop heureux d’en être quitte en perdant sa chaussure</text></navLabel>
+      <content src="Text/p010.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000014" playOrder="14">
+      <navLabel><text>Chapitre XI — où Phileas Fogg achète une monture à un prix fabuleux</text></navLabel>
+      <content src="Text/p011.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000015" playOrder="15">
+      <navLabel><text>Chapitre XII — où Phileas Fogg et ses compagnons s’aventurent à travers les forêts de l’Inde et ce qui s’ensuit</text></navLabel>
+      <content src="Text/p012.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000016" playOrder="16">
+      <navLabel><text>Chapitre XIII — dans lequel Passepartout prouve une fois de plus que la fortune sourit aux audacieux</text></navLabel>
+      <content src="Text/p013.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000017" playOrder="17">
+      <navLabel><text>Chapitre XIV — dans lequel Phileas Fogg descend toute l’admirable vallée du Gange sans même songer à la voir</text></navLabel>
+      <content src="Text/p014.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000018" playOrder="18">
+      <navLabel><text>Chapitre XV — où le sac aux bank-notes s’allège encore de quelques milliers de livres</text></navLabel>
+      <content src="Text/p015.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000019" playOrder="19">
+      <navLabel><text>Chapitre XVI — où Fix n’a pas l’air de connaître du tout les choses dont on lui parle</text></navLabel>
+      <content src="Text/p016.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000020" playOrder="20">
+      <navLabel><text>Chapitre XVII — où il est question de choses et d’autres pendant la traversée de Singapore à Hong-Kong</text></navLabel>
+      <content src="Text/p017.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000021" playOrder="21">
+      <navLabel><text>Chapitre XVIII — dans lequel Phileas Fogg, Passepartout, Fix, chacun de son côté, va à ses affaires</text></navLabel>
+      <content src="Text/p018.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000022" playOrder="22">
+      <navLabel><text>Chapitre XIX — où Passepartout prend un trop vif intérêt à son maître, et ce qui s’ensuit</text></navLabel>
+      <content src="Text/p019.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000023" playOrder="23">
+      <navLabel><text>Chapitre XX — dans lequel Fix entre directement en relation avec Phileas Fogg</text></navLabel>
+      <content src="Text/p020.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000024" playOrder="24">
+      <navLabel><text>Chapitre XXI — où le patron de la «Tankadère» risque fort de perdre une prime de deux cents livres</text></navLabel>
+      <content src="Text/p021.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000025" playOrder="25">
+      <navLabel><text>Chapitre XXII — où Passepartout voit bien que, même aux Antipodes, il est prudent d’avoir quelque argent dans sa poche</text></navLabel>
+      <content src="Text/p022.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000026" playOrder="26">
+      <navLabel><text>Chapitre XXIII — dans lequel le nez de Passepartout s’allonge démesurément</text></navLabel>
+      <content src="Text/p023.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000027" playOrder="27">
+      <navLabel><text>Chapitre XXIV — pendant lequel s’accomplit la traversée de l’Océan Pacifique</text></navLabel>
+      <content src="Text/p024.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000028" playOrder="28">
+      <navLabel><text>Chapitre XXV — où l’on donne un léger aperçu de San-Francisco, un jour de meeting</text></navLabel>
+      <content src="Text/p025.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000029" playOrder="29">
+      <navLabel><text>Chapitre XXVI — dans lequel on prend le train express du chemin de fer du Pacifique</text></navLabel>
+      <content src="Text/p026.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000030" playOrder="30">
+      <navLabel><text>Chapitre XXVII — dans lequel Passepartout suit, avec une vitesse de vingt milles à l’heure, un cours d’histoire mormone</text></navLabel>
+      <content src="Text/p027.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000031" playOrder="31">
+      <navLabel><text>Chapitre XXVIII — dans lequel Passepartout ne put parvenir à faire entendre le langage de la raison</text></navLabel>
+      <content src="Text/p028.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000032" playOrder="32">
+      <navLabel><text>Chapitre XXIX — où il sera fait le récit d’incidents divers qui ne se rencontrent que sur les rail-roads de l’Union</text></navLabel>
+      <content src="Text/p029.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000033" playOrder="33">
+      <navLabel><text>Chapitre XXX — dans lequel Phileas Fogg fait tout simplement son devoir</text></navLabel>
+      <content src="Text/p030.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000034" playOrder="34">
+      <navLabel><text>Chapitre XXXI — dans lequel l’inspecteur Fix prend très-sérieusement les intérêts de Phileas Fogg</text></navLabel>
+      <content src="Text/p031.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000035" playOrder="35">
+      <navLabel><text>Chapitre XXXII — dans lequel Phileas Fogg engage une lutte directe contre la mauvaise chance</text></navLabel>
+      <content src="Text/p032.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000036" playOrder="36">
+      <navLabel><text>Chapitre XXXIII — où Phileas Fogg se montre à la hauteur des circonstances</text></navLabel>
+      <content src="Text/p033.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000037" playOrder="37">
+      <navLabel><text>Chapitre XXXIV — qui procure à Passepartout l’occasion de faire un jeu de mots atroce, mais peut-être inédit</text></navLabel>
+      <content src="Text/p034.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000038" playOrder="38">
+      <navLabel><text>Chapitre XXXV — dans lequel Passepartout ne se fait pas répéter deux fois l’ordre que son maître lui donne</text></navLabel>
+      <content src="Text/p035.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000039" playOrder="39">
+      <navLabel><text>Chapitre XXXVI — dans lequel Phileas Fogg fait de nouveau prime sur le marché</text></navLabel>
+      <content src="Text/p036.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000040" playOrder="40">
+      <navLabel><text>Chapitre XXXVII — dans lequel il est prouvé que Phileas Fogg n’a rien gagné à faire ce Tour du Monde, si ce n’est le bonheur</text></navLabel>
+      <content src="Text/p037.xhtml"/>
+     </navPoint>
+ </navPoint>
+ <navPoint id="navPoint-000041" playOrder="41">
+  <navLabel><text>Playlist</text></navLabel>
+  <content src="Text/playlist.xhtml"/>
+ </navPoint>
+</navMap>
+</ncx>
