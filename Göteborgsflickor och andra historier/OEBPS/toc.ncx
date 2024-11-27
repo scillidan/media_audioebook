@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" xml:lang="en" version="2005-1">
+<head>
+ <meta name="dtb:uid" content="urn:uuid:381705e1-3b9d-41d3-b3e4-10a59e1955d1" />
+ <meta name="dtb:depth" content="1" />
+ <meta name="dtb:totalPageCount" content="0" />
+ <meta name="dtb:maxPageNumber" content="0" />
+</head>
+<docTitle><text></text></docTitle>
+<navMap>
+ <navPoint id="navPoint-000001" playOrder="1">
+  <navLabel><text>Cover</text></navLabel>
+  <content src="Text/cover.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000002" playOrder="2">
+  <navLabel><text>Colophon</text></navLabel>
+  <content src="Text/colophon.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000003" playOrder="3">
+  <navLabel><text>GÖTEBORGSFLICKOR OCH ANDRA HISTORIER</text></navLabel>
+  <content src="Text/p001.xhtml"/>
+     <navPoint id="navPoint-000004" playOrder="4">
+      <navLabel><text>HERR FÅGELSÅNG I SOCIETEN</text></navLabel>
+      <content src="Text/p002.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000005" playOrder="5">
+      <navLabel><text>TUR I SPEL</text></navLabel>
+      <content src="Text/p003.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000006" playOrder="6">
+      <navLabel><text>PRISSE</text></navLabel>
+      <content src="Text/p004.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000007" playOrder="7">
+      <navLabel><text>MANNEN OCH HANS ÖVERMAN</text></navLabel>
+      <content src="Text/p005.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000008" playOrder="8">
+      <navLabel><text>REFERATET</text></navLabel>
+      <content src="Text/p006.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000009" playOrder="9">
+      <navLabel><text>ETT SJÖMANSÖDE</text></navLabel>
+      <content src="Text/p007.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000010" playOrder="10">
+      <navLabel><text>ETT SLÄDPARTI</text></navLabel>
+      <content src="Text/p008.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000011" playOrder="11">
+      <navLabel><text>AFFÄR ÄR AFFÄR</text></navLabel>
+      <content src="Text/p009.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000012" playOrder="12">
+      <navLabel><text>ARTIGA KARLSSON</text></navLabel>
+      <content src="Text/p010.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000013" playOrder="13">
+      <navLabel><text>EN EGENDOMLIG LIKHET</text></navLabel>
+      <content src="Text/p011.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000014" playOrder="14">
+      <navLabel><text>REVYBESÖKET</text></navLabel>
+      <content src="Text/p012.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000015" playOrder="15">
+      <navLabel><text>PIGANS FÄSTMAN</text></navLabel>
+      <content src="Text/p013.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000016" playOrder="16">
+      <navLabel><text>ETT LITET MISSFÖRSTÅND</text></navLabel>
+      <content src="Text/p014.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000017" playOrder="17">
+      <navLabel><text>ETT KONVENANSPARTI</text></navLabel>
+      <content src="Text/p015.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000018" playOrder="18">
+      <navLabel><text>ANDERSSONS FRIERI</text></navLabel>
+      <content src="Text/p016.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000019" playOrder="19">
+      <navLabel><text>EN MUSIKALISK UNDERHÅLLNING</text></navLabel>
+      <content src="Text/p017.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000020" playOrder="20">
+      <navLabel><text>FRIMÄRKET</text></navLabel>
+      <content src="Text/p018.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000021" playOrder="21">
+      <navLabel><text>ETT UTSTÄLLNINGSBESÖK</text></navLabel>
+      <content src="Text/p019.xhtml"/>
+     </navPoint>
+     <navPoint id="navPoint-000022" playOrder="22">
+      <navLabel><text>ETT TAVELFYND</text></navLabel>
+      <content src="Text/p020.xhtml"/>
+     </navPoint>
+ </navPoint>
+ <navPoint id="navPoint-000023" playOrder="23">
+  <navLabel><text>Playlist</text></navLabel>
+  <content src="Text/playlist.xhtml"/>
+ </navPoint>
+</navMap>
+</ncx>
