@@ -1,0 +1,945 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/2010/catalog">
+      <title>/</title>
+      <id>/</id>
+      <link rel="start" href="/" type="application/atom+xml;profile=opds-catalog;kind=navigation"></link>
+      <updated>2024-11-26T22:59:32+08:00</updated>
+      <entry>
+          <title>A Christmas Carol</title>
+          <id>a-christmas-carol</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/A%20Christmas%20Carol" type="application/epub" title="A Christmas Carol"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>A Cup Of Tea</title>
+          <id>a-cup-of-tea</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/A%20Cup%20Of%20Tea" type="application/epub" title="A Cup Of Tea"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>A Cure For The Blues</title>
+          <id>a-cure-for-the-blues</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/A%20Cure%20For%20The%20Blues" type="application/epub" title="A Cure For The Blues"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>A Dog&#39;s Tale</title>
+          <id>a-dog&#39;s-tale</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/A%20Dog%27s%20Tale" type="application/epub" title="A Dog&#39;s Tale"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>A Horseman In The Sky</title>
+          <id>a-horseman-in-the-sky</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/A%20Horseman%20In%20The%20Sky" type="application/epub" title="A Horseman In The Sky"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>A Lodging For The Night</title>
+          <id>a-lodging-for-the-night</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/A%20Lodging%20For%20The%20Night" type="application/epub" title="A Lodging For The Night"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>A MÃ£o e a Luva</title>
+          <id>a-mã£o-e-a-luva</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/A%20M%C3%A3o%20e%20a%20Luva" type="application/epub" title="A MÃ£o e a Luva"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>A Retrieved Reformation</title>
+          <id>a-retrieved-reformation</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/A%20Retrieved%20Reformation" type="application/epub" title="A Retrieved Reformation"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Alonzo Fitz And Other Stories</title>
+          <id>alonzo-fitz-and-other-stories</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Alonzo%20Fitz%20And%20Other%20Stories" type="application/epub" title="Alonzo Fitz And Other Stories"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Among The Corn Rows</title>
+          <id>among-the-corn-rows</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Among%20The%20Corn%20Rows" type="application/epub" title="Among The Corn Rows"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>An Occurrence At Owl Creek Bridge</title>
+          <id>an-occurrence-at-owl-creek-bridge</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/An%20Occurrence%20At%20Owl%20Creek%20Bridge" type="application/epub" title="An Occurrence At Owl Creek Bridge"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Bartleby, The Scrivener - A Story Of Wall Street</title>
+          <id>bartleby,-the-scrivener---a-story-of-wall-street</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Bartleby%2C%20The%20Scrivener%20-%20A%20Story%20Of%20Wall%20Street" type="application/epub" title="Bartleby, The Scrivener - A Story Of Wall Street"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Benediction</title>
+          <id>/benediction</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Benediction" type="application/epub" title="Benediction"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Berenice</title>
+          <id>/berenice</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Berenice" type="application/epub" title="Berenice"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Bernice Bobs Her Hair</title>
+          <id>bernice-bobs-her-hair</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Bernice%20Bobs%20Her%20Hair" type="application/epub" title="Bernice Bobs Her Hair"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Bertie&#39;s Christmas Eve</title>
+          <id>bertie&#39;s-christmas-eve</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Bertie%27s%20Christmas%20Eve" type="application/epub" title="Bertie&#39;s Christmas Eve"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Bliss</title>
+          <id>/bliss</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Bliss" type="application/epub" title="Bliss"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Clocks</title>
+          <id>/clocks</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Clocks" type="application/epub" title="Clocks"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Come realizzare audiolibri in Home Studio - Prefazione (Omaggio)</title>
+          <id>come-realizzare-audiolibri-in-home-studio---prefazione-(omaggio)</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Come%20realizzare%20audiolibri%20in%20Home%20Studio%20-%20Prefazione%20%28Omaggio%29" type="application/epub" title="Come realizzare audiolibri in Home Studio - Prefazione (Omaggio)"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Confession</title>
+          <id>/confession</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Confession" type="application/epub" title="Confession"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Confessions Of A Humorist</title>
+          <id>confessions-of-a-humorist</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Confessions%20Of%20A%20Humorist" type="application/epub" title="Confessions Of A Humorist"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Cost Of Kindness</title>
+          <id>cost-of-kindness</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Cost%20Of%20Kindness" type="application/epub" title="Cost Of Kindness"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Crooken Sands</title>
+          <id>crooken-sands</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Crooken%20Sands" type="application/epub" title="Crooken Sands"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Der abenteuerliche Simplicissimus</title>
+          <id>der-abenteuerliche-simplicissimus</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Der%20abenteuerliche%20Simplicissimus" type="application/epub" title="Der abenteuerliche Simplicissimus"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Divina Commedia, Inferno</title>
+          <id>divina-commedia,-inferno</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Divina%20Commedia%2C%20Inferno" type="application/epub" title="Divina Commedia, Inferno"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Divina Commedia, Paradiso</title>
+          <id>divina-commedia,-paradiso</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Divina%20Commedia%2C%20Paradiso" type="application/epub" title="Divina Commedia, Paradiso"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Divina Commedia, Purgatorio</title>
+          <id>divina-commedia,-purgatorio</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Divina%20Commedia%2C%20Purgatorio" type="application/epub" title="Divina Commedia, Purgatorio"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Does The Race Of Man Love A Lord</title>
+          <id>does-the-race-of-man-love-a-lord</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Does%20The%20Race%20Of%20Man%20Love%20A%20Lord" type="application/epub" title="Does The Race Of Man Love A Lord"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Dr. Heidegger&#39;s Experiment</title>
+          <id>dr.-heidegger&#39;s-experiment</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Dr.%20Heidegger%27s%20Experiment" type="application/epub" title="Dr. Heidegger&#39;s Experiment"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Dracula&#39;s Guest</title>
+          <id>dracula&#39;s-guest</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Dracula%27s%20Guest" type="application/epub" title="Dracula&#39;s Guest"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Duplicity Of Hargraves</title>
+          <id>duplicity-of-hargraves</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Duplicity%20Of%20Hargraves" type="application/epub" title="Duplicity Of Hargraves"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>El CapitÃ¡n Veneno</title>
+          <id>el-capitã¡n-veneno</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/El%20Capit%C3%A1n%20Veneno" type="application/epub" title="El CapitÃ¡n Veneno"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Eve&#39;s Diary</title>
+          <id>eve&#39;s-diary</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Eve%27s%20Diary" type="application/epub" title="Eve&#39;s Diary"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Five Beloved Stories - A Cosmopolite In A Cafe</title>
+          <id>five-beloved-stories---a-cosmopolite-in-a-cafe</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Five%20Beloved%20Stories%20-%20A%20Cosmopolite%20In%20A%20Cafe" type="application/epub" title="Five Beloved Stories - A Cosmopolite In A Cafe"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Five Beloved Stories - Mammon And The Archer</title>
+          <id>five-beloved-stories---mammon-and-the-archer</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Five%20Beloved%20Stories%20-%20Mammon%20And%20The%20Archer" type="application/epub" title="Five Beloved Stories - Mammon And The Archer"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Five Beloved Stories - The Cop And The Anthem</title>
+          <id>five-beloved-stories---the-cop-and-the-anthem</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Five%20Beloved%20Stories%20-%20The%20Cop%20And%20The%20Anthem" type="application/epub" title="Five Beloved Stories - The Cop And The Anthem"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Five Beloved Stories - The Gift Of The Magi</title>
+          <id>five-beloved-stories---the-gift-of-the-magi</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Five%20Beloved%20Stories%20-%20The%20Gift%20Of%20The%20Magi" type="application/epub" title="Five Beloved Stories - The Gift Of The Magi"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Flappers And Philosophers - Benediction</title>
+          <id>flappers-and-philosophers---benediction</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Flappers%20And%20Philosophers%20-%20Benediction" type="application/epub" title="Flappers And Philosophers - Benediction"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Flappers And Philosophers - Bernice Bobs Her Hair</title>
+          <id>flappers-and-philosophers---bernice-bobs-her-hair</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Flappers%20And%20Philosophers%20-%20Bernice%20Bobs%20Her%20Hair" type="application/epub" title="Flappers And Philosophers - Bernice Bobs Her Hair"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Flappers And Philosophers - Dalyrimple Goes Wrong</title>
+          <id>flappers-and-philosophers---dalyrimple-goes-wrong</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Flappers%20And%20Philosophers%20-%20Dalyrimple%20Goes%20Wrong" type="application/epub" title="Flappers And Philosophers - Dalyrimple Goes Wrong"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Flappers And Philosophers - Head And Shoulders</title>
+          <id>flappers-and-philosophers---head-and-shoulders</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Flappers%20And%20Philosophers%20-%20Head%20And%20Shoulders" type="application/epub" title="Flappers And Philosophers - Head And Shoulders"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Flappers And Philosophers - The Cut-Glass Bowl</title>
+          <id>flappers-and-philosophers---the-cut-glass-bowl</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Flappers%20And%20Philosophers%20-%20The%20Cut-Glass%20Bowl" type="application/epub" title="Flappers And Philosophers - The Cut-Glass Bowl"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Flappers And Philosophers - The Four Fists</title>
+          <id>flappers-and-philosophers---the-four-fists</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Flappers%20And%20Philosophers%20-%20The%20Four%20Fists" type="application/epub" title="Flappers And Philosophers - The Four Fists"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Flappers And Philosophers - The Ice Palace</title>
+          <id>flappers-and-philosophers---the-ice-palace</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Flappers%20And%20Philosophers%20-%20The%20Ice%20Palace" type="application/epub" title="Flappers And Philosophers - The Ice Palace"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Flappers And Philosophers - The Offshore Pirate</title>
+          <id>flappers-and-philosophers---the-offshore-pirate</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Flappers%20And%20Philosophers%20-%20The%20Offshore%20Pirate" type="application/epub" title="Flappers And Philosophers - The Offshore Pirate"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Forewarned</title>
+          <id>/forewarned</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Forewarned" type="application/epub" title="Forewarned"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>GÃ¶teborgsflickor och andra historier</title>
+          <id>gã¶teborgsflickor-och-andra-historier</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/G%C3%B6teborgsflickor%20och%20andra%20historier" type="application/epub" title="GÃ¶teborgsflickor och andra historier"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Italian With Grammar</title>
+          <id>italian-with-grammar</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Italian%20With%20Grammar" type="application/epub" title="Italian With Grammar"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Italian Without A Master</title>
+          <id>italian-without-a-master</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Italian%20Without%20A%20Master" type="application/epub" title="Italian Without A Master"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Just So Stories</title>
+          <id>just-so-stories</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Just%20So%20Stories" type="application/epub" title="Just So Stories"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Kew Gardens</title>
+          <id>kew-gardens</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Kew%20Gardens" type="application/epub" title="Kew Gardens"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>LETTURA+ASCOLTO. Introduzione - La doppia esposizione (Omaggio)</title>
+          <id>lettura+ascolto.-introduzione---la-doppia-esposizione-(omaggio)</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/LETTURA+ASCOLTO.%20Introduzione%20-%20La%20doppia%20esposizione%20%28Omaggio%29" type="application/epub" title="LETTURA+ASCOLTO. Introduzione - La doppia esposizione (Omaggio)"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>La Volpe (Omaggio)</title>
+          <id>la-volpe-(omaggio)</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/La%20Volpe%20%28Omaggio%29" type="application/epub" title="La Volpe (Omaggio)"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Le Tour du monde en quatre-vingts jours</title>
+          <id>le-tour-du-monde-en-quatre-vingts-jours</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Le%20Tour%20du%20monde%20en%20quatre-vingts%20jours" type="application/epub" title="Le Tour du monde en quatre-vingts jours"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Lost In The Snow</title>
+          <id>lost-in-the-snow</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Lost%20In%20The%20Snow" type="application/epub" title="Lost In The Snow"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Love And Friendship</title>
+          <id>love-and-friendship</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Love%20And%20Friendship" type="application/epub" title="Love And Friendship"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Love Of Life</title>
+          <id>love-of-life</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Love%20Of%20Life" type="application/epub" title="Love Of Life"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Monachomachia czyli wojna mnichÃ³w</title>
+          <id>monachomachia-czyli-wojna-mnichã³w</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Monachomachia%20czyli%20wojna%20mnich%C3%B3w" type="application/epub" title="Monachomachia czyli wojna mnichÃ³w"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>My Platonic Sweetheart</title>
+          <id>my-platonic-sweetheart</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/My%20Platonic%20Sweetheart" type="application/epub" title="My Platonic Sweetheart"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Psychology</title>
+          <id>/psychology</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Psychology" type="application/epub" title="Psychology"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Reginald Blake, Financier And Cad</title>
+          <id>reginald-blake,-financier-and-cad</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Reginald%20Blake%2C%20Financier%20And%20Cad" type="application/epub" title="Reginald Blake, Financier And Cad"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Rip Van Winkle</title>
+          <id>rip-van-winkle</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Rip%20Van%20Winkle" type="application/epub" title="Rip Van Winkle"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Seven H.P. Lovecraft Stories</title>
+          <id>seven-h.p.-lovecraft-stories</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Seven%20H.P.%20Lovecraft%20Stories" type="application/epub" title="Seven H.P. Lovecraft Stories"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Shoes And Stockings - A Country Christmas</title>
+          <id>shoes-and-stockings---a-country-christmas</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Shoes%20And%20Stockings%20-%20A%20Country%20Christmas" type="application/epub" title="Shoes And Stockings - A Country Christmas"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Shoes And Stockings - Aunt Kipp</title>
+          <id>shoes-and-stockings---aunt-kipp</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Shoes%20And%20Stockings%20-%20Aunt%20Kipp" type="application/epub" title="Shoes And Stockings - Aunt Kipp"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Shoes And Stockings - Kitty&#39;s Class Day</title>
+          <id>shoes-and-stockings---kitty&#39;s-class-day</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Shoes%20And%20Stockings%20-%20Kitty%27s%20Class%20Day" type="application/epub" title="Shoes And Stockings - Kitty&#39;s Class Day"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Shoes And Stockings - My Red Cap</title>
+          <id>shoes-and-stockings---my-red-cap</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Shoes%20And%20Stockings%20-%20My%20Red%20Cap" type="application/epub" title="Shoes And Stockings - My Red Cap"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Shoes And Stockings - Nelly&#39;s Hospital</title>
+          <id>shoes-and-stockings---nelly&#39;s-hospital</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Shoes%20And%20Stockings%20-%20Nelly%27s%20Hospital" type="application/epub" title="Shoes And Stockings - Nelly&#39;s Hospital"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Shoes And Stockings - Scarlet Stockings</title>
+          <id>shoes-and-stockings---scarlet-stockings</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Shoes%20And%20Stockings%20-%20Scarlet%20Stockings" type="application/epub" title="Shoes And Stockings - Scarlet Stockings"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Shoes and Stockings - A Modern Cinderella Or, The Little Old Shoe</title>
+          <id>shoes-and-stockings---a-modern-cinderella-or,-the-little-old-shoe</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Shoes%20and%20Stockings%20-%20A%20Modern%20Cinderella%20Or%2C%20The%20Little%20Old%20Shoe" type="application/epub" title="Shoes and Stockings - A Modern Cinderella Or, The Little Old Shoe"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Sir Edmund Orme</title>
+          <id>sir-edmund-orme</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Sir%20Edmund%20Orme" type="application/epub" title="Sir Edmund Orme"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Sonnets</title>
+          <id>/sonnets</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Sonnets" type="application/epub" title="Sonnets"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Tales from Shakespeare</title>
+          <id>tales-from-shakespeare</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Tales%20from%20Shakespeare" type="application/epub" title="Tales from Shakespeare"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Tarquin Of Cheapside</title>
+          <id>tarquin-of-cheapside</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Tarquin%20Of%20Cheapside" type="application/epub" title="Tarquin Of Cheapside"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>That Dead Men Rise Up Never</title>
+          <id>that-dead-men-rise-up-never</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/That%20Dead%20Men%20Rise%20Up%20Never" type="application/epub" title="That Dead Men Rise Up Never"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>The $30,000 Bequest</title>
+          <id>the-$30,000-bequest</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/The%20$30%2C000%20Bequest" type="application/epub" title="The $30,000 Bequest"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>The Adventures Of Sherlock Holmes - Adventure I - A Scandal In Bohemia</title>
+          <id>the-adventures-of-sherlock-holmes---adventure-i---a-scandal-in-bohemia</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/The%20Adventures%20Of%20Sherlock%20Holmes%20-%20Adventure%20I%20-%20A%20Scandal%20In%20Bohemia" type="application/epub" title="The Adventures Of Sherlock Holmes - Adventure I - A Scandal In Bohemia"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>The Adventures Of Sherlock Holmes - Adventure II - The Red-Headed League</title>
+          <id>the-adventures-of-sherlock-holmes---adventure-ii---the-red-headed-league</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/The%20Adventures%20Of%20Sherlock%20Holmes%20-%20Adventure%20II%20-%20The%20Red-Headed%20League" type="application/epub" title="The Adventures Of Sherlock Holmes - Adventure II - The Red-Headed League"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>The Adventures Of Sherlock Holmes - Adventure III - A Case Of Identity</title>
+          <id>the-adventures-of-sherlock-holmes---adventure-iii---a-case-of-identity</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/The%20Adventures%20Of%20Sherlock%20Holmes%20-%20Adventure%20III%20-%20A%20Case%20Of%20Identity" type="application/epub" title="The Adventures Of Sherlock Holmes - Adventure III - A Case Of Identity"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>The Adventures Of Sherlock Holmes - Adventure IV - The Bascombe Valley Mystery</title>
+          <id>the-adventures-of-sherlock-holmes---adventure-iv---the-bascombe-valley-mystery</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/The%20Adventures%20Of%20Sherlock%20Holmes%20-%20Adventure%20IV%20-%20The%20Bascombe%20Valley%20Mystery" type="application/epub" title="The Adventures Of Sherlock Holmes - Adventure IV - The Bascombe Valley Mystery"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>The Adventures Of Sherlock Holmes - Adventure IX - The Adventure Of The Engineer&#39;s Thumb</title>
+          <id>the-adventures-of-sherlock-holmes---adventure-ix---the-adventure-of-the-engineer&#39;s-thumb</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/The%20Adventures%20Of%20Sherlock%20Holmes%20-%20Adventure%20IX%20-%20The%20Adventure%20Of%20The%20Engineer%27s%20Thumb" type="application/epub" title="The Adventures Of Sherlock Holmes - Adventure IX - The Adventure Of The Engineer&#39;s Thumb"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>The Adventures Of Sherlock Holmes - Adventure V - The Five Orange Pips</title>
+          <id>the-adventures-of-sherlock-holmes---adventure-v---the-five-orange-pips</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/The%20Adventures%20Of%20Sherlock%20Holmes%20-%20Adventure%20V%20-%20The%20Five%20Orange%20Pips" type="application/epub" title="The Adventures Of Sherlock Holmes - Adventure V - The Five Orange Pips"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>The Adventures Of Sherlock Holmes - Adventure VI - The Man With The Twisted Lip</title>
+          <id>the-adventures-of-sherlock-holmes---adventure-vi---the-man-with-the-twisted-lip</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/The%20Adventures%20Of%20Sherlock%20Holmes%20-%20Adventure%20VI%20-%20The%20Man%20With%20The%20Twisted%20Lip" type="application/epub" title="The Adventures Of Sherlock Holmes - Adventure VI - The Man With The Twisted Lip"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>The Adventures Of Sherlock Holmes - Adventure VII - The Adventure Of The Blue Carbuncle</title>
+          <id>the-adventures-of-sherlock-holmes---adventure-vii---the-adventure-of-the-blue-carbuncle</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/The%20Adventures%20Of%20Sherlock%20Holmes%20-%20Adventure%20VII%20-%20The%20Adventure%20Of%20The%20Blue%20Carbuncle" type="application/epub" title="The Adventures Of Sherlock Holmes - Adventure VII - The Adventure Of The Blue Carbuncle"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>The Adventures Of Sherlock Holmes - Adventure VIII - The Adventure Of The Speckled Band</title>
+          <id>the-adventures-of-sherlock-holmes---adventure-viii---the-adventure-of-the-speckled-band</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/The%20Adventures%20Of%20Sherlock%20Holmes%20-%20Adventure%20VIII%20-%20The%20Adventure%20Of%20The%20Speckled%20Band" type="application/epub" title="The Adventures Of Sherlock Holmes - Adventure VIII - The Adventure Of The Speckled Band"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>The Adventures Of Sherlock Holmes - Adventure X - The Adventure Of The Noble Bachelor</title>
+          <id>the-adventures-of-sherlock-holmes---adventure-x---the-adventure-of-the-noble-bachelor</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/The%20Adventures%20Of%20Sherlock%20Holmes%20-%20Adventure%20X%20-%20The%20Adventure%20Of%20The%20Noble%20Bachelor" type="application/epub" title="The Adventures Of Sherlock Holmes - Adventure X - The Adventure Of The Noble Bachelor"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>The Adventures Of Sherlock Holmes - Adventure XI - The Adventure Of The Beryl Coronet</title>
+          <id>the-adventures-of-sherlock-holmes---adventure-xi---the-adventure-of-the-beryl-coronet</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/The%20Adventures%20Of%20Sherlock%20Holmes%20-%20Adventure%20XI%20-%20The%20Adventure%20Of%20The%20Beryl%20Coronet" type="application/epub" title="The Adventures Of Sherlock Holmes - Adventure XI - The Adventure Of The Beryl Coronet"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>The Adventures Of Sherlock Holmes - Adventure XII - The Adventure Of The Copper Beeches</title>
+          <id>the-adventures-of-sherlock-holmes---adventure-xii---the-adventure-of-the-copper-beeches</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/The%20Adventures%20Of%20Sherlock%20Holmes%20-%20Adventure%20XII%20-%20The%20Adventure%20Of%20The%20Copper%20Beeches" type="application/epub" title="The Adventures Of Sherlock Holmes - Adventure XII - The Adventure Of The Copper Beeches"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>The Bell-Tower</title>
+          <id>the-bell-tower</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/The%20Bell-Tower" type="application/epub" title="The Bell-Tower"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>The Birthday Of The Infanta</title>
+          <id>the-birthday-of-the-infanta</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/The%20Birthday%20Of%20The%20Infanta" type="application/epub" title="The Birthday Of The Infanta"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>The Black Cat</title>
+          <id>the-black-cat</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/The%20Black%20Cat" type="application/epub" title="The Black Cat"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>The Blue Room</title>
+          <id>the-blue-room</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/The%20Blue%20Room" type="application/epub" title="The Blue Room"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>The Brazilian Cat</title>
+          <id>the-brazilian-cat</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/The%20Brazilian%20Cat" type="application/epub" title="The Brazilian Cat"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>The Californian&#39;s Tale</title>
+          <id>the-californian&#39;s-tale</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/The%20Californian%27s%20Tale" type="application/epub" title="The Californian&#39;s Tale"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>The Camel&#39;s Back</title>
+          <id>the-camel&#39;s-back</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/The%20Camel%27s%20Back" type="application/epub" title="The Camel&#39;s Back"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>The Canterville Ghost</title>
+          <id>the-canterville-ghost</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/The%20Canterville%20Ghost" type="application/epub" title="The Canterville Ghost"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>The Cask Of Amontillado</title>
+          <id>the-cask-of-amontillado</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/The%20Cask%20Of%20Amontillado" type="application/epub" title="The Cask Of Amontillado"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>The Curious Case of Benjamin Button</title>
+          <id>the-curious-case-of-benjamin-button</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/The%20Curious%20Case%20of%20Benjamin%20Button" type="application/epub" title="The Curious Case of Benjamin Button"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>The Fullness Of Life</title>
+          <id>the-fullness-of-life</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/The%20Fullness%20Of%20Life" type="application/epub" title="The Fullness Of Life"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>The Gipsy Prophecy</title>
+          <id>the-gipsy-prophecy</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/The%20Gipsy%20Prophecy" type="application/epub" title="The Gipsy Prophecy"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>The Gold-Bug</title>
+          <id>the-gold-bug</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/The%20Gold-Bug" type="application/epub" title="The Gold-Bug"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>The Haunted House</title>
+          <id>the-haunted-house</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/The%20Haunted%20House" type="application/epub" title="The Haunted House"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>The Horror Of The Heights</title>
+          <id>the-horror-of-the-heights</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/The%20Horror%20Of%20The%20Heights" type="application/epub" title="The Horror Of The Heights"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>The Jungle Book</title>
+          <id>the-jungle-book</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/The%20Jungle%20Book" type="application/epub" title="The Jungle Book"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>The Legend Of Sleepy Hollow</title>
+          <id>the-legend-of-sleepy-hollow</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/The%20Legend%20Of%20Sleepy%20Hollow" type="application/epub" title="The Legend Of Sleepy Hollow"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>The Lighting-Rod Man</title>
+          <id>the-lighting-rod-man</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/The%20Lighting-Rod%20Man" type="application/epub" title="The Lighting-Rod Man"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>The Lumber-Room</title>
+          <id>the-lumber-room</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/The%20Lumber-Room" type="application/epub" title="The Lumber-Room"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>The Man That Corrupted Hadleyburg</title>
+          <id>the-man-that-corrupted-hadleyburg</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/The%20Man%20That%20Corrupted%20Hadleyburg" type="application/epub" title="The Man That Corrupted Hadleyburg"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>The Man Who Would Be King</title>
+          <id>the-man-who-would-be-king</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/The%20Man%20Who%20Would%20Be%20King" type="application/epub" title="The Man Who Would Be King"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>The Man Who Would Manage</title>
+          <id>the-man-who-would-manage</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/The%20Man%20Who%20Would%20Manage" type="application/epub" title="The Man Who Would Manage"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>The Mark On The Wall</title>
+          <id>the-mark-on-the-wall</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/The%20Mark%20On%20The%20Wall" type="application/epub" title="The Mark On The Wall"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>The Masque Of The Red Death</title>
+          <id>the-masque-of-the-red-death</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/The%20Masque%20Of%20The%20Red%20Death" type="application/epub" title="The Masque Of The Red Death"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>The Million Pound Bank Note</title>
+          <id>the-million-pound-bank-note</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/The%20Million%20Pound%20Bank%20Note" type="application/epub" title="The Million Pound Bank Note"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>The Minister&#39;s Black Veil</title>
+          <id>the-minister&#39;s-black-veil</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/The%20Minister%27s%20Black%20Veil" type="application/epub" title="The Minister&#39;s Black Veil"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>The Murders In The Rue Morgue</title>
+          <id>the-murders-in-the-rue-morgue</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/The%20Murders%20In%20The%20Rue%20Morgue" type="application/epub" title="The Murders In The Rue Morgue"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>The Nice People</title>
+          <id>the-nice-people</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/The%20Nice%20People" type="application/epub" title="The Nice People"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>The Piazza</title>
+          <id>the-piazza</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/The%20Piazza" type="application/epub" title="The Piazza"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>The Pit And The Pendulum</title>
+          <id>the-pit-and-the-pendulum</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/The%20Pit%20And%20The%20Pendulum" type="application/epub" title="The Pit And The Pendulum"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>The Secret Of The Growing Gold</title>
+          <id>the-secret-of-the-growing-gold</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/The%20Secret%20Of%20The%20Growing%20Gold" type="application/epub" title="The Secret Of The Growing Gold"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>The She-Wolf</title>
+          <id>the-she-wolf</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/The%20She-Wolf" type="application/epub" title="The She-Wolf"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>The Tell-Tale Heart</title>
+          <id>the-tell-tale-heart</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/The%20Tell-Tale%20Heart" type="application/epub" title="The Tell-Tale Heart"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>The Verdict</title>
+          <id>the-verdict</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/The%20Verdict" type="application/epub" title="The Verdict"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>The Wedding Knell</title>
+          <id>the-wedding-knell</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/The%20Wedding%20Knell" type="application/epub" title="The Wedding Knell"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>The Young King</title>
+          <id>the-young-king</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/The%20Young%20King" type="application/epub" title="The Young King"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>To Build A Fire</title>
+          <id>to-build-a-fire</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/To%20Build%20A%20Fire" type="application/epub" title="To Build A Fire"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Tobermory</title>
+          <id>/tobermory</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Tobermory" type="application/epub" title="Tobermory"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Told After Supper</title>
+          <id>told-after-supper</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Told%20After%20Supper" type="application/epub" title="Told After Supper"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Tu ridi, La signora Frola e il signor Ponza, suo genero (Omaggio)</title>
+          <id>tu-ridi,-la-signora-frola-e-il-signor-ponza,-suo-genero-(omaggio)</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Tu%20ridi%2C%20La%20signora%20Frola%20e%20il%20signor%20Ponza%2C%20suo%20genero%20%28Omaggio%29" type="application/epub" title="Tu ridi, La signora Frola e il signor Ponza, suo genero (Omaggio)"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Udvalgte Danske Eventyr</title>
+          <id>udvalgte-danske-eventyr</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Udvalgte%20Danske%20Eventyr" type="application/epub" title="Udvalgte Danske Eventyr"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Willem Tell</title>
+          <id>willem-tell</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Willem%20Tell" type="application/epub" title="Willem Tell"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Wintry Peacock</title>
+          <id>wintry-peacock</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Wintry%20Peacock" type="application/epub" title="Wintry Peacock"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Xingu</title>
+          <id>/xingu</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Xingu" type="application/epub" title="Xingu"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>Youth, A Narrative</title>
+          <id>youth,-a-narrative</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/Youth%2C%20A%20Narrative" type="application/epub" title="Youth, A Narrative"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+      <entry>
+          <title>ÐÐ½Ð³ÐµÐ»Ð¾Ñ‡ÐµÐº</title>
+          <id>/ðð½ð³ðµð»ð¾ñ‡ðµðº</id>
+          <link rel="http://opds-spec.org/acquisition" href="https://gm-media-sreadium.vercel.app/%D0%90%D0%BD%D0%B3%D0%B5%D0%BB%D0%BE%D1%87%D0%B5%D0%BA" type="application/epub" title="ÐÐ½Ð³ÐµÐ»Ð¾Ñ‡ÐµÐº"></link>
+          <published></published>
+          <updated></updated>
+      </entry>
+  </feed>
