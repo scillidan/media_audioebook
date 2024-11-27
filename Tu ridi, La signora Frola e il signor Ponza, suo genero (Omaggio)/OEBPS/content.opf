@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="pubID" xml:lang="it" prefix="rendition: http://www.idpf.org/vocab/rendition/#">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+
+    <dc:identifier id="pubID">urn:uuid:3baf5cd9-6db9-4119-a8c9-f9f5e1e55c69</dc:identifier>
+    <meta refines="#pubID" property="identifier-type" scheme="xsd:string">uuid</meta>
+
+    <dc:identifier id="pubID2">urn:isbn:9788868160920</dc:identifier>
+    <meta refines="#pubID2" property="identifier-type" scheme="xsd:string">isbn</meta>    
+
+    <dc:title id="title">Tu ridi e La signora Frola e il signor Ponza, suo genero</dc:title>
+    
+    <dc:creator id="aut">Luigi Pirandello</dc:creator>
+    <meta refines="#aut" property="role" scheme="marc:relators">aut</meta>
+    <meta refines="#aut" property="file-as">Pirandello, Luigi</meta>
+    
+    <dc:contributor id="nrt1">Moro Silo</dc:contributor>
+    <meta refines="#nrt1" property="role" scheme="marc:relators">nrt</meta>
+    <meta refines="#nrt1" property="file-as">Silo, Moro</meta>
+
+    <dc:contributor id="nrt2">Margaret Collina</dc:contributor>
+    <meta refines="#nrt2" property="role" scheme="marc:relators">nrt</meta>
+    <meta refines="#nrt2" property="file-as">Collina, Margaret</meta>    
+    
+    <dc:contributor id="cph">il Narratore audiolibri</dc:contributor>
+    <meta refines="#cph" property="role" scheme="marc:relators">cph</meta>
+    <meta refines="#cph" property="file-as">il Narratore S.r.l., Zovencedo, Italia</meta>
+    
+    <dc:contributor id="bkp">Smuuks</dc:contributor>
+    <meta refines="#bkp" property="role" scheme="marc:relators">bkp</meta>
+    <meta refines="#bkp" property="file-as">Smuuks</meta>
+
+    <dc:language>it</dc:language>
+    <dc:date>2014-06-27</dc:date>
+
+    <dc:publisher>il Narratore audiolibri</dc:publisher>
+    <dc:rights>All rights reserved</dc:rights>
+    <dc:subject>Luigi Pirandello</dc:subject>
+    <dc:subject>Novelle</dc:subject>
+    <dc:subject>amicissimi</dc:subject>
+    <dc:subject>signora Frola</dc:subject>
+    <dc:subject>signor Fonza</dc:subject>
+    <dc:subject>genero</dc:subject>
+    <dc:subject>Letteratura Italiana</dc:subject>
+    <dc:subject>Novecento</dc:subject>
+    <dc:subject>comicità</dc:subject>
+    <dc:subject>tragedia</dc:subject>
+    <dc:subject>pazzia</dc:subject>
+    <dc:subject>fallimento</dc:subject>
+    <dc:subject>infelicità</dc:subject>
+    <dc:subject>assurdo</dc:subject>
+    <dc:subject>assurdità</dc:subject>
+    <dc:type>Book</dc:type>
+    <meta property="dcterms:modified">2014-06-27T00:00:01Z</meta>
+    <meta property="rendition:layout">reflowable</meta>
+    <meta name="cover" content="copertina.jpg" />
+    
+    <!--MEDIA OVERLAY METADATA-->
+    <meta property="media:duration" refines="#s003">00:14:43.71</meta>
+    <meta property="media:duration" refines="#s004">00:21:06.45</meta>
+    <meta property="media:duration">00:35:48.16</meta>
+    <meta property="media:narrator">Moro Silo, Margaret Collina</meta>
+    <meta property="media:active-class">-epub-media-overlay-active</meta>
+
+</metadata>
+<manifest>
+    <item id="toc.ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="toc" href="Text/toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    
+    <item id="copertina" href="Text/copertina.xhtml" media-type="application/xhtml+xml"/>
+    <item id="colophon" href="Text/colophon.xhtml" media-type="application/xhtml+xml"/>
+    <item id="presentazione" href="Text/presentazione.xhtml" media-type="application/xhtml+xml"/>
+    <item id="guida" href="Text/guida.xhtml" media-type="application/xhtml+xml"/>
+    <item id="playlist" href="Text/playlist.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c001" href="Styles/style.css" media-type="text/css"/>
+
+    <item id="copertina.jpg" href="Images/copertina.jpg" media-type="image/jpeg" properties="cover-image" />
+    <item id="logofb.png" href="Images/logofb.png" media-type="image/png" />
+    <item id="logotw.png" href="Images/logotw.png" media-type="image/png" />
+    <item id="logowww.png" href="Images/logowww.png" media-type="image/png" />
+    <item id="ascolta.png" href="Images/ascolta.png" media-type="image/png" />
+    <item id="barranavigazione.png" href="Images/barranavigazione.png" media-type="image/png" />
+    <item id="indicetracce.png" href="Images/indicetracce.png" media-type="image/png" />
+    <item id="leggiascolta.png" href="Images/leggiascolta.png" media-type="image/png" />
+    <item id="readium.png" href="Images/readium.png" media-type="image/png" />
+    
+    <item id="p001" href="Text/p001.xhtml" media-type="application/xhtml+xml"/>
+
+    <item id="p003" href="Text/p003.xhtml" media-type="application/xhtml+xml" media-overlay="s003"/>
+    <item id="s003" href="Text/p003.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m003" href="Audio/03_Pirandello-Tu_ridi.mp3" media-type="audio/mpeg"/>
+
+    <item id="p004" href="Text/p004.xhtml" media-type="application/xhtml+xml" media-overlay="s004"/>
+    <item id="s004" href="Text/p004.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m004" href="Audio/04_Pirandello-La_signora_Frola_il_signor_Ponza.mp3" media-type="audio/mpeg"/>
+</manifest>
+<spine page-progression-direction="ltr" toc="toc.ncx">
+    <itemref idref="copertina" linear="yes"/>
+    <itemref idref="colophon" linear="yes"/>
+    <itemref idref="presentazione" linear="yes"/>
+    <itemref idref="guida" linear="yes"/>
+    <itemref idref="p001" linear="yes"/>
+    <itemref idref="p003" linear="yes"/>
+    <itemref idref="p004" linear="yes"/>
+    <itemref idref="playlist" linear="yes"/>
+</spine>
+<guide>
+    <reference type="cover" title="Copertina" href="Text/copertina.xhtml" />
+    <reference type="toc" title="Indice" href="Text/toc.xhtml" />
+    <reference type="text" title="Inizio" href="Text/presentazione.xhtml" />
+</guide>
+</package>
+
