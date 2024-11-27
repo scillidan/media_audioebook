@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" xml:lang="en" version="2005-1">
+<head>
+ <meta name="dtb:uid" content="urn:uuid:7316871e-c026-4c31-b390-57abcf313b30" />
+ <meta name="dtb:depth" content="1" />
+ <meta name="dtb:totalPageCount" content="0" />
+ <meta name="dtb:maxPageNumber" content="0" />
+</head>
+<docTitle><text>Alonzo Fitz And Other Stories</text></docTitle>
+<navMap>
+ <navPoint id="navPoint-000001" playOrder="1">
+  <navLabel><text>Cover</text></navLabel>
+  <content src="Text/cover.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000002" playOrder="2">
+  <navLabel><text>Colophon</text></navLabel>
+  <content src="Text/colophon.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000003" playOrder="3">
+  <navLabel><text>Table Of Contents</text></navLabel>
+  <content src="Text/toc.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000004" playOrder="4">
+  <navLabel><text>Audio-eBooks: A Quick Introduction</text></navLabel>
+  <content src="Text/foreword.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000005" playOrder="5">
+  <navLabel><text>Alonzo Fitz And Other Stories</text></navLabel>
+  <content src="Text/p001.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000006" playOrder="6">
+  <navLabel><text>The Loves of Alonzo Fitz Clarence and Rosannah Ethelton</text></navLabel>
+  <content src="Text/p002.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000007" playOrder="7">
+  <navLabel><text>On the Decay of the Art of Lying</text></navLabel>
+  <content src="Text/p003.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000008" playOrder="8">
+  <navLabel><text>About Magnanimous-Incident Literature</text></navLabel>
+  <content src="Text/p004.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000009" playOrder="9">
+  <navLabel><text>Punch, Brothers, Punch</text></navLabel>
+  <content src="Text/p005.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000010" playOrder="10">
+  <navLabel><text>The Great Revolution in Pitcairn</text></navLabel>
+  <content src="Text/p006.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000011" playOrder="11">
+  <navLabel><text>The Canvasser’s Tale</text></navLabel>
+  <content src="Text/p007.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000012" playOrder="12">
+  <navLabel><text>An Encounter with an Interviewer</text></navLabel>
+  <content src="Text/p008.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000013" playOrder="13">
+  <navLabel><text>Paris Notes</text></navLabel>
+  <content src="Text/p009.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000014" playOrder="14">
+  <navLabel><text>Legend of Sagenfeld, in Germany</text></navLabel>
+  <content src="Text/p010.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000015" playOrder="15">
+  <navLabel><text>Speech on the Babies</text></navLabel>
+  <content src="Text/p011.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000016" playOrder="16">
+  <navLabel><text>Speech on the Weather</text></navLabel>
+  <content src="Text/p012.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000017" playOrder="17">
+  <navLabel><text>Concerning the American Language</text></navLabel>
+  <content src="Text/p013.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000018" playOrder="18">
+  <navLabel><text>Rogers</text></navLabel>
+  <content src="Text/p014.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000019" playOrder="19">
+  <navLabel><text>Playlist</text></navLabel>
+  <content src="Text/playlist.xhtml"/>
+ </navPoint>
+</navMap>
+</ncx>
