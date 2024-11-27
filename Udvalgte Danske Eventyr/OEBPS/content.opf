@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="pubID" xml:lang="en" prefix="rendition: http://www.idpf.org/vocab/rendition/#">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+
+    <dc:identifier id="pubID">urn:uuid:b07c4336-cb10-4339-b0b2-abe489c00d84</dc:identifier>
+    <meta refines="#pubID" property="identifier-type" scheme="xsd:string">uuid</meta>
+
+    <dc:title id="title">Udvalgte Danske Eventyr</dc:title>
+    
+    <dc:creator id="aut">Hans Christian Andersen</dc:creator>
+    <meta refines="#aut" property="role" scheme="marc:relators">aut</meta>
+    <meta refines="#aut" property="file-as">Andersen, Hans Christian</meta>
+
+    <dc:contributor id="nrt">Kristoffer Hunsdahl</dc:contributor>
+    <meta refines="#nrt" property="role" scheme="marc:relators">nrt</meta>
+    <meta refines="#nrt" property="file-as">Hunsdahl, Kristoffer</meta>
+    
+    <dc:contributor id="bkp">ReadBeyond</dc:contributor>
+    <meta refines="#bkp" property="role" scheme="marc:relators">bkp</meta>
+    <meta refines="#bkp" property="file-as">ReadBeyond</meta>
+
+    <dc:language>da</dc:language>
+    <dc:date>2015-12-04</dc:date>
+
+    <dc:publisher>ReadBeyond</dc:publisher>
+    <dc:rights>CC BY-NC-SA 3.0</dc:rights>
+    <dc:subject>Tales</dc:subject>
+    <dc:subject>Selected Danish tales</dc:subject>
+    <dc:subject>Udvalgte Danske Eventyr</dc:subject>
+    <dc:subject>Fyrtøjet</dc:subject>
+    <dc:subject>Paradisets Have</dc:subject>
+    <dc:subject>Hvad fatter gør, det er altid det rigtige</dc:subject>
+    <dc:subject>Lille Claus og store Claus</dc:subject>
+    <dc:subject>Den onde fyrste</dc:subject>
+    <dc:subject>Skyggen</dc:subject>
+    <dc:subject>Den flyvende kuffert</dc:subject>
+    <dc:subject>Det er ganske vist!</dc:subject>
+    <dc:subject>Om årtusinder</dc:subject>
+    <dc:subject>Den grimme ælling</dc:subject>
+
+    <dc:description>H. C. Andersen opfattes af de fleste mennesker først og fremmest som en børnebogsforfatter. Det er samtidig meget typisk for hans eventyr, at fortællingerne også rummer passager, der taler til den voksne læsers forståelse. Derfor kan såvel børn som voksne have glæde af at opleve - eller genopleve - historierne. Samlingen her indeholder både kendte og mindre kendte eventyr og rummer et lille udsnit af H. C. Andersens mangfoldige forfatterskab. (Summary by Kristoffer Hunsdahl)</dc:description>
+    
+    <dc:type>Book</dc:type>
+    <meta property="dcterms:modified">2015-12-04T00:00:01Z</meta>
+    <meta property="rendition:layout">reflowable</meta>
+    <meta name="cover" content="cover.jpg" />
+    
+    <!--MEDIA OVERLAY METADATA-->
+    <meta property="media:duration" refines="#s001">00:00:21.73</meta>
+    <meta property="media:duration" refines="#s002">00:15:54.96</meta>
+    <meta property="media:duration" refines="#s003">00:31:06.34</meta>
+    <meta property="media:duration" refines="#s004">00:10:07.06</meta>
+    <meta property="media:duration" refines="#s005">00:24:15.80</meta>
+    <meta property="media:duration" refines="#s006">00:05:18.33</meta>
+    <meta property="media:duration" refines="#s007">00:28:41.60</meta>
+    <meta property="media:duration" refines="#s008">00:12:01.74</meta>
+    <meta property="media:duration" refines="#s009">00:04:54.90</meta>
+    <meta property="media:duration" refines="#s010">00:04:29.40</meta>
+    <meta property="media:duration" refines="#s011">00:22:01.01</meta>
+    <meta property="media:duration">02:39:12.87</meta>
+    <meta property="media:narrator">Kristoffer Hunsdahl</meta>
+    <meta property="media:active-class">-epub-media-overlay-active</meta>
+
+</metadata>
+<manifest>
+    <item id="toc.ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="toc" href="Text/toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    
+    <item id="cover" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="colophon" href="Text/colophon.xhtml" media-type="application/xhtml+xml"/>
+    <item id="playlist" href="Text/playlist.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c001" href="Styles/style.css" media-type="text/css"/>
+
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg" properties="cover-image" />
+    <item id="logofb.png" href="Images/logofb.png" media-type="image/png" />
+    <item id="logotw.png" href="Images/logotw.png" media-type="image/png" />
+    <item id="logowww.png" href="Images/logowww.png" media-type="image/png" />
+
+    <item id="p001" href="Text/p001.xhtml" media-type="application/xhtml+xml" media-overlay="s001"/>
+    <item id="s001" href="Text/p001.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m001" href="Audio/01.mp3" media-type="audio/mpeg"/>
+
+    <item id="p002" href="Text/p002.xhtml" media-type="application/xhtml+xml" media-overlay="s002"/>
+    <item id="s002" href="Text/p002.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m002" href="Audio/02.mp3" media-type="audio/mpeg"/>
+
+    <item id="p003" href="Text/p003.xhtml" media-type="application/xhtml+xml" media-overlay="s003"/>
+    <item id="s003" href="Text/p003.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m003" href="Audio/03.mp3" media-type="audio/mpeg"/>
+
+    <item id="p004" href="Text/p004.xhtml" media-type="application/xhtml+xml" media-overlay="s004"/>
+    <item id="s004" href="Text/p004.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m004" href="Audio/04.mp3" media-type="audio/mpeg"/>
+
+    <item id="p005" href="Text/p005.xhtml" media-type="application/xhtml+xml" media-overlay="s005"/>
+    <item id="s005" href="Text/p005.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m005" href="Audio/05.mp3" media-type="audio/mpeg"/>
+
+    <item id="p006" href="Text/p006.xhtml" media-type="application/xhtml+xml" media-overlay="s006"/>
+    <item id="s006" href="Text/p006.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m006" href="Audio/06.mp3" media-type="audio/mpeg"/>
+
+    <item id="p007" href="Text/p007.xhtml" media-type="application/xhtml+xml" media-overlay="s007"/>
+    <item id="s007" href="Text/p007.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m007" href="Audio/07.mp3" media-type="audio/mpeg"/>
+
+    <item id="p008" href="Text/p008.xhtml" media-type="application/xhtml+xml" media-overlay="s008"/>
+    <item id="s008" href="Text/p008.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m008" href="Audio/08.mp3" media-type="audio/mpeg"/>
+
+    <item id="p009" href="Text/p009.xhtml" media-type="application/xhtml+xml" media-overlay="s009"/>
+    <item id="s009" href="Text/p009.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m009" href="Audio/09.mp3" media-type="audio/mpeg"/>
+
+    <item id="p010" href="Text/p010.xhtml" media-type="application/xhtml+xml" media-overlay="s010"/>
+    <item id="s010" href="Text/p010.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m010" href="Audio/10.mp3" media-type="audio/mpeg"/>
+
+    <item id="p011" href="Text/p011.xhtml" media-type="application/xhtml+xml" media-overlay="s011"/>
+    <item id="s011" href="Text/p011.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m011" href="Audio/11.mp3" media-type="audio/mpeg"/>
+
+    <item id="p012" href="Text/p012.xhtml" media-type="application/xhtml+xml"/>
+</manifest>
+<spine page-progression-direction="ltr" toc="toc.ncx">
+    <itemref idref="cover" linear="yes"/>
+    <itemref idref="colophon" linear="yes"/>
+    <itemref idref="p001" linear="yes"/>
+    <itemref idref="p002" linear="yes"/>
+    <itemref idref="p003" linear="yes"/>
+    <itemref idref="p004" linear="yes"/>
+    <itemref idref="p005" linear="yes"/>
+    <itemref idref="p006" linear="yes"/>
+    <itemref idref="p007" linear="yes"/>
+    <itemref idref="p008" linear="yes"/>
+    <itemref idref="p009" linear="yes"/>
+    <itemref idref="p010" linear="yes"/>
+    <itemref idref="p011" linear="yes"/>
+    <itemref idref="p012" linear="yes"/>
+    <itemref idref="playlist" linear="yes"/>
+</spine>
+<guide>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml" />
+    <reference type="toc" title="Contents" href="Text/toc.xhtml" />
+    <reference type="text" title="Udvalgte Danske Eventyr" href="Text/p001.xhtml" />
+</guide>
+</package>
+
