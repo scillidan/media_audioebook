@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" xml:lang="en" version="2005-1">
+<head>
+ <meta name="dtb:uid" content="urn:uuid:8764d76f-ba02-493c-a33f-e40001ada42c" />
+ <meta name="dtb:depth" content="1" />
+ <meta name="dtb:totalPageCount" content="0" />
+ <meta name="dtb:maxPageNumber" content="0" />
+</head>
+<docTitle><text>Just So Stories</text></docTitle>
+<navMap>
+ <navPoint id="navPoint-000001" playOrder="1">
+  <navLabel><text>Cover</text></navLabel>
+  <content src="Text/cover.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000002" playOrder="2">
+  <navLabel><text>Colophon</text></navLabel>
+  <content src="Text/colophon.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000003" playOrder="3">
+  <navLabel><text>Table Of Contents</text></navLabel>
+  <content src="Text/toc.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000004" playOrder="4">
+  <navLabel><text>Audio-eBooks: A Quick Introduction</text></navLabel>
+  <content src="Text/foreword.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000005" playOrder="5">
+  <navLabel><text>Just So Stories</text></navLabel>
+  <content src="Text/p001.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000006" playOrder="6">
+  <navLabel><text>How the Whale Got His Throat</text></navLabel>
+  <content src="Text/p002.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000007" playOrder="7">
+  <navLabel><text>How the Camel Got His Hump</text></navLabel>
+  <content src="Text/p003.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000008" playOrder="8">
+  <navLabel><text>How the Rhinoceros Got His Skin</text></navLabel>
+  <content src="Text/p004.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000009" playOrder="9">
+  <navLabel><text>How the Leopard Got His Spots</text></navLabel>
+  <content src="Text/p005.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000010" playOrder="10">
+  <navLabel><text>The Elephant’s Child</text></navLabel>
+  <content src="Text/p006.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000011" playOrder="11">
+  <navLabel><text>The Sing-Song of Old Man Kangaroo</text></navLabel>
+  <content src="Text/p007.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000012" playOrder="12">
+  <navLabel><text>The Beginning of the Armadillos</text></navLabel>
+  <content src="Text/p008.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000013" playOrder="13">
+  <navLabel><text>How the First Letter was Written</text></navLabel>
+  <content src="Text/p009.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000014" playOrder="14">
+  <navLabel><text>How the Alphabet was Made</text></navLabel>
+  <content src="Text/p010.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000015" playOrder="15">
+  <navLabel><text>The Crab that Played with the Sea</text></navLabel>
+  <content src="Text/p011.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000016" playOrder="16">
+  <navLabel><text>The Cat who Walked by Himself</text></navLabel>
+  <content src="Text/p012.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000017" playOrder="17">
+  <navLabel><text>The Butterfly that Stamped</text></navLabel>
+  <content src="Text/p013.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000018" playOrder="18">
+  <navLabel><text>Playlist</text></navLabel>
+  <content src="Text/playlist.xhtml"/>
+ </navPoint>
+</navMap>
+</ncx>
